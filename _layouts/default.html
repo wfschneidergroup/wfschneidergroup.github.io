@@ -78,10 +78,11 @@
       </nav>
     </div>
 
-    <div class="container">
-        {% block body %}{% endblock %}
+    <section class="main-content">
+          {{ content }}
 
-    </div>
+
+
     <!-- /.container -->
 
     <footer class="bg-faded text-center py-5">
@@ -89,7 +90,7 @@
         Copyright &copy; 2017 Schneider Research Group. All Rights Reserved.
       </div>
     </footer>
-
+      </section>
 
     <!-- Bootstrap core JavaScript -->
     <script src="/static/jquery.min.js"></script>
