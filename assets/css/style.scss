@@ -2,3 +2,35 @@
 ---
 
 @import "{{ site.theme }}";
+
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: url('{{ site.baseurl }}/assets/img/cover.png');
+  @include large {
+    max-height: 14rem;
+    padding: 3rem 4rem;
+  }
+
+  @include medium {
+    max-height: 12rem;
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    max-height: 10rem;
+    padding: 2rem 1rem;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+}
