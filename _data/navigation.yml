@@ -4,7 +4,7 @@
   url: /
 
 - title: News
-  url: /News
+  url: /news
 
 - title: Group
   url: /group/
@@ -27,16 +27,16 @@
       url: /group/former_post_docs
 
 - title: Research
-  url: /Research
+  url: /research
 
 - title: Publications
-  url: /Publications
+  url: /publications
 
 - title: Resources
-  url: /Resources
+  url: /resources
 
 - title: Courses
-  url: /Courses
+  url: /courses
 
 - title: Group Wiki
-  url: /Group_wiki
+  url: /group_wiki
