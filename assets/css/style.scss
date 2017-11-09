@@ -9,17 +9,17 @@
   background-color: $header-bg-color;
   background-image: url('{{ site.baseurl }}/assets/img/cover.png');
   @include large {
-    max-height: 14rem;
-    padding: 3rem 4rem;
-  }
-
-  @include medium {
     max-height: 12rem;
     padding: 3rem 4rem;
   }
 
-  @include small {
+  @include medium {
     max-height: 10rem;
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    max-height: 8rem;
     padding: 2rem 1rem;
   }
 }

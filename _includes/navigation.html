@@ -1,0 +1,43 @@
+
+<div class="container">
+  <div class="row justify-content-md-center">
+    <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+      <div class="container-fluid">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="nav navbar-nav" >
+            {% for entry in site.data.navigation %}
+                {% if entry.url == current_page %}
+                    {% assign current = ' class="current"' %}
+                {% else %}
+                    <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
+                    {% assign current = null %}
+                {% endif %}
+                {% assign sublinks = entry.sublinks %}
+                {% if sublinks %}
+                  <li class="nav-item dropdown" {{ current }}>
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/Group">Group</a>
+                    <div class="dropdown-menu">
+                      {% for sublink in sublinks %}
+                        <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                      {% endfor %}
+                    </div>
+                  </li>
+
+                {% else %}
+                  <li class="nav-item" {{ current }}><a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+                {% endif %}
+            {% endfor %}
+          </ul>
+
+          <form class="form-inline">
+            <input class="form-control rounded-4 col-sm-6 col-md-7 col-lg-8 ml-1 mr-1" type="text" placeholder="Search">
+            <button class="btn btn-outline-secondary" type="button">
+                <i class="fa fa-search" aria-hidden="true"></i>
+            </button>
+          </form>
+
+        </div>
+      </div>
+    </nav>
+  </div>
+</div>

@@ -1,4 +1,8 @@
-Schneider Group Recent News
+---
+layout: news
+---
+26-October-2017: Anshumaan completes his Ph.D. defense!
+Congratulations to Anshumann Bajpai on successfully defending his Ph.D. dissertations. Anshumann is off to Intel in November. He will be missed!
 
 1-January-14: JPC Editorship.
 Prof. Schneider has joined the Journal of Physical Chemistry as a Senior Editor.

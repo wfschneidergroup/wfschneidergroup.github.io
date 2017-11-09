@@ -3,12 +3,40 @@
 - title: Home
   url: /
 
-- title: Group of Things
+- title: News
+  url: /News
+
+- title: Group
   url: /group/
   sublinks:
-    - title: Sub-item 1
-      url: /group/si1
-    - title: Sub-item 2
-      url: /group/si2
-    - title: Sub-item 3
-      url: /group/si3
+    - title: Bill Schneider
+      url: /group/bill_schneider
+    - title: People
+      url: /group/people
+    - title: Group Photo
+      url: /group/group_photo
+    - title: Group Meeting Schedule
+      url: /group/group_meeting_schedule
+    - title: Ph.D Alumni
+      url: /group/phd_alumni
+    - title: M.Sc Alumni
+      url: /group/msc_alumni
+    - title: Undergraduate Alumni
+      url: /group/undergraduate_alumni
+    - title: Former Post Docs
+      url: /group/former_post_docs
+
+- title: Research
+  url: /Research
+
+- title: Publications
+  url: /Publications
+
+- title: Resources
+  url: /Resources
+
+- title: Courses
+  url: /Courses
+
+- title: Group Wiki
+  url: /Group_wiki
