@@ -1,42 +1,42 @@
 # Belongs at: /_data/navigation.yml
 
 - title: Home
-  url: /
+  url: /pages/
 
 - title: News
-  url: /news
+  url: /pages/news
 
 - title: Group
-  url: /group/
+  url: /pages/group/
   sublinks:
     - title: Bill Schneider
-      url: /group/bill_schneider
+      url: /pages/group/bill_schneider
     - title: People
-      url: /group/people
+      url: /pages/group/people
     - title: Group Photo
-      url: /group/group_photo
+      url: /pages/group/group_photo
     - title: Group Meeting Schedule
-      url: /group/group_meeting_schedule
+      url: /pages/group/group_meeting_schedule
     - title: Ph.D Alumni
-      url: /group/phd_alumni
+      url: /pages/group/phd_alumni
     - title: M.Sc Alumni
-      url: /group/msc_alumni
+      url: /pages/group/msc_alumni
     - title: Undergraduate Alumni
-      url: /group/undergraduate_alumni
+      url: /pages/group/undergraduate_alumni
     - title: Former Post Docs
-      url: /group/former_post_docs
+      url: /pages/group/former_post_docs
 
 - title: Research
-  url: /research
+  url: /pages/research
 
 - title: Publications
-  url: /publications
+  url: /pages/publications
 
 - title: Resources
-  url: /resources
+  url: /pages/resources
 
 - title: Courses
-  url: /courses
+  url: /pages/courses
 
 - title: Group Wiki
-  url: /group_wiki
+  url: /pages/group_wiki

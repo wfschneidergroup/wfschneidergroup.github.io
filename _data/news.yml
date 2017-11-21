@@ -1,0 +1,5 @@
+- title: "Recent news"
+  description: "pages/news.md"
+
+- title: "Archived news"
+  description: "pages/news_archive.md"
