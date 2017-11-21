@@ -322,6 +322,8 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { max-height: 10rem; padding: 3rem 4rem; } }
 @media screen and (max-width: 42em) { .page-header { max-height: 8rem; padding: 2rem 1rem; } }
 
+.main-content { padding: 0.5rem 3rem; }
+
 body { font-family: "TheSans", Helvetica, Arial, sans-serif; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; }
 
 h1, h2, h3, h4, h5, h6, .text-heading { font-family: "Josefin Slab", "Helvetica Neue", Helvetica, Arial, sans-serif; }
@@ -334,7 +336,7 @@ h1, h2, h3, h4, h5, h6 { margin-top: 1rem; margin-bottom: 1rem; font-weight: nor
 .img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img { display: block; width: 100%; height: auto; }
 
 /* ------------------- Carousel Styling ------------------- */
-.carousel-inner { border-radius: 15px; }
+.carousel-inner { border-radius: 15px; position: relative; width: 700px; overflow: hidden; }
 
 .carousel-caption { background-color: rgba(0, 0, 0, 0.5); position: absolute; left: 0; right: 0; bottom: 0; z-index: 10; padding: 0 0 10px 25px; color: #fff; text-align: left; }
 
@@ -343,6 +345,10 @@ h1, h2, h3, h4, h5, h6 { margin-top: 1rem; margin-bottom: 1rem; font-weight: nor
 .carousel-control.left, .carousel-control.right { background-image: none; }
 
 .carousel-item.active, .carousel-item-next, .carousel-item-prev { display: block; }
+
+.carousel-control-next, .carousel-control-prev { margin-left: 2rem; margin-right: 2rem; }
+
+.gallery { display: block; width: 850px; margin: 50px auto 120px auto; }
 
 .read-more-state { display: none; }
 
@@ -356,4 +362,14 @@ h1, h2, h3, h4, h5, h6 { margin-top: 1rem; margin-bottom: 1rem; font-weight: nor
 
 .read-more-trigger { cursor: pointer; display: inline-block; padding: 0 .5em; color: #666; font-size: .9em; line-height: 2; border: 1px solid #ddd; border-radius: .25em; }
 
-th, td { text-align: center; }
+.main-content table { table-layout: fixed; width: 840px; }
+
+.main-content table td { text-align: center; width: 280px; }
+
+.image_bill { float: left; align: top; width: 350px; height: auto; margin-right: 2rem; }
+
+.image_people { align: top; width: 120px; height: 170px; margin-bottom: 1rem; }
+
+.image_research { display: block; margin: 0 auto; }
+
+img { width: 700px; height: 500px; }

@@ -1,15 +1,30 @@
-# Belongs at: /_data/group_photo.yml
 
 - index: 0
-  url: /group_data/group_photos/F6.large.jpg
-  title: Dynamic Multinuclear Sites Formed by Mobilized Copper Ions in NOx Selective Catalytic Reduction
-  author: Christopher Paolucci, Ishant Khurana, Atish A. Parekh, Sichi Li, Arthur J. Shih, Hui Li, John R. Di Iorio, Jonatan D. Albarracin-Caballero, Aleksey Yezerets, Jeffrey T. Miller, W. Nicholas Delgass, Fabio H. Ribeiro, William F. Schneider,*, Rajamani Gounder,*
-  caption: NOx Selective Catalytic Reduction
-  description: Copper ions exchanged into zeolites
-  
+  url: /group_data/group_photos/Group_May17_2017.jpg
+  caption: Farewell to Chris and Quintin 2017
+  description:
+
 - index: 1
-  url: /group_data/group_photos/F6.large.jpg
-  title: Dynamic Multinuclear Sites Formed by Mobilized Copper Ions in NOx Selective Catalytic Reduction
-  author: Christopher Paolucci, Ishant Khurana, Atish A. Parekh, Sichi Li, Arthur J. Shih, Hui Li, John R. Di Iorio, Jonatan D. Albarracin-Caballero, Aleksey Yezerets, Jeffrey T. Miller, W. Nicholas Delgass, Fabio H. Ribeiro, William F. Schneider,*, Rajamani Gounder,*
-  caption: second caption
-  description: Copper ions exchanged into zeolites
+  url: /group_data/group_photos/Group_Aug14_reduced.jpg
+  caption: In the Stadium 2014
+  description:
+
+- index: 2
+  url: /group_data/group_photos/Group_Aug13.jpg
+  caption: Group 2013
+  description:
+
+- index: 3
+  url: /group_data/group_photos/christmas_2012.jpg
+  caption: Christmas Celebration 2012
+  description:
+
+- index: 4
+  url: /group_data/group_photos/Group_May11.jpg
+  caption: Elaine Farewell 2011
+  description:
+
+- index: 5
+  url: /group_data/group_photos/NACS1_Jun11.JPG
+  caption: Group well represented at 2011 NACS meeting
+  description:

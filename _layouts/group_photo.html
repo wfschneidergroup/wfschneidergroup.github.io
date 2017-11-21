@@ -21,7 +21,7 @@
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 
         <ol class="carousel-indicators">
-          {% for entry in site.data.home_photo %}
+          {% for entry in site.data.group_photo %}
             {% if entry.index == 0%}
               <li data-target="#carouselExampleIndicators"  data-slide-to={{entry.index}} class="active"></li>
             {% else %}
@@ -33,12 +33,12 @@
 
         <div class="carousel-inner" role="listbox">
 
-          {% for entry in site.data.home_photo %}
+          {% for entry in site.data.group_photo %}
             {% if entry.index == 0 %}
               <div class="carousel-item active">
                 <img src={{entry.url}}>
                 <div class="carousel-caption">
-                  <h3 style="color:white; margin-top:0.5rem; margin-bottom:0.5rem">{{entry.caption}}</h3>
+                  <h4 style="color:white; margin-top:0.5rem; margin-bottom:2rem">{{entry.caption}}</h3>
                   <p>{{entry.description}}</p>
                 </div>
               </div>
@@ -46,7 +46,7 @@
               <div class="carousel-item">
                 <img src={{entry.url}}>
                 <div class="carousel-caption">
-                  <h3 style="color:white; margin-top:0.5rem; margin-bottom:0.5rem;">{{entry.caption}}</h3>
+                  <h4 style="color:white; margin-top:0.5rem; margin-bottom:2rem;">{{entry.caption}}</h3>
                   <p>{{entry.description}}</p>
                 </div>
               </div>

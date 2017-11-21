@@ -25,6 +25,11 @@
 }
 
 
+.main-content {
+    padding: 0.5rem 3rem;
+}
+
+
 
 body {
   font-family: "TheSans", Helvetica, Arial, sans-serif;
@@ -80,6 +85,9 @@ h6 {
 
 .carousel-inner {
   border-radius: 15px;
+  position: relative;
+  width: 700px;
+  overflow: hidden;
 }
 
 .carousel-caption {
@@ -117,6 +125,16 @@ h6 {
   display: block;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.gallery {
+  display: block;
+  width: 850px;
+  margin: 50px auto 120px auto;}
+
 .read-more-state {
   display: none;
 }
@@ -153,6 +171,38 @@ h6 {
   border-radius: .25em;
 }
 
-th, td {
+.main-content table{
+    table-layout: fixed;
+    width:840px;
+}
+
+.main-content table td {
     text-align: center;
+    width: 280px;
+}
+
+
+.image_bill {
+  float: left;
+  align: top;
+  width:350px;
+  height: auto;
+  margin-right: 2rem;
+}
+
+.image_people {
+  align: top;
+  width:120px;
+  height: 170px;
+  margin-bottom: 1rem;
+}
+
+.image_research {
+  display: block;
+  margin: 0 auto;
+}
+
+img {
+  width: 700px;
+  height: 500px;
 }

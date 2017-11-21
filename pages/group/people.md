@@ -4,55 +4,30 @@ layout: default
 # Current Lab Members
 * * *
 ### Faculty
+![](/group_data/people_photos/wschnei1.png){: .image_bill}
 
-<img align="left" src="/group_data/people_photos/wschnei1.png" style="margin-right: 2rem; margin-bottom: 1rem">
-##### **Bill Schneider**
-
-H. Clifford and Evelyn A. Brosey Professor of Engineering  
-Professor, Chemical and Biomolecular Engineering   
-Concurrent Professor, Chemistry and Biochemistry  
-Sr. Editor, Journal of Physical Chemistry  
+#### [Bill Schneider](/pages/group/bill_schneider)
+Professor, Chemical and Biomolecular Engineering
 
 Office: 123b Cushing Hall  
 Mailing: 182 Fitzpatrick Hall, Notre Dame, Indiana, 46556  
 Email: wschneider@nd.edu  
 Phone: (574) 631-8754  
 Fax: (574) 631-8366  
+<br>
+<br>
+
 
 * * *
 ### Graduate Students
-<img align="left" width="120" height="170" src="/group_data/people_photos/sli12.jpg" style="margin-right: 2rem">
 
-##### **Sichi Li**  
-Grad Student  
-Chemical and Biomolecular Engineering  
-Office: 150 E Fitzpatrick Hall   
-Email: sli12@nd.edu  
-Research Area: Catalysis in zeolites  
-<br/>
+|![](/group_data/people_photos/sli12.jpg){: .image_people} <br/>Sichi Li<br/>150 E Fitzpatrick Hall<br/>sli12@nd.edu <br/>Catalysis in zeolites <br/><br/>                                         |![](/group_data/people_photos/hli8.jpeg){: .image_people} <br/>Hui Li<br/>150 E Fitzpatrick Hall<br/>hli8@nd.edu<br/>NOx Selective Catalytic Reductions                                                                                |![](/group_data/people_photos/pmehta1.jpg){: .image_people} <br/>Prateek Mehta<br/>150 E Fitzpatrick Hall<br/>pmehta1@nd.edu  <br/>Metal-support interfaces<br/><br/>|
 
-<img align="left" width="120" height="170" src="/group_data/people_photos/hli8.jpeg" style="margin-right: 2rem">
-
-##### **Hui Li**  
-Grad Student  
-Chemical and Biomolecular Engineering  
-Office: 150 E Fitzpatrick Hall  
-Email: hli8@nd.edu  
-Research Area: NOx Selective Catalytic Reductions  
-<br/>
-
-<img align="left" width="120" height="170" src="/group_data/people_photos/pmehta1.jpg" style="margin-right: 2rem">
-
-##### **Prateek Mehta**  
-Grad Student  
-Chemical and Biomolecular Engineering  
-Office: 150 E Fitzpatrick Hall    
-Email: pmehta1@nd.edu  
-Research Area: Metal-support interfaces  
-<br/>
 * * *
 # Former Lab Members
 ### Ph.D. Alumni
 
-|:-----------:|:------------:|:------------:|
-|<img width="120" height="170" src="/group_data/people_photos/pmehta1.jpg" style="margin: 1rem"> Dr. Laura Herder<br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|<img width="120" height="170" src="/group_data/people_photos/pmehta1.jpg" style="margin: 1rem"> Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse | <img align="center" width="120" height="170" src="/group_data/people_photos/pmehta1.jpg" style="margin: 1rem"> Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse | <img align="center" width="120" height="170" src="/group_data/people_photos/pmehta1.jpg" style="margin: 1rem"> Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse  |
+|![](/group_data/people_photos/abajpai.jpeg){: .image_people} <br/>Dr. Anshumaan Bajpai<br/>CBE Ph.D., 201<br/>Intel <br/>                                                                      |![](/group_data/people_photos/qsherida.JPG){: .image_people} <br/>Dr. Quintin Sheridan<br/>CBE Ph.D., 2017<br/><br/>                                                                   |![](/group_data/people_photos/cpaolucc.JPG){: .image_people} <br/>Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Stanford  <br/>|
+
+
+|![](/group_data/people_photos/lherder.jpg){: .image_people} <br/>Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|

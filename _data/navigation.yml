@@ -17,14 +17,6 @@
       url: /pages/group/group_photo
     - title: Group Meeting Schedule
       url: /pages/group/group_meeting_schedule
-    - title: Ph.D Alumni
-      url: /pages/group/phd_alumni
-    - title: M.Sc Alumni
-      url: /pages/group/msc_alumni
-    - title: Undergraduate Alumni
-      url: /pages/group/undergraduate_alumni
-    - title: Former Post Docs
-      url: /pages/group/former_post_docs
 
 - title: Research
   url: /pages/research
