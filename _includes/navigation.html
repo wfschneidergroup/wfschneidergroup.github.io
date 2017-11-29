@@ -1,44 +1,45 @@
+<section class="navbar">
+  <div class="navbar-header">
+    <nav class="navbar navbar-toggleable-sm navbar-light">
+      <button class="navbar-toggler hidden-md-up" type="button" data-toggle="collapse" data-target="#collapsingNavbar1">
+        ☰
+      </button>
+      <div class="collapse navbar-collapse" id="collapsingNavbar1">
+        <ul class="nav navbar-nav mr-auto" >
+          {% for entry in site.data.navigation %}
 
-<div class="container-fluid">
-  <div class="row justify-content-md-center">
-    <nav class="navbar navbar-toggleable-md navbar-light bg-faded">
-      <div class="container-fluid">
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="nav navbar-nav" >
-            {% for entry in site.data.navigation %}
-                {% if entry.url == current_page %}
-                    {% assign current = ' class="current"' %}
+            {% if entry.url == "/pages/" %}
+              {% if page.url == entry.url %}
+                {% assign class = 'active' %}
+              {% else}
+                {% assign class = null %}
+              {% endif %}
+            {% else %}
+              {% if page.url contains entry.url %}
+                {% assign class = 'active' %}
                 {% else %}
-                    <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
-                    {% assign current = null %}
-                {% endif %}
-                {% assign sublinks = entry.sublinks %}
-                {% if sublinks %}
-                  <li class="nav-item dropdown" {{ current }}>
-                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/Group">Group</a>
-                    <div class="dropdown-menu">
-                      {% for sublink in sublinks %}
-                        <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
-                      {% endfor %}
-                    </div>
-                  </li>
+                  <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
+                  {% assign class = null %}
+              {% endif %}
+            {% endif %}
 
-                {% else %}
-                  <li class="nav-item" {{ current }}><a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
-                {% endif %}
-            {% endfor %}
-          </ul>
+            {% assign sublinks = entry.sublinks %}
+            {% if sublinks %}
+              <li class="nav-item dropdown {{ class }}">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/Group">Group</a>
+                <div class="dropdown-menu">
+                  {% for sublink in sublinks %}
+                    <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                  {% endfor %}
+                </div>
+              </li>
 
-          <form class="form-inline my-2 my-lg-0">
-            <input class="form-control mr-sm-2 rounded-4 col-sm-6 col-md-7 col-lg-8 ml-2 mr-2" type="text" placeholder="Search">
-            <button class="btn btn-outline-secondary my-2 my-sm-0" type="button">
-              <i class="fa fa-search" aria-hidden="true"></i>
-            </button>
-          </form>
-
-        </div>
+            {% else %}
+              <li class="nav-item {{ class }}" ><a class="nav-link" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
       </div>
     </nav>
   </div>
-
-</div>
+</section>
