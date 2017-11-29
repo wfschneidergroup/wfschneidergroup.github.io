@@ -93,6 +93,8 @@
 
 
 .main-content {
+    max-width: max-content;
+    margin: 0;
     padding: 0.5rem 3rem;
 }
 
@@ -120,6 +122,22 @@ h6 {
   color: #000000;
 }
 
+html {
+  font-size: 16px;
+  // Magic:
+  @media (max-width: 1000px) {
+    font-size: calc(12px + .4vw);
+  }
+}
+.title {
+  font-size: 1.5rem;
+}
+.body {
+  font-size: 1rem;
+}
+
+
+
 .main-content h1,
 .main-content h2,
 .main-content h3,
@@ -127,7 +145,7 @@ h6 {
 .main-content h5,
 .main-content h6,
 .main-content {
-  margin-top: 1rem;
+  margin-top: 0rem;
   margin-bottom: 1rem;
   font-weight: normal;
   color: #000000;
@@ -148,11 +166,42 @@ h6 {
 
 /* ------------------- Carousel Styling ------------------- */
 
+.carousel_img {
+  @include large {
+    width: 700px;
+    height: 500px;
+  }
+
+  @include medium {
+    width: 500px;
+    height: 357px;
+  }
+
+  @include small {
+    width: 300px;
+    height: 214px;
+  }
+}
+
+
 .carousel-inner {
   border-radius: 15px;
   position: relative;
-  width: 700px;
   overflow: hidden;
+  @include large {
+    width: 700px;
+    height: 500px;
+  }
+
+  @include medium {
+    width: 500px;
+    height: 357px;
+  }
+
+  @include small {
+    width: 300px;
+    height: 214px;
+  }
 }
 
 .carousel-caption {
@@ -165,6 +214,10 @@ h6 {
   padding: 0 0 10px 25px;
   color: #fff;
   text-align: left;
+
+  @media screen and (min-width: 64em) { width: 700px; }
+  @media screen and (min-width: 42em) and (max-width: 64em) { width: 500px; }
+  @media screen and (max-width: 42em) { width: 300px; }
 }
 
 .carousel-indicators {
@@ -198,7 +251,19 @@ h6 {
 .gallery {
   display: block;
   width: 850px;
-  margin: 50px auto 120px auto;}
+  margin: 50px auto 120px auto;
+  @include large {
+    width: 850px;
+  }
+
+  @include medium {
+    width: 607px;
+  }
+
+  @include small {
+    width: 364px;
+  }
+}
 
 .read-more-state {
   display: none;

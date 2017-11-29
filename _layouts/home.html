@@ -36,17 +36,17 @@
           {% for entry in site.data.home_photo %}
             {% if entry.index == 0 %}
               <div class="carousel-item active">
-                <img src={{entry.url}}>
+                <img class="carousel_img" src={{entry.url}}>
                 <div class="carousel-caption">
-                  <h3 style="color:white; margin-top:0.5rem; margin-bottom:0.5rem">{{entry.caption}}</h3>
+                  <h5 style="color:white; margin-top:0.5rem; margin-bottom:0.5rem">{{entry.caption}}</h5>
                   <p>{{entry.description}}</p>
                 </div>
               </div>
             {% else %}
               <div class="carousel-item">
-                <img src={{entry.url}}>
+                <img class="carousel_img" src={{entry.url}}>
                 <div class="carousel-caption">
-                  <h3 style="color:white; margin-top:0.5rem; margin-bottom:0.5rem;">{{entry.caption}}</h3>
+                  <h5 style="color:white; margin-top:0.5rem; margin-bottom:0.5rem;">{{entry.caption}}</h5>
                   <p>{{entry.description}}</p>
                 </div>
               </div>

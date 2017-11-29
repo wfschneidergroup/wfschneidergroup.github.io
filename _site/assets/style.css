@@ -346,7 +346,7 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 64em) { .project-tagline2 { margin-left: 1.5rem; font-size: 1.25rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline2 { margin-top: 0.5rem; font-size: 1.05rem; } }
 @media screen and (max-width: 42em) { .project-tagline2 { margin-top: 0.5rem; font-size: 0.85rem; } }
-.main-content { padding: 0.5rem 3rem; }
+.main-content { max-width: max-content; margin: 0; padding: 0.5rem 3rem; }
 
 body { font-family: "TheSans", Helvetica, Arial, sans-serif; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; }
 
@@ -354,15 +354,32 @@ h1, h2, h3, h4, h5, h6, .text-heading { font-family: "Josefin Slab", "Helvetica 
 
 h1, h2, h3, h4, h5, h6 { margin-top: 1rem; margin-bottom: 1rem; font-weight: normal; color: #000000; }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6, .main-content { margin-top: 1rem; margin-bottom: 1rem; font-weight: normal; color: #000000; }
+html { font-size: 16px; }
+@media (max-width: 1000px) { html { font-size: calc(12px + .4vw); } }
+
+.title { font-size: 1.5rem; }
+
+.body { font-size: 1rem; }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6, .main-content { margin-top: 0rem; margin-bottom: 1rem; font-weight: normal; color: #000000; }
 
 /* Makes images fully responsive */
 .img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img { display: block; width: 100%; height: auto; }
 
 /* ------------------- Carousel Styling ------------------- */
-.carousel-inner { border-radius: 15px; position: relative; width: 700px; overflow: hidden; }
+@media screen and (min-width: 64em) { .carousel_img { width: 700px; height: 500px; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .carousel_img { width: 500px; height: 357px; } }
+@media screen and (max-width: 42em) { .carousel_img { width: 300px; height: 214px; } }
+
+.carousel-inner { border-radius: 15px; position: relative; overflow: hidden; }
+@media screen and (min-width: 64em) { .carousel-inner { width: 700px; height: 500px; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .carousel-inner { width: 500px; height: 357px; } }
+@media screen and (max-width: 42em) { .carousel-inner { width: 300px; height: 214px; } }
 
 .carousel-caption { background-color: rgba(0, 0, 0, 0.5); position: absolute; left: 0; right: 0; bottom: 0; z-index: 10; padding: 0 0 10px 25px; color: #fff; text-align: left; }
+@media screen and (min-width: 64em) { .carousel-caption { width: 700px; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .carousel-caption { width: 500px; } }
+@media screen and (max-width: 42em) { .carousel-caption { width: 300px; } }
 
 .carousel-indicators { position: absolute; bottom: 0; right: 0; left: 0; width: 100%; z-index: 15; margin: 0; padding: 0 25px 25px 0; text-align: right; }
 
@@ -373,6 +390,9 @@ h1, h2, h3, h4, h5, h6 { margin-top: 1rem; margin-bottom: 1rem; font-weight: nor
 .carousel-control-next, .carousel-control-prev { margin-left: 2rem; margin-right: 2rem; }
 
 .gallery { display: block; width: 850px; margin: 50px auto 120px auto; }
+@media screen and (min-width: 64em) { .gallery { width: 850px; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .gallery { width: 607px; } }
+@media screen and (max-width: 42em) { .gallery { width: 364px; } }
 
 .read-more-state { display: none; }
 
