@@ -346,7 +346,8 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 64em) { .project-tagline2 { margin-left: 1.5rem; font-size: 1.25rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline2 { margin-top: 0.5rem; font-size: 1.05rem; } }
 @media screen and (max-width: 42em) { .project-tagline2 { margin-top: 0.5rem; font-size: 0.85rem; } }
-.main-content { max-width: max-content; margin: 0; padding: 0.5rem 3rem; }
+.main-content { margin: 0; padding: 0.5rem 3rem; }
+@media screen and (min-width: 64em) { .main-content { max-width: max-content; } }
 
 body { font-family: "TheSans", Helvetica, Arial, sans-serif; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; }
 
@@ -360,6 +361,8 @@ html { font-size: 16px; }
 .title { font-size: 1.5rem; }
 
 .body { font-size: 1rem; }
+
+a:visited { color: #286dc0; }
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6, .main-content { margin-top: 0rem; margin-bottom: 1rem; font-weight: normal; color: #000000; }
 
@@ -375,6 +378,7 @@ html { font-size: 16px; }
 @media screen and (min-width: 64em) { .carousel-inner { width: 700px; height: 500px; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .carousel-inner { width: 500px; height: 357px; } }
 @media screen and (max-width: 42em) { .carousel-inner { width: 300px; height: 214px; } }
+.carousel-inner > .item { -webkit-transition: 0.3s, ease-in-out, left; -moz-transition: .3s, ease-in-out, left; -o-transition: .3s, ease-in-out, left; transition: .3s, ease-in-out, left; }
 
 .carousel-caption { background-color: rgba(0, 0, 0, 0.5); position: absolute; left: 0; right: 0; bottom: 0; z-index: 10; padding: 0 0 10px 25px; color: #fff; text-align: left; }
 @media screen and (min-width: 64em) { .carousel-caption { width: 700px; } }
@@ -383,11 +387,17 @@ html { font-size: 16px; }
 
 .carousel-indicators { position: absolute; bottom: 0; right: 0; left: 0; width: 100%; z-index: 15; margin: 0; padding: 0 25px 25px 0; text-align: right; }
 
+.carousel-control-next-icon:after { content: '\3009'; font-size: 45px; color: gray; }
+
+.carousel-control-prev-icon:after { content: '\3008'; font-size: 45px; color: gray; }
+
 .carousel-control.left, .carousel-control.right { background-image: none; }
 
 .carousel-item.active, .carousel-item-next, .carousel-item-prev { display: block; }
 
-.carousel-control-next, .carousel-control-prev { margin-left: 2rem; margin-right: 2rem; }
+@media screen and (min-width: 64em) { .carousel-control-next, .carousel-control-prev { align: center; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .carousel-control-next, .carousel-control-prev { align: center; } }
+@media screen and (max-width: 42em) { .carousel-control-next, .carousel-control-prev { align: center; } }
 
 .gallery { display: block; width: 850px; margin: 50px auto 120px auto; }
 @media screen and (min-width: 64em) { .gallery { width: 850px; } }
@@ -419,7 +429,9 @@ html { font-size: 16px; }
 img { width: 700px; height: 500px; }
 
 /* responsive nav stacked liked 3.x */
-.navbar-collapse.show { width: 12rem; top: 100%; right: 0; margin-top: 15px; padding: 5px; border: 1px solid #f2f3f3; border-radius: 4px; background: #fff; box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); float: left; z-index: 1000; }
+.dropdown-item { color: rgba(0, 0, 0, 0.7) !important; }
+
+.navbar-collapse.show { width: 16rem; top: 100%; right: 0; margin-top: 15px; padding: 5px; border: 1px solid #f2f3f3; border-radius: 4px; background: #fff; box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12); float: left; z-index: 1000; }
 
 .navbar-collapse.collapsing { position: relative; height: 0; overflow: hidden; -webkit-transition: height .05s ease; -o-transition: height .05s ease; transition: height .05s ease; }
 

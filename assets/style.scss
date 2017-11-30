@@ -93,9 +93,10 @@
 
 
 .main-content {
-    max-width: max-content;
     margin: 0;
     padding: 0.5rem 3rem;
+    @include large {
+        max-width: max-content;}
 }
 
 body {
@@ -129,6 +130,7 @@ html {
     font-size: calc(12px + .4vw);
   }
 }
+
 .title {
   font-size: 1.5rem;
 }
@@ -136,7 +138,9 @@ html {
   font-size: 1rem;
 }
 
-
+a:visited {
+    color: #286dc0;
+}
 
 .main-content h1,
 .main-content h2,
@@ -202,6 +206,14 @@ html {
     width: 300px;
     height: 214px;
   }
+
+  > .item {
+    -webkit-transition: 0.3s, ease-in-out, left;
+    -moz-transition: .3s, ease-in-out, left;
+    -o-transition: .3s, ease-in-out, left;
+    transition: .3s, ease-in-out, left;
+  }
+
 }
 
 .carousel-caption {
@@ -232,6 +244,19 @@ html {
   text-align: right;
 }
 
+.carousel-control-next-icon:after,
+{
+  content: '\3009';
+  font-size: 45px;
+  color: gray;
+}
+
+.carousel-control-prev-icon:after {
+  content: '\3008';
+  font-size: 45px;
+  color: gray;
+}
+
 .carousel-control.left,
 .carousel-control.right {
   background-image: none;
@@ -243,9 +268,6 @@ html {
   display: block;
 }
 
-.carousel-control-next, .carousel-control-prev {
-    margin-left: 2rem;
-    margin-right: 2rem;
 }
 
 .gallery {
@@ -339,8 +361,12 @@ img {
 
 
 /* responsive nav stacked liked 3.x */
+.dropdown-item {
+    color: rgba(0,0,0,.7)!important;
+}
+
 .navbar-collapse.show {
-      width: 12rem;
+      width: 16rem;
       top: 100%;
       right: 0;
       margin-top: 15px;
