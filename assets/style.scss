@@ -181,8 +181,8 @@ a:visited {
   }
 
   @include small {
-    width: 375px;
-    height: 268px;
+    width: 350px;
+    height: 250px;
   }
 }
 
@@ -202,8 +202,8 @@ a:visited {
   }
 
   @include small {
-    width: 375px;
-    height: 268px;
+    width: 350px;
+    height: 250px;
   }
 
   > .item {
@@ -228,7 +228,7 @@ a:visited {
 
   @media screen and (min-width: 64em) { width: 700px; }
   @media screen and (min-width: 42em) and (max-width: 64em) { width: 600px; }
-  @media screen and (max-width: 42em) { width: 375px; }
+  @media screen and (max-width: 42em) { width: 350px; }
 }
 .carousel-control-next {
   left: 75%;
@@ -252,7 +252,7 @@ a:visited {
   }
 
   @include small {
-    width: 455px;
+    width: 425px;
   }
 }
 
