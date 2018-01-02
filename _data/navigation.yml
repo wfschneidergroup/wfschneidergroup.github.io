@@ -3,9 +3,6 @@
 - title: Home
   url: /pages/
 
-- title: News
-  url: /pages/news
-
 - title: Group
   url: /pages/group/
   sublinks:

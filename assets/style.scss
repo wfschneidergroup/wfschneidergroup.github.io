@@ -154,7 +154,30 @@ a:visited {
   color: #000000;
 }
 
+.main-content {
+    @include small {
+        padding: 0.25rem 2rem;}
+    @include medium {
+        padding: 0.5rem 2.5rem;}
+    @include large {
+        padding: 1rem 2.5rem;}
+}
 
+.col{
+  @include small {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+
+.col-lg-4{
+  @include small {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 30px;
+  }
+
+}
 /* Makes images fully responsive */
 
 .img-responsive,
@@ -169,19 +192,20 @@ a:visited {
 
 /* ------------------- Carousel Styling ------------------- */
 
+
 .carousel_img {
   @include large {
-    width: 700px;
-    height: 500px;
+    width: 610px;
+    height: 437px;
   }
 
   @include medium {
-    width: 600px;
-    height: 429px;
+    width: 444px;
+    height: 318px;
   }
 
   @include small {
-    width: 350px;
+    width: 345.6px;
     height: 250px;
   }
 }
@@ -192,18 +216,18 @@ a:visited {
   position: relative;
   overflow: hidden;
   @include large {
-    width: 700px;
-    height: 500px;
+    width: 610px;
+    height: 507px;
   }
 
   @include medium {
-    width: 600px;
-    height: 429px;
+    width: 444px;
+    height: 380px;
   }
 
   @include small {
-    width: 350px;
-    height: 250px;
+    width: 345.6px;
+    height: 300px;
   }
 
   > .item {
@@ -220,39 +244,57 @@ a:visited {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 0;
   z-index: 10;
   padding: 0 0 10px 25px;
   color: #fff;
   text-align: left;
-
-  @media screen and (min-width: 64em) { width: 700px; }
-  @media screen and (min-width: 42em) and (max-width: 64em) { width: 600px; }
-  @media screen and (max-width: 42em) { width: 350px; }
-}
-.carousel-control-next {
-  left: 75%;
-  right: 0;
-}
-
-.carousel-control-prev {
-  left: 11%;
-  right: 0;
-}
-.gallery {
-  display: block;
-  width: 850px;
-  margin: 50px auto 120px auto;
   @include large {
-    width: 850px;
+    width: 610px; top: 437px; bottom: -70px;
   }
 
   @include medium {
-    width: 729px;
+    width: 444px; top: 318px; bottom: -70px;
   }
 
   @include small {
-    width: 425px;
+    width: 350px; top: 250px; bottom: -50px;
+  }
+}
+
+.carousel-indicators {
+    @include large {
+      bottom: 2.5rem;
+    }
+    @include medium {
+      bottom: 2.2rem;
+    }
+    @include small {
+      bottom: 2rem;
+    }
+}
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%343A40' viewBox='0 0 8 8'%3E%3Cpath d='M1.5 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%343A40' viewBox='0 0 8 8'%3E%3Cpath d='M4 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+
+
+.gallery {
+  display: block;
+  @include large {
+    width: 600;
+  }
+
+  @include medium {
+    width: 444px;
+  }
+
+  @include small {
+    width: 345.6px;
   }
 }
 
@@ -301,7 +343,6 @@ a:visited {
     text-align: center;
     width: 280px;
 }
-
 
 .image_bill {
   float: left;

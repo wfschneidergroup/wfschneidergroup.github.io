@@ -2,21 +2,6 @@
 layout: default
 ---
 # Current Lab Members
-* * *
-### Faculty
-![](/group_data/people_photos/wschnei1.png){: .image_bill}
-
-#### [Bill Schneider](/pages/group/bill_schneider)
-Professor, Chemical and Biomolecular Engineering
-
-Office: 123b Cushing Hall  
-Mailing: 182 Fitzpatrick Hall, Notre Dame, Indiana, 46556  
-Email: wschneider@nd.edu  
-Phone: (574) 631-8754  
-Fax: (574) 631-8366  
-<br>
-<br>
-
 
 * * *
 ### Graduate Students

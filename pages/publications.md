@@ -2,8 +2,9 @@
 layout: default
 ---
 ###     Refereed Publications and Book Chapters
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a name="RecentPublications">Recent Publications</a>       
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="#2015">2011-2015&emsp;&emsp;&emsp;</a>
+
+<a name="RecentPublications">Recent Publications</a>       
+<a href="#2015">2011-2015</a>&emsp;&emsp;&emsp;
 <a href="#2015">2006-2010</a>&emsp;&emsp;&emsp;
 <a href="#2015">2001-2005</a>&emsp;&emsp;&emsp;
 <a href="#2015">1996-2000</a>&emsp;&emsp;&emsp;
