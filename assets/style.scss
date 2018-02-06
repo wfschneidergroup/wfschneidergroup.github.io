@@ -170,7 +170,9 @@ p {
 
 .row {
   margin-left: 1rem;
-  margin-right: 1rem
+  margin-right: 1rem;
+  max-width: 100%;
+  padding-right: 2rem;
 }
 .column {
   padding-left: 0;
