@@ -300,6 +300,7 @@ p {
 
 .gallery {
   display: block;
+  margin-top: 1rem !important;
   @include large {
     width: 600;
   }
