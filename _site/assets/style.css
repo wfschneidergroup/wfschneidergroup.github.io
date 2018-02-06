@@ -346,8 +346,7 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 64em) { .project-tagline2 { margin-left: 1.5rem; font-size: 1.25rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline2 { margin-top: 0.5rem; font-size: 1.05rem; } }
 @media screen and (max-width: 42em) { .project-tagline2 { margin-top: 0.5rem; font-size: 0.85rem; } }
-.main-content { margin: 0; }
-@media screen and (min-width: 64em) { .main-content { max-width: max-content; } }
+.main-content { margin: 0; max-width: 100%; }
 
 body { font-family: "TheSans", Helvetica, Arial, sans-serif; -webkit-background-size: cover; -moz-background-size: cover; background-size: cover; -o-background-size: cover; }
 

@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
+
 .page-header {
   color: $header-heading-color;
   text-align: center;
@@ -64,12 +65,13 @@
   color: $header-heading-color;
   text-align: center;
   background-color: #0C2340;
+
   @include large {
     max-height: 6.5rem;
     padding: 1rem 1rem;
   }
 
-  @include medium {
+  @include medium  {
     max-height: 4.5rem;
     padding: 0.5rem 2.5rem;
   }
@@ -94,8 +96,7 @@
 
 .main-content {
     margin: 0;
-    @include large {
-        max-width: max-content;}
+    max-width: 100%;
 }
 
 body {
