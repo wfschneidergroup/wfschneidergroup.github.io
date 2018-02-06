@@ -421,6 +421,8 @@ a:visited { color: #286dc0; }
 
 .main-content table td { text-align: center; width: 280px; }
 
+.p { max-width: 100%; }
+
 .image_bill { float: left; align: top; width: 350px; height: auto; margin-right: 2rem; }
 
 .image_people { align: top; width: 120px; height: 170px; margin-bottom: 1rem; }
