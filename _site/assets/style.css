@@ -371,6 +371,10 @@ a:visited { color: #286dc0; }
 
 p { max-width: 100%; }
 
+.row { margin-left: 1rem; margin-right: 1rem; }
+
+.column { padding-left: 0; padding-right: 2rem; }
+
 @media screen and (max-width: 42em) { .col { padding-left: 0px; padding-right: 0px; } }
 
 @media screen and (max-width: 42em) { .col-lg-4 { padding-left: 0px; padding-right: 0px; padding-top: 30px; } }

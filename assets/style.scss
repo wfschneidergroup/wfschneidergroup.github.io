@@ -168,6 +168,14 @@ p {
   max-width: 100%;
 }
 
+.row {
+  margin-left: 1rem;
+  margin-right: 1rem
+}
+.column {
+  padding-left: 0;
+  padding-right: 2rem;
+}
 .col{
   @include small {
     padding-left: 0px;
