@@ -316,6 +316,9 @@ p {
 
 .twitter {
   display: block;
+
+    width: 345.6px;
+    height: 350px;
   @include large {
     width: 300px;
     height: 523px;
@@ -324,6 +327,11 @@ p {
   @include medium {
     width: 222px;
     height: 395px;
+  }
+
+  @include small {
+    width: 345.6px;
+    height: 350px;
   }
 
   @include small {
