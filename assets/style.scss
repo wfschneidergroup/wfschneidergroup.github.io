@@ -302,7 +302,7 @@ p {
   display: block;
   margin-top: 1rem !important;
   @include large {
-    width: 600;
+    width: 600px;
   }
 
   @include medium {
@@ -311,6 +311,24 @@ p {
 
   @include small {
     width: 345.6px;
+  }
+}
+
+.twitter {
+  display: block;
+  @include large {
+    width: 300px;
+    height: 523px;
+  }
+
+  @include medium {
+    width: 222px;
+    height: 395px;
+  }
+
+  @include small {
+    width: 345.6px;
+    height: 350px;
   }
 }
 
