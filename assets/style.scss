@@ -320,7 +320,7 @@ p {
 }
 
 .twitter {
-  display: block;
+  display: inline-block;
   max-width: 345.6px;
   @include large {
     width: 345.6px;
