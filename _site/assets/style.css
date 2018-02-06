@@ -413,7 +413,7 @@ p { max-width: 100%; }
 @media screen and (min-width: 42em) and (max-width: 64em) { .gallery { width: 444px; } }
 @media screen and (max-width: 42em) { .gallery { width: 345.6px; } }
 
-.twitter { display: inline-block; position: relative; max-width: 345.6px; }
+.twitter { display: inline-block; overflow: hidden; max-width: 345.6px; }
 @media screen and (min-width: 64em) { .twitter { width: 345.6px; height: 523px; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .twitter { width: auto; height: 395px; } }
 @media screen and (max-width: 42em) { .twitter { width: 345.6px; height: 350px; } }
