@@ -303,14 +303,16 @@ p {
   margin-top: 1rem !important;
   @include large {
     width: 600;
+    align: center !important;
   }
 
   @include medium {
     width: 444px;
+    align: center !important;
   }
 
   @include small {
-    width: 345.6px;
+    align: center !important;
   }
 }
 
