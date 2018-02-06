@@ -379,6 +379,8 @@ p { max-width: 100%; }
 
 @media screen and (max-width: 42em) { .col-lg-4 { padding-left: 0px; padding-right: 0px; padding-top: 30px; } }
 
+.col-md-8 { padding-left: 0px; padding-right: 0px; }
+
 /* Makes images fully responsive */
 .img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img { display: block; width: 100%; height: auto; }
 
