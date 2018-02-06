@@ -321,6 +321,7 @@ p {
 
 .twitter {
   display: inline-block;
+  position: relative;
   max-width: 345.6px;
   @include large {
     width: 345.6px;
@@ -336,6 +337,12 @@ p {
     width: 345.6px;
     height: 350px;
   }
+}
+
+.twitter::after {
+  content: "";
+  display: block;
+  clear: both;
 }
 
 .read-more-state {
