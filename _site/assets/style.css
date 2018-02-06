@@ -369,6 +369,8 @@ a:visited { color: #286dc0; }
 @media screen and (min-width: 42em) and (max-width: 64em) { .main-content { padding: 0.5rem 2.5rem; } }
 @media screen and (min-width: 64em) { .main-content { padding: 1rem 2.5rem; } }
 
+p { max-width: 100%; }
+
 @media screen and (max-width: 42em) { .col { padding-left: 0px; padding-right: 0px; } }
 
 @media screen and (max-width: 42em) { .col-lg-4 { padding-left: 0px; padding-right: 0px; padding-top: 30px; } }
@@ -420,8 +422,6 @@ a:visited { color: #286dc0; }
 .main-content table { table-layout: fixed; width: 840px; }
 
 .main-content table td { text-align: center; width: 280px; }
-
-.p { max-width: 100%; }
 
 .image_bill { float: left; align: top; width: 350px; height: auto; margin-right: 2rem; }
 

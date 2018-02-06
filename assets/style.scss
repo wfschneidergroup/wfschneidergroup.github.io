@@ -164,6 +164,10 @@ a:visited {
         padding: 1rem 2.5rem;}
 }
 
+p {
+  max-width: 100%;
+}
+
 .col{
   @include small {
     padding-left: 0px;
@@ -343,10 +347,6 @@ a:visited {
 .main-content table td {
     text-align: center;
     width: 280px;
-}
-
-.p {
-  max-width: 100%;
 }
 
 .image_bill {
