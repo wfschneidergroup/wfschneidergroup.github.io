@@ -401,8 +401,10 @@ p {
 .image_people {
   align: top;
   width:120px;
-  height: 170px;
+  height:auto;
   margin-bottom: 1rem;
+  margin-right: 1rem;
+  float: left;
 }
 
 .image_research {
