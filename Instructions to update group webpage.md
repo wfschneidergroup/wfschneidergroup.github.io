@@ -4,15 +4,15 @@ home page - figures from paper
 people photos  
 research descriptions and figures  
 
-## Section A. Preparations before you can edit files  
+## Section A. Preparations before you can update webpage  
 The files to make the group webpage are hosted on Github. Before you can make any modifications, you have to complete the three things.  
 1. Have a Github account  
-2. Ask Prof. Schneider (or anyone else who has access to the group Github account) to add you to the contributor to the webpage repository.  
+2. Ask Prof. Schneider (or anyone else who has access to the group Github account) to add you as a contributor to the webpage repository.  
 3. Then git clone the web folder to your own laptop.  
 ```
-git clone link   
+git clone folder_link   
 ```
-## Section B. General Procedures to edit files  
+## Section B. General Procedures to update webpage
  After you have a Github account and have cloned the web folder to your local folder, you can start to make modifications to update the web page. Each update consists of 3 steps.  
 1. Git pull to download the latest version of files  
 ```
@@ -23,7 +23,7 @@ When you have the latest version of files, you can make any modifications on the
 3. Git add, commit and push the files to the remote  
 ```
 git add .   
-git commit -m ‘description of the update’  
+git commit -m ‘summary of the update’  
 git push   
 ```
 4. Preview the webpage on your local host  
@@ -43,7 +43,7 @@ You can edit each part by change the text after the colon.
 The markdown files are used to edit the content(paragraphs and photos) on each page. Markdown files have plain text formatting syntax and can be easily edited. Here is a useful cheatsheet to edit markdown files: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
 3. Photos in folder  
 You may need to add photos in several folders.  
-## Section D. Files to edit for each page  
+## Section D. Files to modify for each page  
 1. Home page carousal  
 The home page carousal has the highlighted figures from papers published by our group. To update the figures in carousal, you need 2 steps.  
 Add new figure in the folder: group_data/home_photoes/  
