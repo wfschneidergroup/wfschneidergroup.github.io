@@ -4,7 +4,7 @@ home page - figures from paper
 people photos  
 research descriptions and figures  
 
-## Section A. Preparations before you can update webpage  
+## Section A. Preparations before updating the webpage  
 The files to make the group webpage are hosted on Github. Before you can make any modifications, you have to complete the three things.  
 1. Have a Github account  
 2. Ask Prof. Schneider (or anyone else who has access to the group Github account) to add you as a contributor to the webpage repository.  
