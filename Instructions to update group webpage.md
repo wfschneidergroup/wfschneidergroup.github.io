@@ -9,18 +9,18 @@ The files to make the group webpage are hosted on Github. Before you can make an
 1. Have a Github account  
 2. Ask Prof. Schneider (or anyone else who has access to the group Github account) to add you to the contributor to the webpage repository.    
 3. Then git clone the web folder to your own laptop.  
-> git clone link  
+'''git clone link   '''
 ## Section B. General Procedures to edit files  
  After you have a Github account and have cloned the web folder to your local folder, you can start to make modifications to update the web page. Each update consists of 3 steps.  
 1. Git pull to download the latest version of files    
-> git pull  
+'''git pull  '''
 2. Edit/add/delete specific files   
 When you have the latest version of files, you can make any modifications on the files in your local   folder. The details to make modifications for each page are listed in section C&D.  
 3. Git add, commit and push the files to the remote    
 After you make modifications, you have to  
-> git add .  
-> git commit -m ‘description of the update’  
-> git push  
+'''git add .  
+git commit -m ‘description of the update’   
+git push   '''
 4. Preview the webpage on your local host    
 If you want to preview the webpage on your local host before you push the files to Github, you can follow the instructions in the following link:  
 https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/  
@@ -34,8 +34,8 @@ You may need to add photos in several folders.
 ## Section D. Files to edit for each page  
 1. Home page carousal    
 The home page carousal has the highlighted figures from papers published by our group. To update the figures in carousal, you need 2 steps.  
-..1. Add new figure in the folder: group_data/home_photoes/  
-..2. Edit text in the file: _data/home_photo.yml  
+1) Add new figure in the folder: group_data/home_photoes/  
+2) Edit text in the file: _data/home_photo.yml  
 For each photo, the text includes five pieces of information:  
 - index: the order of the photos that you want to show  
 - url: the directory of the photo, as ‘/group_data/home_photos/{Figure name in the folder}’  
