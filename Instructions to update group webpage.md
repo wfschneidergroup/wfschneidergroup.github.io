@@ -1,8 +1,8 @@
 Transfer repo to group Github account  
-apply for a host name  
+apply for subdomain name such as schneidergroup.nd.edu
 home page - figures from paper  
 people photos  
-research descriptions and figures  
+research area descriptions and figures  
 
 ## Section A. Preparations before updating the webpage  
 The files to make the group webpage are hosted on Github. Before you can make any modifications, you have to complete the three things.  
@@ -40,7 +40,7 @@ For example, the home carousal YML file includes five parts of information for e
   5)caption: the caption you would like to show on the figure  
 You can edit each part by change the text after the colon.  
 2. Markdown files  
-The markdown files are used to edit the content(paragraphs and photos) on each page. Markdown files have plain text formatting syntax and can be easily edited. Here is a useful cheatsheet to edit markdown files: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+The markdown files are used to edit the content(paragraphs and photos) on each page. Markdown files have plain text formatting syntax and can be easily edited. Here are two useful cheatsheet to edit markdown files: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, and https://beegit.com/markdown-cheat-sheet.
 3. Photos in folder  
 You may need to add photos in several folders.  
 ## Section D. Files to modify for each page  
