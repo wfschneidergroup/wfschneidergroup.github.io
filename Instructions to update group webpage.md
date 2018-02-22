@@ -33,17 +33,15 @@ https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-
 1. YML files    
 There are two photo carousals in the group web, the home page carousal and group photo carousal. The YML files are used to control the order and format for each photo. They can be edited as text files.  
 For example, the home carousal YML file includes five parts of information for each photo:  
-- index: the order of the photos that you want to show  
-- url: the directory of the photo, as ‘/group_data/home_photos/{Figure name in the folder}’  
-- title: the paper title  
-- author: the author of the paper  
-- caption: the caption you would like to show on the figure  
+1) index: the order of the photos that you want to show  
+2) url: the directory of the photo, as ‘/group_data/home_photos/{Figure name in the folder}’  
+3) title: the paper title  
+4) author: the author of the paper  
+5) caption: the caption you would like to show on the figure  
 You can edit each part by change the text after the colon.  
 2. Markdown files    
-The markdown files are used to edit the content(paragraphs and photos) on each page. Markdown files have plain text formatting syntax and can be easily edited.  
-
-Here is a useful cheatsheet to edit markdown files: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
-3. Photos in folder    
+The markdown files are used to edit the content(paragraphs and photos) on each page. Markdown files have plain text formatting syntax and can be easily edited. Here is a useful cheatsheet to edit markdown files: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+3. Photos in folder  
 You may need to add photos in several folders.  
 ## Section D. Files to edit for each page  
 1. Home page carousal    
