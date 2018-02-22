@@ -46,22 +46,22 @@ You may need to add photos in several folders.
 ## Section D. Files to modify for each page  
 1. Home page carousal  
 The home page carousal has the highlighted figures from papers published by our group. To update the figures in carousal, you need 2 steps.  
-Add new figure in the folder: group_data/home_photoes/  
-Edit text in the file: _data/home_photo.yml  
+Add/change figure(width:height = 4:3) in the folder: group_data/home_photoes/  
+Edit figure order, path, caption and other information in the file: _data/home_photo.yml  
 2. Group-Bill Schneider page  
-Edit content in this markdown file: pages/group/bill_schneider.md.  
-Change photo in the folder: group_data/people_photos  
+Edit content(Prof. Schneider's titles, contact information or photo path) in this markdown file: pages/group/bill_schneider.md.  
+Add/change Prof. Schneider's photo in the folder: group_data/people_photos  
 3. Group-People page  
-Edit content in this markdown file: pages/group/people.md.  
-Change photo  
+Add/change group member's photo(width:height = 16:23) in the folder: group_data/people_photos  
+Edit content(member's name, photo path, contact info) in this markdown file: pages/group/people.md.  
 4. Group-Group photo page  
-Change photos in the folder: group_data/group_photos  
-Edit text in the file: _data/home_photo.yml  
+Add/change group photos(width:height = 4:3) in the folder: group_data/group_photos  
+Edit photo order, path, caption and other information in the file: _data/home_photo.yml  
 5. Research page  
-Edit content in this markdown file: pages/research.md  
+Edit research content in this markdown file: pages/research.md  
 6. Publications page  
-Edit content in this markdown file: pages/publications.md  
+Add publications in this markdown file: pages/publications.md  
 7. Resources page  
-Edit content in this markdown file: pages/resources.md  
+Edit resources info in this markdown file: pages/resources.md  
 8. Courses page  
-Edit content in this markdown file: pages/courses.md  
+Edit course info in this markdown file: pages/courses.md  
