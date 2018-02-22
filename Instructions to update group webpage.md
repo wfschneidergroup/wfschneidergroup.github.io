@@ -1,5 +1,5 @@
 Transfer repo to group Github account  
-apply for subdomain name such as schneidergroup.nd.edu
+apply for subdomain name such as schneidergroup.nd.edu  
 home page - figures from paper  
 people photos  
 research area descriptions and figures  
