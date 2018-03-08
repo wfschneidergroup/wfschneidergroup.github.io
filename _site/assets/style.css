@@ -317,13 +317,13 @@ a:hover { text-decoration: underline; }
 
 .site-footer-credits { color: #819198; }
 
-.container-wide { max-width: 1024px; margin: auto !important; }
+.container-wide { max-width: 1366px; margin: auto !important; }
 
-.brandbar.theme-bb-lightgray { max-width: 1024px; margin: auto !important; }
+.brandbar.theme-bb-lightgray { max-width: 1366px; margin: auto !important; }
 
-.page-header2 { max-width: 1024px; margin: auto !important; }
+.page-header2 { max-width: 1366px; margin: auto !important; }
 
-.navbar { max-width: 1024px; margin: auto !important; }
+.navbar { max-width: 1366px; margin: auto !important; }
 
 .page-header { color: #fff; text-align: center; background-color: #159957; background-image: url("/assets/img/cover.png"); }
 @media screen and (min-width: 64em) { .page-header { max-height: 12rem; padding: 3rem 4rem; } }
@@ -354,7 +354,7 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 64em) { .project-tagline2 { margin-left: 1.5rem; font-size: 1.25rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .project-tagline2 { margin-top: 0.5rem; font-size: 1.05rem; } }
 @media screen and (max-width: 42em) { .project-tagline2 { margin-top: 0.5rem; font-size: 0.85rem; } }
-.main-content { margin: auto; max-width: 1024px; }
+.main-content { margin: auto; max-width: 1366px; }
 
 .main-content table { margin: auto; width: 100%; }
 
