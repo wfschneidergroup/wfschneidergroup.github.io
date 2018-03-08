@@ -51,7 +51,7 @@ layout: default
     <a name="2015"></a> **Publications 2011-2015**
     &emsp;&emsp;&emsp;<a href="#RecentPublications">&lt;&lt; back</a>
     * * *
-1. M. W. Penninger, C. H. Kim, L. T. Thomson, and W. F. Schneider, “DFT Analysis of NO Oxidation Intermediates on Undoped and Doped LaCoO3 Perovskite,” *J. Phys. Chem. C*, **2015**, 119, 20488-20494. [doi:10.1021/acs.jpcc.5b06351]（https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b06351）
+1. M. W. Penninger, C. H. Kim, L. T. Thomson, and W. F. Schneider, “DFT Analysis of NO Oxidation Intermediates on Undoped and Doped LaCoO3 Perovskite,” *J. Phys. Chem. C*, **2015**, 119, 20488-20494. [doi:10.1021/acs.jpcc.5b06351](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.5b06351)
 
 1. D. C. McCalman, L. Sun, Y. Zhang, J. F. Brennecke, E. J. Maginn, and W. F. Schneider, “Speciation, Conductivities, Diffusivities, and Electrochemical Reduction as a Function of Water Content in Mixtures of Hydrated Chromium Chloride/Choline Chloride,” *J. Phys. Chem. B*, **2015**, 119, 6018 - 6023. [doi:10.1021/acs.jpcb.5b01986](https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.5b01986)
 
@@ -138,7 +138,7 @@ layout: default
     * * *
 1. B. E. Gurkan, B. F. Goodrich, E. M. Mindrup, L. E. Ficke, M. Massel, S. Seo, T. P. Senftle, H. Wu, M. F. Glaser, J. K. Shah, J. F. Brennecke, E. J. Maginn, and W. F. Schneider, “Molecular Design of High Capacity, Low Viscosity, Chemically Tunable Ionic Liquids for CO2 Capture,” *J. Phys. Chem. Lett.*, **2010**, 1, 3494-3499. [doi:10.1021/jz101533k](https://pubs.acs.org/doi/abs/10.1021/jz101533k). Science Editors' Choice article 17 December 2010
 
-1. R. B. Getman and W. F. Schneider, “DFT-Based Coverage-Dependent Model of Pt-Catalyzed NO Oxidation,” *ChemCatChem*, **2010**, 2, 1450-1460. doi:10.1002/cctc.201000146.
+1. R. B. Getman and W. F. Schneider, “DFT-Based Coverage-Dependent Model of Pt-Catalyzed NO Oxidation,” *ChemCatChem*, **2010**, 2, 1450-1460. [doi:10.1002/cctc.201000146](http://onlinelibrary.wiley.com/doi/10.1002/cctc.201000146/abstract).
 
 1. H. Wang and W. F. Schneider, “Nature and role of surface carbonates and bicarbonates in CO oxidation over RuO2,” *Phys. Chem. Chem. Phys.*, **2010**, 12, 6367-6374. [doi:10.1039/c001683g](http://pubs.rsc.org/en/content/articlelanding/2010/cp/c001683g#!divAbstract).
 
@@ -279,9 +279,9 @@ layout: default
 
 1. T. J. Wallington, W. F. Schneider, J. Sehested, M. Bilde, J. Platz, O. J. Nielsen, and M. J. Molina, “Atmospheric Chemistry of HFE-7100 (C4F9OCH3): Kinetics of Its Reaction with OH Radicals, UV Spectra and Kinetic Data for C4F9OCH2• and C4F9OCH2O2• Radicals, and the Atmospheric Fate of C4F9OCH2O• Radicals,” *J. Phys. Chem. A* **1997**, 101, 8264-8274. [doi: 10.1021/jp971353w](https://pubs.acs.org/doi/abs/10.1021/jp971353w)
 
-1. T. J. Wallington, M. D. Hurley, and W. F. Schneider, “Atmospheric Chemistry of CH3Cl: Mechanistic Study of the Reaction of CH2ClO2 Radicals with HO2,” *Chem. Phys. Lett.*, **1996**, 251, 164-173. doi: 10.1016/0009-2614(96)00080-2
+1. T. J. Wallington, M. D. Hurley, and W. F. Schneider, “Atmospheric Chemistry of CH3Cl: Mechanistic Study of the Reaction of CH2ClO2 Radicals with HO2,” *Chem. Phys. Lett.*, **1996**, 251, 164-173. [doi: 10.1016/0009-2614(96)00080-2](https://www.sciencedirect.com/science/article/abs/pii/0009261496000802)
 
-1. W. F. Schneider, K. C. Hass, R. Ramprasad, and J. B. Adams, “Cluster Models of Cu Binding and CO and NO Adsorption in Cu-Exchanged Zeolites,” *J. Phys. Chem.*, **1996**, 100, 6032-6046. [doi: 10.1021/jp9521924](https://www.sciencedirect.com/science/article/abs/pii/0009261496000802)
+1. W. F. Schneider, K. C. Hass, R. Ramprasad, and J. B. Adams, “Cluster Models of Cu Binding and CO and NO Adsorption in Cu-Exchanged Zeolites,” *J. Phys. Chem.*, **1996**, 100, 6032-6046. [doi: 10.1021/jp9521924](https://pubs.acs.org/doi/abs/10.1021/jp9521924)
 
 1. W. F. Schneider, T. J. Wallington, and R. E. Huie, “Energetics and Mechanism of Decomposition of CF3OH,” *J. Phys. Chem.*, **1996**, 100, 6097-6103. [doi: 10.1021/jp952703m](https://pubs.acs.org/doi/abs/10.1021/jp952703m)
 
