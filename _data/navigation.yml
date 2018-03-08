@@ -8,8 +8,10 @@
   sublinks:
     - title: Bill Schneider
       url: /pages/group/bill_schneider
-    - title: People
-      url: /pages/group/people
+    - title: Current Lab Members
+      url: /pages/group/current_lab_members
+    - title: Former Lab Members
+      url: /pages/group/former_lab_members
     - title: Group Photo
       url: /pages/group/group_photo
     - title: Group Meeting Schedule

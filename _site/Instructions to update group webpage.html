@@ -66,7 +66,7 @@
 
             
             
-              <li class="nav-item active" ><a class="nav-link" href="/pages/">Home</a></li>
+              <li class="nav-item " ><a class="nav-link" href="/pages/">Home</a></li>
             
           
 
@@ -173,89 +173,77 @@
 
     <section class="main-content">
 
+      <p>Transfer repo to group Github account<br />
+apply for subdomain name such as schneidergroup.nd.edu<br />
+home page - figures from paper<br />
+people photos<br />
+research area descriptions and figures</p>
 
-      
-
-
-      <div class="container-wide">
-  <div class="row justify-content-center align-content-center">
-    <div class="col-auto col-md-8" align="center">
-      <div class="gallery">
-
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" align="center">
-
-        <div class="carousel-inner" role="listbox">
-          <ol class="carousel-indicators">
-            
-              
-                <li data-target="#carouselExampleIndicators"  data-slide-to=0 class="active"></li>
-              
-            
-              
-                <li data-target="#carouselExampleIndicators"  data-slide-to=1></li>
-              
-            
-
-          </ol>
-
-          
-            
-              <div class="carousel-item active">
-                <img class="carousel_img" src=/group_data/home_photos/F6.large.jpg>
-                <div class="carousel-caption">
-                  <h6 style="color:white; margin-top:0.5rem; margin-bottom:0.5rem">NOx Selective Catalytic Reduction</h6>
-                  <p>Copper ions exchanged into zeolites</p>
-                </div>
-              </div>
-            
-          
-            
-              <div class="carousel-item">
-                <img class="carousel_img" src=/group_data/home_photos/cs-2017-01319g_0012.jpeg>
-                <div class="carousel-caption">
-                  <h6 style="color:white; margin-top:0.5rem; margin-bottom:0.5rem;">Fast SCR Mechanism and Active Sites on H-Form SSZ-13</h6>
-                  <p></p>
-                </div>
-              </div>
-            
-          
-
-        </div>
-
-        <!-- Controls -->
-        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-
-      </div>
-
-      </div>
-    </div>
-
-
-    <div class="col-auto col-md-auto"  align="center">
-
-      <div class="twitter">
-        <a class="twitter-timeline"
-        data-width=345.6px
-        data-height=500px
-        data-chrome="nofooter"
-        data-link-color="#820bbb"
-        data-border-color="#a80000"
-        data-theme="light"
-        href="https://twitter.com/profwschneider">Tweets by profwschneider</a>
-
-      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <a href="https://twitter.com/profwschneider" class="twitter-follow-button" data-show-count="false">Follow @profwschneider</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
-    </div>
-  </div>
-</div>
+<h2 id="section-a-preparations-before-updating-the-webpage">Section A. Preparations before updating the webpage</h2>
+<p>The files to make the group webpage are hosted on Github. Before you can make any modifications, you have to complete the three things.</p>
+<ol>
+  <li>Have a Github account</li>
+  <li>Ask Prof. Schneider (or anyone else who has access to the group Github account) to add you as a contributor to the webpage repository.</li>
+  <li>Then git clone the web folder to your own laptop.
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone folder_link   
+</code></pre></div>    </div>
+    <h2 id="section-b-general-procedures-to-update-webpage">Section B. General Procedures to update webpage</h2>
+    <p>After you have a Github account and have cloned the web folder to your local folder, you can start to make modifications to update the web page. Each update consists of 3 steps.</p>
+  </li>
+  <li>Git pull to download the latest version of files
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git pull  
+</code></pre></div>    </div>
+  </li>
+  <li>Edit/add/delete specific files <br />
+When you have the latest version of files, you can make any modifications on the files in your local   folder. The details to make modifications for each page are listed in section C&amp;D.</li>
+  <li>Git add, commit and push the files to the remote
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git add .   
+git commit -m ‘summary of the update’  
+git push   
+</code></pre></div>    </div>
+  </li>
+  <li>Preview the webpage on your local host<br />
+If you want to preview the webpage on your local host before you push the files to Github, you can follow the instructions in the following link:<br />
+https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+    <h2 id="section-c-three-types-of-files-to-edit">Section C. Three types of files to edit</h2>
+  </li>
+  <li>YML files<br />
+There are two photo carousals in the group web, the home page carousal and group photo carousal. The YML files are used to control the order and format for each photo. They can be edited as text files.<br />
+For example, the home carousal YML file includes five parts of information for each photo:<br />
+  1)index: the order of the photos that you want to show<br />
+  2)url: the directory of the photo, as ‘/group_data/home_photos/{Figure name in the folder}’<br />
+  3)title: the paper title<br />
+  4)author: the author of the paper<br />
+  5)caption: the caption you would like to show on the figure<br />
+You can edit each part by change the text after the colon.</li>
+  <li>Markdown files<br />
+The markdown files are used to edit the content(paragraphs and photos) on each page. Markdown files have plain text formatting syntax and can be easily edited. Here are two useful cheatsheet to edit markdown files: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, and https://beegit.com/markdown-cheat-sheet.</li>
+  <li>Photos in folder<br />
+You may need to add photos in several folders.
+    <h2 id="section-d-files-to-modify-for-each-page">Section D. Files to modify for each page</h2>
+  </li>
+  <li>Home page carousal<br />
+The home page carousal has the highlighted figures from papers published by our group. To update the figures in carousal, you need 2 steps.<br />
+Add/change figure(width:height = 4:3) in the folder: group_data/home_photoes/<br />
+Edit figure order, path, caption and other information in the file: _data/home_photo.yml</li>
+  <li>Group-Bill Schneider page<br />
+Edit content(Prof. Schneider’s titles, contact information or photo path) in this markdown file: pages/group/bill_schneider.md.<br />
+Add/change Prof. Schneider’s photo in the folder: group_data/people_photos</li>
+  <li>Group-People page<br />
+Add/change group member’s photo(width:height = 16:23) in the folder: group_data/people_photos<br />
+Edit content(member’s name, photo path, contact info) in this markdown file: pages/group/people.md.</li>
+  <li>Group-Group photo page<br />
+Add/change group photos(width:height = 4:3) in the folder: group_data/group_photos<br />
+Edit photo order, path, caption and other information in the file: _data/home_photo.yml</li>
+  <li>Research page<br />
+Edit research content in this markdown file: pages/research.md</li>
+  <li>Publications page<br />
+Add publications in this markdown file: pages/publications.md</li>
+  <li>Resources page<br />
+Edit resources info in this markdown file: pages/resources.md</li>
+  <li>Courses page<br />
+Edit course info in this markdown file: pages/courses.md</li>
+</ol>
 
 
       <br/>
@@ -265,7 +253,6 @@
     Copyright &copy; 2018 Schneider Research Group. All Rights Reserved.
   </div>
 </footer>
-
 
 
     </section>

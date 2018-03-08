@@ -3,6 +3,25 @@
 
 @import "{{ site.theme }}";
 
+.container-wide {
+  max-width: 1366px;
+  margin: auto !important;
+}
+
+.brandbar.theme-bb-lightgray  {
+  max-width: 1366px;
+  margin: auto !important;
+}
+
+.page-header2 {
+  max-width: 1366px;
+  margin: auto !important;
+}
+
+.navbar {
+  max-width: 1366px;
+  margin: auto !important;
+}
 
 .page-header {
   color: $header-heading-color;
@@ -95,8 +114,12 @@
 
 
 .main-content {
-    margin: 0;
-    max-width: 100%;
+    margin: auto;
+    max-width: 1366px;
+}
+.main-content table{
+    margin: auto;
+    width: 100%;
 }
 
 body {
@@ -163,6 +186,19 @@ a:visited {
     @include large {
         padding: 1rem 2.5rem;}
 }
+
+.main-content table {
+    table-layout: auto !important;
+    width: auto !important;
+    padding: 0px;
+    margin: 0px
+}
+.main-content table td {
+    text-align: center;
+    width: auto !important;
+}
+
+
 
 p {
   max-width: 100%;
