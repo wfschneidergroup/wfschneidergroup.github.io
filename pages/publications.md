@@ -318,7 +318,7 @@ layout: default
 
 1. T. J. Wallington and W. F. Schneider, “The Stratospheric Fate of CF3OH,” *Environ. Sci. Technol.*, **1994**, 28, 1198-2000. [doi: 10.1021/es00055a036](https://pubs.acs.org/doi/abs/10.1021/es00055a036?journalCode=esthag)
 
-1. W. F. Schneider, T. J. Wallington, M. D. Hurley, J. Sehested, and O. J. Nielsen, “Reply to Comment on the Thermochemistry of CF3O Radical and CF3OH,” *J. Phys. Chem.*, **1994**, 98, 2217-2218. doi: 10.1021/j100059a043
+1. W. F. Schneider, T. J. Wallington, M. D. Hurley, J. Sehested, and O. J. Nielsen, “Reply to Comment on the Thermochemistry of CF3O Radical and CF3OH,” *J. Phys. Chem.*, **1994**, 98, 2217-2218. [doi: 10.1021/j100059a043](https://pubs.acs.org/doi/abs/10.1021/j100059a043)
 
 1. T. J. Wallington, W. F. Schneider, D. R. Worsnop, O. J. Nielsen, J. Sehested, W. Debruyn, and J. A. Shorter, “Atmospheric Chemistry and Environmental Impact of CFC Replacements: HFCs and HCFCs,” *Environ. Sci. Technol.*, **1994**, 28, 320A-326A. [doi: 10.1021/es00056a714](https://pubs.acs.org/doi/abs/10.1021/es00056a714?journalCode=esthag)
 
