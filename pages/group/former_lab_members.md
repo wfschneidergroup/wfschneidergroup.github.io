@@ -7,13 +7,13 @@ layout: default
 
 | Alumni | Information | Alumni | Information|
 |:------------ |:------------|:---------------------|:------------------------|
-|![](/group_data/people_photos/abajpai.jpeg){: .image_people}|<br/>Dr. Anshumaan Bajpai<br/>CBE Ph.D., 2017<br/>Intel <br/>|![](/group_data/people_photos/qsherida.JPG){: .image_people}|<br/>Dr. Quintin Sheridan<br/>CBE Ph.D., 2017<br/><br/>|
-|![](/group_data/people_photos/cpaolucc.JPG){: .image_people}|<br/>Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Stanford  <br/>|![](/group_data/people_photos/lherder.jpg){: .image_people}|<br/>Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|
-|![](/group_data/people_photos/tanggara.png){: .image_people}|<br/>Dr. Trunojoyo Anggara <br/>CBE Ph.D., 2015<br/>Notre Dame|![](/group_data/people_photos/mpennin1.png){: .image_people}|<br/>Dr. Michael Penninger <br/>CBE Ph.D., 2015 <br/>UOP|
-|![](/group_data/people_photos/jclay.JPG){: .image_people}|<br/>Dr. John Clay <br/>CBE Ph.D., 2014 <br/>U. Missouri|![](/group_data/people_photos/jbray2.JPG){: .image_people}| <br/>Dr. Jason Bray <br/>CBE Ph.D., 2013 <br/>Phillips 66|
-|![](/group_data/people_photos/dmccalma.png){: .image_people}| <br/>Dr. Dorrell McCalman <br/>CBE Ph.D., 2013 <br/>Notre Dame|![](/group_data/people_photos/dschmid6.JPG){: .image_people}|<br/>Dr. David Schmidt <br/>CBE Ph.D., 2012 <br/>Google|
-|![](/group_data/people_photos/emindrup.JPG){: .image_people}|<br/>Dr. Elaine Mindrup <br/>CBE Ph.D., 2011 <br/>US PTO|![](/group_data/people_photos/hwang4.jpg){: .image_people}|<br/>Dr. Hangyao Wang <br/>CBE Ph.D., 2009 <br/>Dow Chemical Company|
-|![](/group_data/people_photos/rgetman.JPG){: .image_people}|<br/>Dr. Rachel Getman <br/>CBE Ph.D., 2009 <br/>Asst. Prof., Clemson U.|
+|![](/group_data/people_photos/abajpai.jpeg){: .image_people}|Dr. Anshumaan Bajpai<br/>CBE Ph.D., 2017<br/>Intel |![](/group_data/people_photos/qsherida.JPG){: .image_people}|Dr. Quintin Sheridan<br/>CBE Ph.D., 2017|
+|![](/group_data/people_photos/cpaolucc.JPG){: .image_people}|Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Stanford  |![](/group_data/people_photos/lherder.jpg){: .image_people}|Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|
+|![](/group_data/people_photos/tanggara.png){: .image_people}|Dr. Trunojoyo Anggara <br/>CBE Ph.D., 2015<br/>Notre Dame|![](/group_data/people_photos/mpennin1.png){: .image_people}|Dr. Michael Penninger <br/>CBE Ph.D., 2015 <br/>UOP|
+|![](/group_data/people_photos/jclay.JPG){: .image_people}|Dr. John Clay <br/>CBE Ph.D., 2014 <br/>U. Missouri|![](/group_data/people_photos/jbray2.JPG){: .image_people}| <br/>Dr. Jason Bray <br/>CBE Ph.D., 2013 <br/>Phillips 66|
+|![](/group_data/people_photos/dmccalma.png){: .image_people}| <br/>Dr. Dorrell McCalman <br/>CBE Ph.D., 2013 <br/>Notre Dame|![](/group_data/people_photos/dschmid6.JPG){: .image_people}|Dr. David Schmidt <br/>CBE Ph.D., 2012 <br/>Google|
+|![](/group_data/people_photos/emindrup.JPG){: .image_people}|Dr. Elaine Mindrup <br/>CBE Ph.D., 2011 <br/>US PTO|![](/group_data/people_photos/hwang4.jpg){: .image_people}|Dr. Hangyao Wang <br/>CBE Ph.D., 2009 <br/>Dow Chemical Company|
+|![](/group_data/people_photos/rgetman.JPG){: .image_people}|Dr. Rachel Getman <br/>CBE Ph.D., 2009 <br/>Asst. Prof., Clemson U.|
 
 * * *
 
