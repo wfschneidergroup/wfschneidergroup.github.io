@@ -1,9 +1,3 @@
-Transfer repo to group Github account  
-apply for subdomain name such as schneidergroup.nd.edu  
-home page - figures from paper  
-people photos  
-research area descriptions and figures  
-
 ## Section A. Preparations before updating the webpage  
 The files to make the group webpage are hosted on Github. Before you can make any modifications, you have to complete the three things.  
 1. Have a Github account  
