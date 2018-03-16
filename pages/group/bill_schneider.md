@@ -14,7 +14,7 @@ Concurrent Professor, Chemistry and Biochemistry
 
 Senior Editor, Journal of Physical Chemistry, American Chemical Society
 <br/><br/><br/><br/>
-Office: 180 Fitzpatrick Hall 
+Office: 180 Fitzpatrick Hall  
 Mailing: 182 Fitzpatrick Hall, Notre Dame, Indiana, 46556  
 Email: [wschneider@nd.edu](mailto:wschneider@nd.edu)  
 Phone: (574) 631-8754  
