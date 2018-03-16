@@ -5,7 +5,7 @@ layout: default
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=7a2aQL0AAAAJ)
 
-<a name="RecentPublications">Recent Publications</a>       
+<a href="#Recent Publications">Recent Publications</a>&emsp;&emsp;&emsp;
 <a href="#2015">2011-2015</a>&emsp;&emsp;&emsp;
 <a href="#2010">2006-2010</a>&emsp;&emsp;&emsp;
 <a href="#2005">2001-2005</a>&emsp;&emsp;&emsp;
@@ -13,7 +13,7 @@ layout: default
 <a href="#1995">1989-1995</a>&emsp;&emsp;&emsp;
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
-
+<a name="Recent Publications"></a> **Recent Publications**
 1. C. Paolucci, I. Khurana, A. A. Parekh, S. Li, A. J. Shih, H. Li, J. R. Di Iorio, J. D. Albarracin-Caballero, A. Yezerets, J. T. Miller, W. N. Delgass, F. H. Ribeiro, W. F. Schneider, and R. Gounder, “Dynamic Multinuclear Sites Formed by Mobilized Copper Ions in NOx Selective Catalytic Reduction,” *Science* **2017**, in press. [http://dx.doi.org/10.1126/science.aan5630](http://dx.doi.org/10.1126/science.aan5630)
 
 1. Y. Cui, Z. Li, Z. Zhao, V. J. Cybulskis, K. D. Sabnis, C. W. Han, V. Ortalan, W. F. Schneider, J. Greeley, W. N. Delgass, and F. H. Ribeiro, "Participation of interfacial hydroxyl groups in the water-gas shift reaction over Au/MgO catalysts," *Catal. Sci. Technol.* **2017**, 7(22), 5257-66.[http://dx.doi.org/10.1039/c7cy01020f](http://dx.doi.org/10.1039/c7cy01020f)

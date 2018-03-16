@@ -16,6 +16,8 @@
       url: /pages/group/group_photo
     - title: Group Meeting Schedule
       url: /pages/group/group_meeting_schedule
+    - title: Available Positions
+      url: /pages/group/available_positions
 
 - title: Research
   url: /pages/research

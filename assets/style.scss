@@ -123,7 +123,7 @@
 }
 
 body {
-  font-family: "TheSans", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -131,7 +131,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6, .text-heading {
-  font-family: "Josefin Slab", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
+  font-family: "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif";
 }
 
 h1,
@@ -342,6 +342,7 @@ p {
 .gallery {
   display: block;
   margin-top: 1rem !important;
+  margin-bottom: 3rem !important;
   @include large {
     width: 600px;
   }
@@ -435,22 +436,25 @@ p {
 }
 
 .image_people {
-  align: top;
-  width:120px;
+  max-height:160px;
+  max-width:120px;
+  min-width:120px;
+  min-height:160px;
+  width:auto;
   height:auto;
-  margin-bottom: 1rem;
-  margin-right: 1rem;
-  float: left;
+  vertical-align: middle;
 }
 
 .image_research {
+  max-height:500px;
+  max-width:700px;
+  min-width:350px;
+  min-height:250px;
+  width:auto;
+  height:auto;
+  vertical-align: middle;
   display: block;
   margin: 0 auto;
-}
-
-img {
-  width: 700px;
-  height: 500px;
 }
 
 
@@ -527,4 +531,14 @@ img {
     #nav3.navbar .navbar-nav {
         float:none !important;
     }
+}
+
+.cf{
+  @include large {
+    text-align: left;
+  }
+
+  @include small{
+    text-align: center;
+  }
 }
