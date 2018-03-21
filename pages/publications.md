@@ -18,7 +18,7 @@ layout: default
 
 1. C. Paolucci, I. Khurana, A. A. Parekh, S. Li, A. J. Shih, H. Li, J. R. Di Iorio, J. D. Albarracin-Caballero, A. Yezerets, J. T. Miller, W. N. Delgass, F. H. Ribeiro, W. F. Schneider, and R. Gounder, "Dynamic Multinuclear Sites Formed by Mobilized Copper Ions in NOx Selective Catalytic Reduction,” *Science* **2017**, 357(6354), 898-903. [http://dx.doi.org/10.1126/science.aan5630](http://dx.doi.org/10.1126/science.aan5630)
 
-1. Y. Cui, Z. Li, Z. Zhao, V. J. Cybulskis, K. D. Sabnis, C. W. Han, V. Ortalan, W. F. Schneider, J. Greeley, W. N. Delgass, and F. H. Ribeiro, "Participation of interfacial hydroxyl groups in the water-gas shift reaction over Au/MgO catalysts," *Catal. Sci. Technol.* **2017**, 7(22), 5257-66.[http://dx.doi.org/10.1039/c7cy01020f](http://dx.doi.org/10.1039/c7cy01020f)
+1. Y. Cui, Z. Li, Z. Zhao, V. J. Cybulskis, K. D. Sabnis, C. W. Han, V. Ortalan, W. F. Schneider, J. Greeley, W. N. Delgass, and F. H. Ribeiro, "Participation of interfacial hydroxyl groups in the water-gas shift reaction over Au/MgO catalysts," *Catal. Sci. Technol.* **2017**, 7(22), 5257-66. [http://dx.doi.org/10.1039/c7cy01020f](http://dx.doi.org/10.1039/c7cy01020f)
 
 1. W. F. Schneider, "Viewpoint: New Physical Insights From a Computational Catalysis Perspective,” *J. Phys. Chem C* **2017**, 121, 15491-15492. [http://dx.doi.org/10.1021/acs.jpcc.7b06535](http://dx.doi.org/10.1021/acs.jpcc.7b06535) article-on-request
 

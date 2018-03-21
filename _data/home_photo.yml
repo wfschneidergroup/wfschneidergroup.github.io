@@ -1,15 +1,26 @@
 # Belongs at: /_data/home.yml
 
 - index: 0
-  url: /group_data/home_photos/F6.large.jpg
-  title: Dynamic Multinuclear Sites Formed by Mobilized Copper Ions in NOx Selective Catalytic Reduction
-  author: Christopher Paolucci, Ishant Khurana, Atish A. Parekh, Sichi Li, Arthur J. Shih, Hui Li, John R. Di Iorio, Jonatan D. Albarracin-Caballero, Aleksey Yezerets, Jeffrey T. Miller, W. Nicholas Delgass, Fabio H. Ribeiro, William F. Schneider,*, Rajamani Gounder,*
-  caption: NOx Selective Catalytic Reduction
-  description: Copper ions exchanged into zeolites
+  url: /group_data/home_photos/Science2017-small.jpg
+  title: Dynamic multinuclear sites formed by mobilized copper ions in NOx selective catalytic reduction
+  link: http://science.sciencemag.org/content/early/2017/08/16/science.aan5630
 
 - index: 1
-  url: /group_data/home_photos/cs-2017-01319g_0012.jpeg
-  title: Experimental and Computational Interrogation of Fast SCR Mechanism and Active Sites on H-Form SSZ-13
-  author: Christopher Paolucci, Ishant Khurana, Atish A. Parekh, Sichi Li, Arthur J. Shih, Hui Li, John R. Di Iorio, Jonatan D. Albarracin-Caballero, Aleksey Yezerets, Jeffrey T. Miller, W. Nicholas Delgass, Fabio H. Ribeiro, William F. Schneider,*, Rajamani Gounder,*
-  caption: Fast SCR Mechanism and Active Sites on H-Form SSZ-13
-  description:
+  url: /group_data/home_photos/ACSCatalysis2018-small.jpg
+  title: Benchmark First-Principles Calculations of Adsorbate Free Energies
+  link: https://pubs.acs.org/doi/abs/10.1021/acscatal.7b03438
+
+- index: 2
+  url: /group_data/home_photos/JCTC2017-small.jpg
+  title: Zeolite Adsorption Free Energies from ab Initio Potentials of Mean Force
+  link: https://pubs.acs.org/doi/full/10.1021/acs.jctc.7b00716
+
+- index: 3
+  url: /group_data/home_photos/ACSCatalysis2017-small.jpg
+  title: Experimental and Computational Interrogation of Fast SCR Mechanism and Active Sites on H‑Form SSZ-13
+  link: https://pubs.acs.org/doi/abs/10.1021/acscatal.7b01319
+
+- index: 4
+  url: /group_data/home_photos/ACSCatalysis2017-2-small.jpg
+  title: Adsorption Energy Correlations at the Metal−Support Boundary
+  link: https://pubs.acs.org/doi/abs/10.1021/acscatal.7b00979
