@@ -359,6 +359,7 @@ p {
 }
 
 .carousel-control-next, .carousel-control-prev {
+    z-index: 2;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -394,7 +395,7 @@ p {
     margin: 0 0 0 0 !important;
 }
 
-.carousel-fade {
+.carousel-slide {
 	.carousel-item {
 		display: block;
 		position: absolute;
@@ -403,6 +404,7 @@ p {
 
 		&.active {
 			opacity: 1;
+      z-index: 2;
 		}
 	}
 }
