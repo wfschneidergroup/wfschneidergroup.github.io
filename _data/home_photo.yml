@@ -1,26 +1,31 @@
 # Belongs at: /_data/home.yml
 
 - index: 0
-  url: /group_data/home_photos/Science2017-small.jpg
+  url: /group_data/home_photos/Science2017_2.jpg
   title: Dynamic multinuclear sites formed by mobilized copper ions in NOx selective catalytic reduction
+  journal: (Science 2017, 357, 898-903)
   link: http://science.sciencemag.org/content/early/2017/08/16/science.aan5630
 
 - index: 1
-  url: /group_data/home_photos/ACSCatalysis2018-small.jpg
+  url: /group_data/home_photos/ACSCatalysis2018.jpg
   title: Benchmark First-Principles Calculations of Adsorbate Free Energies
+  journal: (ACS Catal. 2018, 8, 1945-1954)
   link: https://pubs.acs.org/doi/abs/10.1021/acscatal.7b03438
 
 - index: 2
-  url: /group_data/home_photos/JCTC2017-small.jpg
+  url: /group_data/home_photos/JCTC2017.jpg
   title: Zeolite Adsorption Free Energies from ab Initio Potentials of Mean Force
+  journal: (J. Chem. Theory Comput. 2018, 14, 929-938)
   link: https://pubs.acs.org/doi/full/10.1021/acs.jctc.7b00716
 
 - index: 3
-  url: /group_data/home_photos/ACSCatalysis2017-small.jpg
+  url: /group_data/home_photos/ACSCatalysis2017.jpg
   title: Experimental and Computational Interrogation of Fast SCR Mechanism and Active Sites on H‑Form SSZ-13
+  journal: (ACS Catal. 2017, 7(7), 5087-5096)
   link: https://pubs.acs.org/doi/abs/10.1021/acscatal.7b01319
 
 - index: 4
-  url: /group_data/home_photos/ACSCatalysis2017-2-small.jpg
+  url: /group_data/home_photos/ACSCatalysis2017-2.jpg
   title: Adsorption Energy Correlations at the Metal−Support Boundary
+  journal: (ACS Catal. 2017, 7(7), 4707-4715)
   link: https://pubs.acs.org/doi/abs/10.1021/acscatal.7b00979

@@ -174,6 +174,24 @@ html {
   font-size: 1rem;
 }
 
+.paper {
+  @include large{
+    font-size: 100%;
+    line-height: 1.3rem;
+    padding: 0.9rem 0.25rem 0.25rem 0rem;
+ }
+  @include medium{
+    font-size: 90%;
+    line-height: 1.2rem;
+    padding: 0.9rem 0.5rem 0.25rem 0rem;
+  }
+  @include small{
+    font-size: 80%;
+    line-height: 1rem;
+    padding: 1rem 0.5rem 0.25rem 0rem;
+  }
+}
+
 a:visited {
     color: #286dc0;
 }
@@ -265,45 +283,43 @@ p {
 .carousel_img {
   @include large {
     width: 610px;
-    height: 437px;
+    height: 427px;
   }
 
   @include medium {
     width: 444px;
-    height: 318px;
+    height: 308px;
   }
 
   @include small {
     width: 345.6px;
-    height: 250px;
+    height: 240px;
   }
 }
 
-
 .carousel-inner {
-  border-radius: 15px;
   position: relative;
   overflow: hidden;
   @include large {
     width: 610px;
-    height: 507px;
+    height: 497px;
   }
 
   @include medium {
     width: 444px;
-    height: 380px;
+    height: 370px;
   }
 
   @include small {
     width: 345.6px;
-    height: 300px;
+    height: 290px;
   }
 
   > .item {
-    -webkit-transition: 0.3s, ease-in-out, left;
-    -moz-transition: .3s, ease-in-out, left;
-    -o-transition: .3s, ease-in-out, left;
-    transition: .3s, ease-in-out, left;
+    -webkit-transition: 3s, fade, left;
+    -moz-transition: 3s, fade, left;
+    -o-transition: 3s, fade, left;
+    transition: 3s, fade, left;
   }
 
 }
@@ -318,39 +334,78 @@ p {
   color: #fff;
   text-align: left;
   @include large {
-    width: 610px; top: 437px; bottom: -70px;
+    width: 610px; top: 417px; bottom: -70px;
   }
 
   @include medium {
-    width: 444px; top: 318px; bottom: -70px;
+    width: 444px; top: 298px; bottom: -70px;
   }
 
   @include small {
-    width: 350px; top: 250px; bottom: -50px;
+    width: 350px; top: 230px; bottom: -50px;
   }
 }
 
 .carousel-indicators {
     @include large {
-      bottom: 2.5rem;
+      bottom: 3rem;
     }
     @include medium {
-      bottom: 2.2rem;
+      bottom: 2.7rem;
     }
     @include small {
-      bottom: 2rem;
+      bottom: 2.5rem;
     }
+}
+
+.carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    width: 4% !important;
+    color: #fff;
+    text-align: center;
+    opacity: .5;
 }
 
 .carousel-control-next-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%343A40' viewBox='0 0 8 8'%3E%3Cpath d='M1.5 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+    left: 0;
+    padding: 0 0 0 0 !important;
+    margin: 0 0 0 0 !important;
 }
 
 .carousel-control-prev-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%343A40' viewBox='0 0 8 8'%3E%3Cpath d='M4 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+    right:0;
+    padding: 0 0 0 0 !important;
+    margin: 0 0 0 0 !important;
 }
 
+.carousel-fade {
+	.carousel-item {
+		display: block;
+		position: absolute;
+		opacity: 0;
+		transition: opacity 1s ease-in-out;
 
+		&.active {
+			opacity: 1;
+		}
+	}
+}
 
 .gallery {
   display: block;
