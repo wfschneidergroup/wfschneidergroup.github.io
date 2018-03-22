@@ -12,7 +12,7 @@ layout: default
 |![](/group_data/people_photos/pmehta1.jpg){: .image_people}| Prateek Mehta<br/>150 E Fitzpatrick Hall<br/>[pmehta1@nd.edu](mailto:pmehta1@nd.edu)  <br/>Metal-Support Interfaces |![](/group_data/people_photos/glaughl1.PNG){: .image_people}|Gray N Laughlin<br/>150 C Fitzpatrick Hall<br/>[glaughl1@nd.edu](mailto:glaughl1@nd.edu)  <br/>First-Principles Free Energy Calculations|
 |![](/group_data/people_photos/ywang40.jpg){: .image_people}|Yujia Wang<br/>150 C Fitzpatrick Hall<br/>[ywang40@nd.edu](mailto:ywang40@nd.edu)<br/>Cu Exchanged Zeolites |![](/group_data/people_photos/jko1.jpg){: .image_people}|Jeonghyun Ko<br/>150 E Fitzpatrick Hall<br/>[jko1@nd.edu](mailto:jko1@nd.edu)<br/>Alkane Dehydrogenation
 |![](/group_data/people_photos/cwaitt.jpeg){: .image_people}|Craig Waitt<br/>150 K Fitzpatrick Hall<br/>[cwaitt@nd.edu](mailto:cwaitt@nd.edu)<br/>First-Principles Free Energy Calculations |![](/group_data/people_photos/jcrum.jpg){: .image_people}|Jerry Crum<br/>150 E Fitzpatrick Hall<br/>[jcrum@nd.edu](mailto:jcrum@nd.edu)<br/>Zeolites for Oligomerization
-|![](/group_data/people_photos/agoswami.jpg){: .image_people}|Anshuman Goswami<br/>150 C Fitzpatrick Hall<br/>[agoswami@nd.edu](mailto:agoswami@nd.edu)<br/>KMC simulation of heterogeneous<br/>catalytic reactions
+|![](/group_data/people_photos/agoswami.JPG){: .image_people}|Anshuman Goswami<br/>150 C Fitzpatrick Hall<br/>[agoswami@nd.edu](mailto:agoswami@nd.edu)<br/>KMC simulation of heterogeneous<br/>catalytic reactions
 
 * * *
 ### Postdocs
