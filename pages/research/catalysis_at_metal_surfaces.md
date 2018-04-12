@@ -17,7 +17,7 @@ layout: default
 1. J. M. Bray and W. F. Schneider, "First-Principles Analysis of Structure Sensitivity in NO Oxidation on Pt,” *ACS Catal.*, **2015**, 5, 1087-1099. [doi:10.1021/cs501783q](https://pubs.acs.org/doi/abs/10.1021/cs501783q)
 
 **People:**  
-&nbsp;&nbsp;&nbsp;&nbsp;G. Laughlin, P. Mehta, H. Ma
+&nbsp;&nbsp;&nbsp;&nbsp;G. Laughlin, P. Mehta, H. Ma, C. Waitt, A. Goswami
 
 **Support:**  
 &nbsp;&nbsp;&nbsp;&nbsp;[![](/group_data/research_images/DOE_logo.png){: style="width:25vw;vertical-align:middle;margin: 0 auto;"}](https://www.energy.gov/){:target="_blank"}
