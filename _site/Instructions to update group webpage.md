@@ -1,16 +1,10 @@
-Transfer repo to group Github account  
-apply for subdomain name such as schneidergroup.nd.edu  
-home page - figures from paper  
-people photos  
-research area descriptions and figures  
-
 ## Section A. Preparations before updating the webpage  
 The files to make the group webpage are hosted on Github. Before you can make any modifications, you have to complete the three things.  
 1. Have a Github account  
 2. Ask Prof. Schneider (or anyone else who has access to the group Github account) to add you as a contributor to the webpage repository.  
 3. Then git clone the web folder to your own laptop.  
 ```
-git clone folder_link   
+git clone https://github.com/wfschneidergroup/wfschneidergroup.github.io.git  
 ```
 ## Section B. General Procedures to update webpage
  After you have a Github account and have cloned the web folder to your local folder, you can start to make modifications to update the web page. Each update consists of 3 steps.  
@@ -41,6 +35,7 @@ For example, the home carousal YML file includes five parts of information for e
 You can edit each part by change the text after the colon.  
 2. Markdown files  
 The markdown files are used to edit the content(paragraphs and photos) on each page. Markdown files have plain text formatting syntax and can be easily edited. Here are two useful cheatsheet to edit markdown files: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, and https://beegit.com/markdown-cheat-sheet.
+
 3. Photos in folder  
 You may need to add photos in several folders.  
 ## Section D. Files to modify for each page  
@@ -52,13 +47,15 @@ Edit figure order, path, caption and other information in the file: _data/home_p
 Edit content(Prof. Schneider's titles, contact information or photo path) in this markdown file: pages/group/bill_schneider.md.  
 Add/change Prof. Schneider's photo in the folder: group_data/people_photos  
 3. Group-People page  
-Add/change group member's photo(width:height = 16:23) in the folder: group_data/people_photos  
+Add/change group members' photos(width:height = 3:4) in the folder: group_data/people_photos  
 Edit content(member's name, photo path, contact info) in this markdown file: pages/group/people.md.  
 4. Group-Group photo page  
-Add/change group photos(width:height = 4:3) in the folder: group_data/group_photos  
+Add/change group photos(width:height = 1.6:1) in the folder: group_data/group_photos  
 Edit photo order, path, caption and other information in the file: _data/home_photo.yml  
-5. Research page  
-Edit research content in this markdown file: pages/research.md  
+5. Research pages
+The navigation of research pages can be changed in: _data/navigation.yml  
+Edit research content in the markdown files in the folder: pages/research
+Add/change research images in the folder: group_data/research_images
 6. Publications page  
 Add publications in this markdown file: pages/publications.md  
 7. Resources page  

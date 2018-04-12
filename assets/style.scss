@@ -65,7 +65,6 @@
   }
 }
 
-
 .dept.dept-engr {
   @include large {
     margin-left:1.7rem;
@@ -105,10 +104,9 @@ a[href$=".pdf"] {
     padding: 0 0 0 0;
 }
 
-a
-{
-target-name:new;
-target-new:tab;
+a {
+  target-name:new;
+  target-new:tab;
 }
 
 td {
@@ -130,9 +128,15 @@ td {
     margin: auto;
     max-width: 1366px;
 }
+
 .main-content table{
     margin: auto;
     width: 100%;
+}
+
+.home-content {
+    margin: auto;
+    max-width: 1366px;
 }
 
 body {
@@ -147,12 +151,7 @@ h1, h2, h3, h4, h5, h6, .text-heading {
   font-family: "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif";
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   margin-top: 1rem;
   margin-bottom: 1rem;
   font-weight: normal;
@@ -170,39 +169,16 @@ html {
 .title {
   font-size: 1.5rem;
 }
+
 .body {
   font-size: 1rem;
-}
-
-.paper {
-  @include large{
-    font-size: 100%;
-    line-height: 1.3rem;
-    padding: 0.9rem 0.25rem 0.25rem 0rem;
- }
-  @include medium{
-    font-size: 90%;
-    line-height: 1.2rem;
-    padding: 0.9rem 0.5rem 0.25rem 0rem;
-  }
-  @include small{
-    font-size: 80%;
-    line-height: 1rem;
-    padding: 1rem 0.5rem 0.25rem 0rem;
-  }
 }
 
 a:visited {
     color: #286dc0;
 }
 
-.main-content h1,
-.main-content h2,
-.main-content h3,
-.main-content h4,
-.main-content h5,
-.main-content h6,
-.main-content {
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6, .main-content {
   margin-top: 0rem;
   margin-bottom: 1rem;
   font-weight: normal;
@@ -222,13 +198,15 @@ a:visited {
     table-layout: auto !important;
     width: auto !important;
     padding: 0px;
-    margin: 0px
+    margin: 0px;
+    table-layout: fixed;
+    width:840px;
 }
+
 .main-content table td {
     text-align: center;
     width: auto !important;
 }
-
 
 
 p {
@@ -241,10 +219,12 @@ p {
   max-width: 100%;
   padding-right: 2rem;
 }
+
 .column {
   padding-left: 0;
   padding-right: 2rem;
 }
+
 .col{
   @include small {
     padding-left: 0px;
@@ -279,7 +259,7 @@ p {
 
 /* ------------------- Carousel Styling ------------------- */
 
-
+/*
 .carousel_img {
   @include large {
     width: 610px;
@@ -425,24 +405,276 @@ p {
     width: 345.6px;
   }
 }
+*/
+.gallery{
+  display: block;
+  margin-top: 1rem !important;
+  margin-bottom: 3rem !important;
+  @include large{
+    width: 75vw;
+    height: 45vw;
+ }
+  @include medium{
+    width: 75vw;
+    height: 45vw;
+  }
+  @include small{
+    width: 85vw;
+    height: 55vw;
+  }
+}
 
+.carousel{
+  .carousel_img {
+    position: relative;
+    top: -2vw;
+    text-align: center;
+    @include large{
+      width: 65vw;
+      height: 35vw;
+   }
+    @include medium{
+      width: 65vw;
+      height: 35vw;
+    }
+    @include small{
+      width: 85vw;
+      height: 47vw;
+    }
+
+  }
+
+  .carousel-inner {
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    justify-content: center !important;
+    @include large{
+      width: 75vw;
+      height: 45vw;
+   }
+    @include medium{
+      width: 75vw;
+      height: 45vw;
+    }
+    @include small{
+      width: 85vw;
+      height: 65vw;
+    }
+
+    > .item {
+      -webkit-transition: 3s, fade, left;
+      -moz-transition: 3s, fade, left;
+      -o-transition: 3s, fade, left;
+      transition: 3s, fade, left;
+    }
+
+  }
+
+  .carousel-caption {
+    background-color: rgba(0,0,0,.35);
+
+    z-index: 10;
+    @include large{
+      position: absolute;
+      color: #fff;
+      text-align: left;
+      width: 78vw;
+      height: 8vw;
+      top: 33vw;
+      left: 0vw;
+      padding: 2.8vw 2vw 4vw 2vw;
+    }
+    @include medium{
+      position: absolute;
+      color: #fff;
+      text-align: left;
+      width: 78vw;
+      height: 8vw;
+      top: 33vw;
+      left: 0vw;
+      padding: 2.8vw 2vw 4vw 2vw;
+    }
+    @include small{
+      position: absolute;
+      color: #fff;
+      text-align: left;
+      width: 85vw;
+      height: 10vw;
+      top: 45vw;
+      left: 0vw;
+      padding: 2vw 2vw 2vw 2vw;
+    }
+  }
+
+  .carousel-caption-group {
+    background-color: rgba(0,0,0,.35);
+
+    z-index: 10;
+    @include large{
+      position: absolute;
+      color: #fff;
+      text-align: left;
+      width: 65vw;
+      height: 7vw;
+      top: 33vw;
+      left: 5vw;
+      padding: 3vw 2vw 4vw 2vw;
+    }
+    @include medium{
+      position: absolute;
+      color: #fff;
+      text-align: left;
+      width: 65vw;
+      height: 7vw;
+      top: 33vw;
+      left: 5vw;
+      padding: 2vw 2vw 4vw 2vw;
+    }
+    @include small{
+      position: absolute;
+      color: #fff;
+      text-align: left;
+      width: 85vw;
+      height: 10vw;
+      top: 45vw;
+      left: 0vw;
+      padding: 2vw 2vw 2vw 2vw;
+    }
+  }
+  .carousel-indicators {
+    @include large{
+      top: 36vw;
+      width: 75vw;
+    }
+    @include medium{
+      top: 36vw;
+      width: 75vw;
+    }
+    @include small{
+      top: 48vw;
+      width: 85vw;
+    }
+    position: relative;
+    height: 2vw;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+  }
+
+  .carousel-indicators li {
+    height: 1vw;
+    max-width: 1vw !important;
+    margin-right: 1vw;
+    margin-left: 1vw;
+    border-radius: 0.5vw;
+    background-color: rgba(0,0,0,0.25);
+  }
+
+  .carousel-indicators .active {
+    background-color: rgba(0,0,0,0.6) !important;
+}
+  .carousel-control-next, .carousel-control-prev {
+      z-index: 2;
+      position: absolute;
+      top: -20%;
+      bottom: 0;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      width: 4% !important;
+      color: #fff;
+      text-align: center;
+      opacity: .5;
+  }
+
+  .carousel-control-next-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%343A40' viewBox='0 0 8 8'%3E%3Cpath d='M1.5 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+      left: 0;
+      padding: 0 0 0 0 !important;
+      margin: 0 0 0 0 !important;
+  }
+
+  .carousel-control-prev-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%343A40' viewBox='0 0 8 8'%3E%3Cpath d='M4 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+      right:0;
+      padding: 0 0 0 0 !important;
+      margin: 0 0 0 0 !important;
+  }
+
+}
+.carousel-slide {
+  .carousel-item {
+    display: block;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+
+    &.active {
+      opacity: 1;
+      z-index: 2;
+    }
+  }
+}
+
+.carousel  .carousel-control-next{ visibility: hidden; }
+.carousel  .carousel-control-prev { visibility: hidden; }
+.carousel:hover .carousel-control-next{ visibility: visible; }
+.carousel:hover .carousel-control-prev  { visibility: visible; }
+
+.paper {
+  position: relative;
+  @include large{
+    top: 30%;
+    transform: translateY(-30%);
+    font-size: 1.6vw;
+    line-height: 2.2vw;
+  }
+  @include medium{
+    top: 30%;
+    transform: translateY(-30%);
+    font-size: 2vw;
+    line-height: 2.3vw;
+  }
+  @include small{
+    top: 100%;
+    transform: translateY(-100%);
+    padding-bottom: 0vw;
+    font-size: 2.5vw;
+    line-height: 3vw;
+  }
+
+}
+
+
+/* ------------------- Twitter Styling ------------------- */
 .twitter {
   display: inline-block;
-  max-width: 345.6px;
   @include large {
-    width: 345.6px;
-    height: 523px;
+    width: 30vw;
+    height: 50vw;
   }
 
   @include medium {
-    width: auto;
-    height: 395px;
+    max-width: 200px;
+    width: 80vw;
+    height: 50vw;
   }
 
   @include small {
-    width: 345.6px;
-    height: 350px;
+    width: 80vw;
+    height: 50vw;
   }
+  padding-top: 0.5vw;
+  padding-left: 0;
 }
 
 .twitter::after {
@@ -487,16 +719,7 @@ p {
   border-radius: .25em;
 }
 
-.main-content table{
-    table-layout: fixed;
-    width:840px;
-}
-
-.main-content table td {
-    text-align: center;
-    width: 280px;
-}
-
+/* ------------------- People  Styling ------------------- */
 .image_bill {
   float: left;
   align: top;
@@ -534,7 +757,6 @@ p {
 }
 
 .navbar-collapse.show {
-      width: 16rem;
       top: 100%;
       right: 0;
       margin-top: 15px;

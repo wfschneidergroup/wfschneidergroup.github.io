@@ -15,15 +15,37 @@
 
     {% include navigation.html %}
 
+    {% include home.html %}
+
+    <div class="container-wide">
+      <div class="row justify-content-center align-content-center">
+        <div class="col-md-7">
+            <section class="main-content">
+              {{content}}
+            </section>
+        </div>
+        <div class="col-md-5"  align="center">
+
+          <div class="twitter">
+            <a class="twitter-timeline"
+            data-width=345.6px
+            data-height=500px
+            data-chrome="nofooter"
+            data-link-color="#820bbb"
+            data-border-color="#a80000"
+            data-theme="light"
+            href="https://twitter.com/profwschneider">Tweets by profwschneider</a>
+
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <a href="https://twitter.com/profwschneider" class="twitter-follow-button" data-show-count="false">Follow @profwschneider</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <section class="main-content">
 
-
-      {{content}}
-
-      {% include home.html %}
-
       {% include footer.html %}
-
 
     </section>
 

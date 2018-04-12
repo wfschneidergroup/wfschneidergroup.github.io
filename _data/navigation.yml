@@ -1,7 +1,7 @@
 # Belongs at: /_data/navigation.yml
 
 - title: Home
-  url: /pages/
+  url: /
 
 - title: Group
   url: /pages/group/
@@ -21,6 +21,17 @@
 
 - title: Research
   url: /pages/research
+  sublinks:
+    - title: Overview
+      url: /pages/research/overview
+    - title: Zeolites for NOx Reduction
+      url: /pages/research/zeolites_for_nox_reduction
+    - title: Catalysis at Metal Surfaces
+      url: /pages/research/catalysis_at_metal_surfaces
+    - title: Catalysis for Shale Gas
+      url: /pages/research/catalysis_for_shale_gas
+    - title: Energy-Directed Catalysis
+      url: /pages/research/energy_directed_catalysis
 
 - title: Publications
   url: /pages/publications

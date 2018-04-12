@@ -8,7 +8,7 @@
         <ul class="nav navbar-nav mr-auto" >
           {% for entry in site.data.navigation %}
 
-            {% if entry.url == "/pages/" %}
+            {% if entry.url == "/" %}
               {% if page.url == entry.url %}
                 {% assign class = 'active' %}
                 {% assign output = 'Home'}
@@ -27,7 +27,7 @@
             {% assign sublinks = entry.sublinks %}
             {% if sublinks %}
               <li class="nav-item dropdown {{ class }}">
-                <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/Group">Group</a>
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/Group">{{entry.title}}</a>
                 <div class="dropdown-menu">
                   {% for sublink in sublinks %}
                     <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>

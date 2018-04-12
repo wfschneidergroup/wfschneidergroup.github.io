@@ -21,7 +21,7 @@
 <link href="../assets/bootstrap_4/dist/css/bootstrap.min.css" rel="stylesheet">
 <link href="../assets/font_awesome_4/css/font-awesome.min.css" rel="stylesheet">
 <link href="../assets/nd.css" rel="stylesheet">
-<link rel="stylesheet" href="/assets/style.css?v=16cb3bb0294d3c54cb32249da3d0f85e4bfa3625">
+<link rel="stylesheet" href="/assets/style.css?v=712b87197605851dfb91a3ae98aa52bf76023ccf">
 
 
     </head>
@@ -66,7 +66,7 @@
 
             
             
-              <li class="nav-item " ><a class="nav-link" href="/pages/">Home</a></li>
+              <li class="nav-item " ><a class="nav-link" href="/">Home</a></li>
             
           
 
@@ -110,7 +110,23 @@
 
             
             
-              <li class="nav-item " ><a class="nav-link" href="/pages/research">Research</a></li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="/Group">Research</a>
+                <div class="dropdown-menu">
+                  
+                    <a class="dropdown-item" href="/pages/research/overview">Overview</a>
+                  
+                    <a class="dropdown-item" href="/pages/research/zeolites_for_nox_reduction">Zeolites for NOx Reduction</a>
+                  
+                    <a class="dropdown-item" href="/pages/research/catalysis_at_metal_surfaces">Catalysis at Metal Surfaces</a>
+                  
+                    <a class="dropdown-item" href="/pages/research/catalysis_for_shale_gas">Catalysis for Shale Gas</a>
+                  
+                    <a class="dropdown-item" href="/pages/research/energy_directed_catalysis">Energy-Directed Catalysis</a>
+                  
+                </div>
+              </li>
+
             
           
 
@@ -175,19 +191,13 @@
 
     <section class="main-content">
 
-      <p>Transfer repo to group Github account<br />
-apply for subdomain name such as schneidergroup.nd.edu<br />
-home page - figures from paper<br />
-people photos<br />
-research area descriptions and figures</p>
-
-<h2 id="section-a-preparations-before-updating-the-webpage">Section A. Preparations before updating the webpage</h2>
+      <h2 id="section-a-preparations-before-updating-the-webpage">Section A. Preparations before updating the webpage</h2>
 <p>The files to make the group webpage are hosted on Github. Before you can make any modifications, you have to complete the three things.</p>
 <ol>
   <li>Have a Github account</li>
   <li>Ask Prof. Schneider (or anyone else who has access to the group Github account) to add you as a contributor to the webpage repository.</li>
   <li>Then git clone the web folder to your own laptop.
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone folder_link   
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>git clone https://github.com/wfschneidergroup/wfschneidergroup.github.io.git  
 </code></pre></div>    </div>
     <h2 id="section-b-general-procedures-to-update-webpage">Section B. General Procedures to update webpage</h2>
     <p>After you have a Github account and have cloned the web folder to your local folder, you can start to make modifications to update the web page. Each update consists of 3 steps.</p>
@@ -218,8 +228,10 @@ For example, the home carousal YML file includes five parts of information for e
   4)author: the author of the paper<br />
   5)caption: the caption you would like to show on the figure<br />
 You can edit each part by change the text after the colon.</li>
-  <li>Markdown files<br />
-The markdown files are used to edit the content(paragraphs and photos) on each page. Markdown files have plain text formatting syntax and can be easily edited. Here are two useful cheatsheet to edit markdown files: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, and https://beegit.com/markdown-cheat-sheet.</li>
+  <li>
+    <p>Markdown files<br />
+The markdown files are used to edit the content(paragraphs and photos) on each page. Markdown files have plain text formatting syntax and can be easily edited. Here are two useful cheatsheet to edit markdown files: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, and https://beegit.com/markdown-cheat-sheet.</p>
+  </li>
   <li>Photos in folder<br />
 You may need to add photos in several folders.
     <h2 id="section-d-files-to-modify-for-each-page">Section D. Files to modify for each page</h2>
@@ -232,13 +244,15 @@ Edit figure order, path, caption and other information in the file: _data/home_p
 Edit content(Prof. Schneider’s titles, contact information or photo path) in this markdown file: pages/group/bill_schneider.md.<br />
 Add/change Prof. Schneider’s photo in the folder: group_data/people_photos</li>
   <li>Group-People page<br />
-Add/change group member’s photo(width:height = 16:23) in the folder: group_data/people_photos<br />
+Add/change group members’ photos(width:height = 3:4) in the folder: group_data/people_photos<br />
 Edit content(member’s name, photo path, contact info) in this markdown file: pages/group/people.md.</li>
   <li>Group-Group photo page<br />
-Add/change group photos(width:height = 4:3) in the folder: group_data/group_photos<br />
+Add/change group photos(width:height = 1.6:1) in the folder: group_data/group_photos<br />
 Edit photo order, path, caption and other information in the file: _data/home_photo.yml</li>
-  <li>Research page<br />
-Edit research content in this markdown file: pages/research.md</li>
+  <li>Research pages
+The navigation of research pages can be changed in: _data/navigation.yml<br />
+Edit research content in the markdown files in the folder: pages/research
+Add/change research images in the folder: group_data/research_images</li>
   <li>Publications page<br />
 Add publications in this markdown file: pages/publications.md</li>
   <li>Resources page<br />
@@ -250,7 +264,7 @@ Edit course info in this markdown file: pages/courses.md</li>
 
       <br/>
 <br/>
-<footer style="padding-top:5rem;">
+<footer style="padding-top:3rem;">
 <!-- <footer class="bg-faded text-center"> -->
   <!-- <div class="container">
     Copyright &copy; 2018 Schneider Research Group. All Rights Reserved.

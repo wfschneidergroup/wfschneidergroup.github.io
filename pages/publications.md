@@ -14,6 +14,12 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
+
+1. P. Mehta, P. Barboun, F. A. Herrera, J. Kim, P. Rumbach, D. B. Go, J. C. Hicks, and W. F. Schneider. "Overcoming ammonia synthesis scaling relations with plasma-enabled catalysis." *Nature Catalysis* **2018**, 1. [doi:10.1038/s41929-018-0045-1](https://www.nature.com/articles/s41929-018-0045-1)
+
+1. A. Bajpai, P. Mehta, K. Frey, A. M. Lehmer, and W. F. Schneider. "Benchmark First-Principles Calculations of Adsorbate Free Energies." *ACS Catalysis* **2018**, 8(3),1945-1954. [doi:10.1021/acscatal.7b03438](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b03438)
+
+
 1. H. Li, C. Paolucci, and W. F. Schneider. "Zeolite Adsorption Free Energies from Ab initio Potentials of Mean Force." *J. Chem. Theory Comput.* **2017**, 14(2), 929-938. [http://dx.doi.org/10.1021/acs.jctc.7b00716](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00716)
 
 1. C. Paolucci, I. Khurana, A. A. Parekh, S. Li, A. J. Shih, H. Li, J. R. Di Iorio, J. D. Albarracin-Caballero, A. Yezerets, J. T. Miller, W. N. Delgass, F. H. Ribeiro, W. F. Schneider, and R. Gounder, "Dynamic Multinuclear Sites Formed by Mobilized Copper Ions in NOx Selective Catalytic Reduction,” *Science* **2017**, 357(6354), 898-903. [http://dx.doi.org/10.1126/science.aan5630](http://dx.doi.org/10.1126/science.aan5630)
