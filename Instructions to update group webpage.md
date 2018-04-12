@@ -39,10 +39,11 @@ The markdown files are used to edit the content(paragraphs and photos) on each p
 3. Photos in folder  
 You may need to add photos in several folders.  
 ## Section D. Files to modify for each page  
-1. Home page carousal  
+1. Home page  
 The home page carousal has the highlighted figures from papers published by our group. To update the figures in carousal, you need 2 steps.  
 Add/change figure(width:height = 1.6:1) in the folder: group_data/home_photoes/  
 Edit figure order, path, caption and other information in the file: _data/home_photo.yml  
+Edit content in the markdown file: index.md   
 2. Group-Bill Schneider page  
 Edit content(Prof. Schneider's titles, contact information or photo path) in this markdown file: pages/group/bill_schneider.md.  
 Add/change Prof. Schneider's photo in the folder: group_data/people_photos  
