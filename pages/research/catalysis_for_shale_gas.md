@@ -9,7 +9,7 @@ layout: default
 [comment]: <> add description below
 
 **People:**  
-&nbsp;&nbsp;&nbsp;&nbsp;J. Ko, J. Crum, N, Mehra
+&nbsp;&nbsp;&nbsp;&nbsp;J. Ko, J. Crum, N. Mehra
 
 **Support:**  
 &nbsp;&nbsp;&nbsp;&nbsp;[![](/group_data/research_images/CISTAR_logo.png){: style="width:20vw;vertical-align:middle;margin: 0 auto;"}](https://cistar.us/){:target="_blank"}
