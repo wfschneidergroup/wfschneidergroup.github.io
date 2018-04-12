@@ -52,10 +52,10 @@ Edit content(member's name, photo path, contact info) in this markdown file: pag
 4. Group-Group photo page  
 Add/change group photos(width:height = 1.6:1) in the folder: group_data/group_photos  
 Edit photo order, path, caption and other information in the file: _data/home_photo.yml  
-5. Research pages
+5. Research pages  
 The navigation of research pages can be changed in: _data/navigation.yml  
-Edit research content in the markdown files in the folder: pages/research
-Add/change research images in the folder: group_data/research_images
+Edit research content in the markdown files in the folder: pages/research  
+Add/change research images in the folder: group_data/research_images  
 6. Publications page  
 Add publications in this markdown file: pages/publications.md  
 7. Resources page  
