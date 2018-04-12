@@ -3,7 +3,7 @@ layout: default
 ---
 ##### **Zeolites for NOx Reduction**
 
-![](/group_data/research_images/zeolite_for_nox_reduction.gif){: style="max-width:800px;width:90vw;display:block;vertical-align:middle;margin: 0 auto;"}
+![](/group_data/research_images/zeolite_for_nox_reduction_2.gif){: style="max-width:800px;width:90vw;display:block;vertical-align:middle;margin: 0 auto;"}
 
 [comment]: <> add description below
 
