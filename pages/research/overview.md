@@ -2,9 +2,9 @@
 layout: default
 ---
 
-##### **Overview**
+### Overview
 
-![](/group_data/research_images/overview_2.jpg){: style="max-width:800px;width:90vw;display:block;vertical-align:middle;margin: 0 auto;"}
+![](/group_data/research_images/overview_3.jpg){: style="max-width:800px;width:90vw;display:block;vertical-align:middle;margin: 0 auto;"}
 
 [comment]: <> add description below
 
