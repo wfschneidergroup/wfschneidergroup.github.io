@@ -4,7 +4,7 @@ layout: default
 
 ### Catalysis at Metal Surfaces    
 
-![](/group_data/research_images/catalysis_at_metal_surfaces_3.jpg){: style="max-width:800px;width:90vw;display:block;vertical-align:middle;margin: 0 auto;"}
+![](/group_data/research_images/catalysis_at_metal_surfaces.jpg){: style="max-width:800px;width:90vw;display:block;vertical-align:middle;margin: 0 auto;"}
 
 [comment]: <> add description below
 

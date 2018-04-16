@@ -4,7 +4,7 @@ layout: default
 
 ### Energy-Directed Catalysis  
 
-![](/group_data/research_images/energy_directed_catalysis_3.jpg){: style="max-width:800px;width:90vw;display:block;vertical-align:middle;margin: 0 auto;"}
+![](/group_data/research_images/energy_directed_catalysis.jpg){: style="max-width:800px;width:90vw;display:block;vertical-align:middle;margin: 0 auto;"}
 
 [comment]: <> add description below
 
