@@ -501,10 +501,15 @@ p { max-width: 100%; }
 @media screen and (min-width: 42em) and (max-width: 64em) { .paper { top: 30%; transform: translateY(-30%); font-size: 2vw; line-height: 2.3vw; } }
 @media screen and (max-width: 42em) { .paper { top: 100%; transform: translateY(-100%); padding-bottom: 0vw; font-size: 2.5vw; line-height: 3vw; } }
 
+.group-caption { position: relative; }
+@media screen and (min-width: 64em) { .group-caption { top: 30%; transform: translateY(-30%); font-size: 1.6vw; line-height: 2.2vw; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .group-caption { top: 30%; transform: translateY(-30%); font-size: 2vw; line-height: 2.3vw; } }
+@media screen and (max-width: 42em) { .group-caption { top: 30%; transform: translateY(-30%); padding-bottom: 0vw; font-size: 2.5vw; line-height: 3vw; } }
+
 /* ------------------- Twitter Styling ------------------- */
 .twitter { display: inline-block; padding-top: 0.5vw; padding-left: 0; }
 @media screen and (min-width: 64em) { .twitter { width: 30vw; height: 50vw; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .twitter { max-width: 200px; width: 80vw; height: 50vw; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .twitter { max-width: 300px; width: 80vw; height: 50vw; } }
 @media screen and (max-width: 42em) { .twitter { width: 80vw; height: 50vw; } }
 
 .twitter::after { content: ""; display: block; clear: both; }

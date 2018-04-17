@@ -649,6 +649,30 @@ p {
 
 }
 
+.group-caption {
+  position: relative;
+  @include large{
+    top: 30%;
+    transform: translateY(-30%);
+    font-size: 1.6vw;
+    line-height: 2.2vw;
+  }
+  @include medium{
+    top: 30%;
+    transform: translateY(-30%);
+    font-size: 2vw;
+    line-height: 2.3vw;
+  }
+  @include small{
+    top: 30%;
+    transform: translateY(-30%);
+    padding-bottom: 0vw;
+    font-size: 2.5vw;
+    line-height: 3vw;
+  }
+
+}
+
 
 /* ------------------- Twitter Styling ------------------- */
 .twitter {
@@ -659,7 +683,7 @@ p {
   }
 
   @include medium {
-    max-width: 200px;
+    max-width: 300px;
     width: 80vw;
     height: 50vw;
   }
