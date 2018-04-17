@@ -15,7 +15,7 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
-1. P. Mehta, P. Barboun, F. A. Herrera, J. Kim, P. Rumbach, D. B. Go, J. C. Hicks, and W. F. Schneider. "Overcoming ammonia synthesis scaling relations with plasma-enabled catalysis." *Nature Catalysis* **2018**, 1. [doi:10.1038/s41929-018-0045-1](https://www.nature.com/articles/s41929-018-0045-1)
+1. P. Mehta, P. Barboun, F. A. Herrera, J. Kim, P. Rumbach, D. B. Go, J. C. Hicks, and W. F. Schneider. "Overcoming ammonia synthesis scaling relations with plasma-enabled catalysis." *Nature Catalysis* **2018**, 1. [doi:10.1038/s41929-018-0045-1](https://www.nature.com/articles/s41929-018-0045-1) [readcube]( https://rdcu.be/K4uW)
 
 1. A. Bajpai, P. Mehta, K. Frey, A. M. Lehmer, and W. F. Schneider. "Benchmark First-Principles Calculations of Adsorbate Free Energies." *ACS Catalysis* **2018**, 8(3),1945-1954. [doi:10.1021/acscatal.7b03438](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b03438)
 
