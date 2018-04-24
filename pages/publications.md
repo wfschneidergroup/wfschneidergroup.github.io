@@ -15,6 +15,8 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1. Q. R. Sheridan, W. F. Schneider, E. J. Maginn. "Role of Molecular Modeling in the Development of CO<sub>2</sub>–Reactive Ionic Liquids." *Chemical Reviews* **2018**, [doi:10.1021/acs.chemrev.8b00017](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.8b00017) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-giSv77zeiZr9uxVR4M4x)
+
 1. P. Mehta, P. Barboun, F. A. Herrera, J. Kim, P. Rumbach, D. B. Go, J. C. Hicks, and W. F. Schneider. "Overcoming ammonia synthesis scaling relations with plasma-enabled catalysis." *Nature Catalysis* **2018**, 1. [doi:10.1038/s41929-018-0045-1](https://www.nature.com/articles/s41929-018-0045-1) [readcube]( https://rdcu.be/K4uW)
 
 1. A. Bajpai, P. Mehta, K. Frey, A. M. Lehmer, and W. F. Schneider. "Benchmark First-Principles Calculations of Adsorbate Free Energies." *ACS Catalysis* **2018**, 8(3),1945-1954. [doi:10.1021/acscatal.7b03438](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b03438)
@@ -26,13 +28,13 @@ layout: default
 
 1. Y. Cui, Z. Li, Z. Zhao, V. J. Cybulskis, K. D. Sabnis, C. W. Han, V. Ortalan, W. F. Schneider, J. Greeley, W. N. Delgass, and F. H. Ribeiro, "Participation of interfacial hydroxyl groups in the water-gas shift reaction over Au/MgO catalysts," *Catal. Sci. Technol.* **2017**, 7(22), 5257-66. [http://dx.doi.org/10.1039/c7cy01020f](http://dx.doi.org/10.1039/c7cy01020f)
 
-1. W. F. Schneider, "Viewpoint: New Physical Insights From a Computational Catalysis Perspective,” *J. Phys. Chem C* **2017**, 121, 15491-15492. [http://dx.doi.org/10.1021/acs.jpcc.7b06535](http://dx.doi.org/10.1021/acs.jpcc.7b06535) article-on-request
+1. W. F. Schneider, "Viewpoint: New Physical Insights From a Computational Catalysis Perspective,” *J. Phys. Chem C* **2017**, 121, 15491-15492. [http://dx.doi.org/10.1021/acs.jpcc.7b06535](http://dx.doi.org/10.1021/acs.jpcc.7b06535) [article-on-request](http://pubs.acs.org/articlesonrequest/AOR-ia2inYZGx29zpeJJ2dNk)
 
-1. S. Li, Y. Zheng, F. Gao, J. Szanyi, and W. F. Schneider, "Experimental and Computational Interrogation of Fast SCR Mechanism and Active Sites on H-Form SSZ-13,” *ACS Catalysis* **2017**, 5087-5096. [doi:10.1021/acscatal.7b01319](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b01319) article-on-request
+1. S. Li, Y. Zheng, F. Gao, J. Szanyi, and W. F. Schneider, "Experimental and Computational Interrogation of Fast SCR Mechanism and Active Sites on H-Form SSZ-13,” *ACS Catalysis* **2017**, 5087-5096. [doi:10.1021/acscatal.7b01319](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b01319) [article-on-request](http://pubs.acs.org/articlesonrequest/AOR-J9sAeyp4xkxzAmRRFnPK)
 
 1. S. Draguta, O. Sharia, S. J. Yoon, M. Brennan, Y. Morozov, J. Manser, P. Kamat, W. F. Schneider, and M. Kuno, "Rationalizing the Light-Induced Phase Separation of Mixed Halide Organic-Inorganic Perovskites,” *Nature Comm.* **2017**, 8, 200. [doi:10.1038/s41467-017-00284-2](https://www.nature.com/articles/s41467-017-00284-2)
 
-1. P. Mehta, J. Greeley, W. N. Delgass, and W. F. Schneider, "Adsorption Energy Correlations at the Metal-Support Boundary,” *ACS Catalysis* **2017**, 7, 4707-4715. [doi:10.1021/acscatal.7b00979](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b00979) article-on-request
+1. P. Mehta, J. Greeley, W. N. Delgass, and W. F. Schneider, "Adsorption Energy Correlations at the Metal-Support Boundary,” *ACS Catalysis* **2017**, 7, 4707-4715. [doi:10.1021/acscatal.7b00979](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b00979) [article-on-request](http://pubs.acs.org/articlesonrequest/AOR-YAwx2nkJxJ9dMsqSYuiR)
 
 1. A. Bajpai, K. Frey, and W. F. Schneider, "Binary Approach to Ternary Cluster Expansions: NO-O-Vacancy System on Pt(111),” *J. Phys. Chem. C* **2017**, 121, 7344-7354. [doi:10.1021/acs.jpcc.7b00914](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b00914)
 
