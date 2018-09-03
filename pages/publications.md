@@ -14,13 +14,15 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
+1. C. T. Elmore, M. E. Seidler, H. O. Ford, L. C. Merrill, S. P. Upadhyay, W. F. Schneider, and J. L. Schaefer, "Ion Transport in Solvent-Free, Crosslinked, Single-Ion Conducting  Polymer Electrolytes for Post-Lithium Ion Batteries," *Batteries* **2018**, *4*, 28. [doi:10.3390/batteries4020028](http://dx.doi.org/10.3390/batteries4020028)
+
 1. J. G. Chen, R. M. Crooks, L. C. Seefeldt, K. L. Bren, R. M. Bullock, M. Y. Darensbourg, P. L. Holland, B. Hoffman, M. J. Janik, A. K. Jones, M. G. Kanatzidis, P. King, K. M. Lancaster, S. V. Lymar, P. Pfromm, W. F. Schneider, R. R. Schrock, "Beyond fossil fuel–driven nitrogen transformations," *Science* **2018**, *360*, 873. [doi:10.1126/science.aar6611](http://dx.doi.org/10.1126/science.aar6611)
 
-1. Q. R. Sheridan, R. G. Mullen, T. Lee, E. J. Maginn, and W. F. Schneider, "Hybrid Computational Strategy for Predicting \ce{CO2} Solubilities in Reactive Ionic Liquids," *J. Phys. Chem. C* **2018**, in press. [doi:10.1021/acs.jpcc.8b02095](http://dx.doi.org/10.1021/acs.jpcc.8b02095) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-NsPAcaDvKqrbPGDTwihz)
+1. Q. R. Sheridan, R. G. Mullen, T. Lee, E. J. Maginn, and W. F. Schneider, "Hybrid Computational Strategy for Predicting \ce{CO2} Solubilities in Reactive Ionic Liquids," *J. Phys. Chem. C* **2018**, *122*, 14213-14221. [doi:10.1021/acs.jpcc.8b02095](http://dx.doi.org/10.1021/acs.jpcc.8b02095) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-NsPAcaDvKqrbPGDTwihz)
 
 1. Q. R. Sheridan, W. F. Schneider, E. J. Maginn. "Role of Molecular Modeling in the Development of CO<sub>2</sub>–Reactive Ionic Liquids." *Chem. Rev.*, **2018**, *118*,  5242-5260. [doi:10.1021/acs.chemrev.8b00017](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.8b00017) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-giSv77zeiZr9uxVR4M4x)
 
-1. P. Mehta, P. Barboun, F. A. Herrera, J. Kim, P. Rumbach, D. B. Go, J. C. Hicks, and W. F. Schneider. "Overcoming ammonia synthesis scaling relations with plasma-enabled catalysis." *Nature Catalysis*, **2018**, 1. [doi:10.1038/s41929-018-0045-1](https://www.nature.com/articles/s41929-018-0045-1) [readcube]( https://rdcu.be/K4uW)
+1. P. Mehta, P. Barboun, F. A. Herrera, J. Kim, P. Rumbach, D. B. Go, J. C. Hicks, and W. F. Schneider. "Overcoming ammonia synthesis scaling relations with plasma-enabled catalysis." *Nature Catalysis*, **2018**, 1, 269-275. [doi:10.1038/s41929-018-0045-1](https://www.nature.com/articles/s41929-018-0045-1) [readcube]( https://rdcu.be/K4uW)
 
 1. W. F. Schneider, H. Guo. "Machine Learning." *J. Phys. Chem. C*, **2018**, 122, 1889. [doi: 10.1021/acs.jpcc.8b00036](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b00036)
 
