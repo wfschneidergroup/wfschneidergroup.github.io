@@ -2,11 +2,9 @@
 layout: default
 ---
 # William Schneider
-![](/group_data/people_photos/wschnei1.png){: .image_bill}
+![](/group_data/people_photos/wschnei1.JPG){: .image_bill}
 
 H. Clifford and Evelyn A. Brosey Professor of Engineering  
-
-Director of Graduate Studies, Chemical and Biomolecular Engineering  
 
 Professor, Chemical and Biomolecular Engineering   
 
