@@ -7,8 +7,9 @@ layout: default
 
 | Alumni | Information | Alumni | Information|
 |:------------ |:------------|:---------------------|:------------------------|
+|![](/group_data/people_photos/hli8.jpeg){: .image_people}|Dr. Hui Li<br/>CBE Ph.D. 2018|
 |![](/group_data/people_photos/abajpai.jpeg){: .image_people}|Dr. Anshumaan Bajpai<br/>CBE Ph.D., 2017<br/>Intel |![](/group_data/people_photos/qsherida.JPG){: .image_people}|Dr. Quintin Sheridan<br/>CBE Ph.D., 2017|
-|![](/group_data/people_photos/cpaolucc.JPG){: .image_people}|Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Stanford  |![](/group_data/people_photos/lherder.jpg){: .image_people}|Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|
+|![](/group_data/people_photos/cpaolucc.JPG){: .image_people}|Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Ass. Prof., U of Virginia  |![](/group_data/people_photos/lherder.jpg){: .image_people}|Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|
 |![](/group_data/people_photos/tanggara.png){: .image_people}|Dr. Trunojoyo Anggara <br/>CBE Ph.D., 2015<br/>Notre Dame|![](/group_data/people_photos/mpennin1.png){: .image_people}|Dr. Michael Penninger <br/>CBE Ph.D., 2015 <br/>UOP|
 |![](/group_data/people_photos/jclay.JPG){: .image_people}|Dr. John Clay <br/>CBE Ph.D., 2014 <br/>U. Missouri|![](/group_data/people_photos/jbray2.JPG){: .image_people}| <br/>Dr. Jason Bray <br/>CBE Ph.D., 2013 <br/>Phillips 66|
 |![](/group_data/people_photos/dmccalma.png){: .image_people}| <br/>Dr. Dorrell McCalman <br/>CBE Ph.D., 2013 <br/>Notre Dame|![](/group_data/people_photos/dschmid6.JPG){: .image_people}|Dr. David Schmidt <br/>CBE Ph.D., 2012 <br/>Google|
@@ -21,6 +22,7 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
+|Gray N Laughlin | Chemical M.Sc., 2018|
 |Solomon Assefa |Chemistry M.Sc., 2016 |G+B+9 MultiPurpose Commercial Building|Elucidating Thermodynamics and Kinetics of CO-Oxidation-Induced Missing-Row Reconstruction of Ph(110) via DFT Methods|
 |Steven McDonough|Chemistry M.Sc., 2015||Using Through-Space, Dipole-Dipole, and CO-d-band Interactions to Predict the Formation Energy of CO/Pd(111) Configurations|
 |Michelle Morton|Chemistry M.Sc., 2013|Teacher|Effects of Nitrogen Based Anions on CO2 Binding and Proton Affinity|
@@ -56,6 +58,7 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
+|Dr. Tong Wu|Post-doc,2017-2018|Future Finance|Cluster Distributions in Zeolites|
 |Dr. Onise Sharia|Post-doc, 2014-2016|Bank of America|	Hybrid Perovskites|
 |Dr. Kurt Frey|Post-doc, 2013-2015||
 |Dr. Dorrell McCalman|Post-doc, 2013-2014	||
