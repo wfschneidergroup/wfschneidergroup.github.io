@@ -41,7 +41,7 @@ You may need to add photos in several folders.
 ## Section D. Files to modify for each page  
 1. Home page  
 The home page carousal has the highlighted figures from papers published by our group. To update the figures in carousal, you need 2 steps.  
-Add/change figure(width:height = 1.6:1) in the folder: group_data/home_photoes/  
+Add/change figure(width:height = 1.8:1) in the folder: group_data/home_photoes/  
 Edit figure order, path, caption and other information in the file: _data/home_photo.yml  
 Edit content in the markdown file: index.md   
 2. Group-Bill Schneider page  
