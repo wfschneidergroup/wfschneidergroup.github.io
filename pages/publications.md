@@ -14,6 +14,8 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
+1. S. Li, H. Li, R. Gounder, A. Debellis, I. B. Müller, S. Prasad, A. Moini, and W. F. Schneider "First-Principles Comparison of Proton and Divalent Copper Cation Exchange Energy Landscapes in SSZ-13 Zeolite," *J. Phys. Chem. C* **2018** *122*, *41*, 23564-23573. [doi:10.1021/acs.jpcc.8b07213](http://dx.doi.org/10.1021/acs.jpcc.8b07213)
+
 1. C. T. Elmore, M. E. Seidler, H. O. Ford, L. C. Merrill, S. P. Upadhyay, W. F. Schneider, and J. L. Schaefer, "Ion Transport in Solvent-Free, Crosslinked, Single-Ion Conducting  Polymer Electrolytes for Post-Lithium Ion Batteries," *Batteries* **2018**, *4*, 28. [doi:10.3390/batteries4020028](http://dx.doi.org/10.3390/batteries4020028)
 
 1. J. G. Chen, R. M. Crooks, L. C. Seefeldt, K. L. Bren, R. M. Bullock, M. Y. Darensbourg, P. L. Holland, B. Hoffman, M. J. Janik, A. K. Jones, M. G. Kanatzidis, P. King, K. M. Lancaster, S. V. Lymar, P. Pfromm, W. F. Schneider, R. R. Schrock, "Beyond fossil fuel–driven nitrogen transformations," *Science* **2018**, *360*, 873. [doi:10.1126/science.aar6611](http://dx.doi.org/10.1126/science.aar6611)
