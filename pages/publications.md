@@ -366,6 +366,8 @@ layout: default
    &emsp;&emsp;&emsp;<a href="#Top">&lt;&lt; back to top</a>  
 
 * * *
+1. S. Li and W. F. Schneider, "Supercell Models of Brønsted and Lewis Sites in Zeolites,” in *Handbook of Materials Modeling*, Andreoni W., and Yip S., eds., Springer, Cham, **2018**.
+
 1. D. C. McCalman and W. F. Schneider, "First-principles Approaches to Understanding Heterogeneous Catalysis,” in *Heterogeneous Catalysis at Nanoscale for Energy Applications*, F. Tao, W. F. Schneider and P. V. Kamat, eds., Wiley, **2015**.
 
 1. J. M. Bray and W. F. Schneider, "First-principles Thermodynamic Models in Heterogeneous Catalysis,” in *Computational Catalysis*, A. Asthagiri and M. Janik, eds., RSC Publishing, **2013**.
