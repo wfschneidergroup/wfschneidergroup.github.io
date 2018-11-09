@@ -8,3 +8,5 @@ Browse our [principal investigator](pages/group/bill_schneider), [lab members](p
 For more information on chemical engineering and chemistry at Notre Dame, visit the [Department of Chemical and Biomolecular Engineering](https://cbe.nd.edu/) and the [Department of Chemistry & Biochemistry](https://chemistry.nd.edu/).
 
 [Group wiki](https://github.com/wfschneidergroup/wiki) is here.
+
+[Group github](https://github.com/wfschneidergroup) is here.
