@@ -14,7 +14,9 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
-1. S. Li, H. Li, R. Gounder, A. Debellis, I. B. Müller, S. Prasad, A. Moini, and W. F. Schneider, "First-Principles Comparison of Proton and Divalent Copper Cation Exchange Energy Landscapes in SSZ-13 Zeolite," *J. Phys. Chem. C* **2018** *122*, *41*, 23564-23573. [doi:10.1021/acs.jpcc.8b07213](http://dx.doi.org/10.1021/acs.jpcc.8b07213)
+1. H. Li, C. Paolucci, I. Khurana, L. N. Wilcox, F. Gl&ouml;tl, J. D. Albarracin-Caballero, A. J. Shih, F. H. Ribeiro, R. Gounder, and W. F. Schneider, "Consequences of Exchange-Site Heterogeneity and Dynamics on the UV-Visible Spectrum of Cu-Exchanged SSZ-13," /Chem. Sci./ *2019*, in press. [doi:10.1039/C8SC05056B](http://dx.doi.org/10.1039/C8SC05056B)
+
+1. S. Li, H. Li, R. Gounder, A. Debellis, I. B. M&uuml;ller, S. Prasad, A. Moini, and W. F. Schneider, "First-Principles Comparison of Proton and Divalent Copper Cation Exchange Energy Landscapes in SSZ-13 Zeolite," *J. Phys. Chem. C* **2018** *122*, *41*, 23564-23573. [doi:10.1021/acs.jpcc.8b07213](http://dx.doi.org/10.1021/acs.jpcc.8b07213)
 
 1. S. Li, Y. Wang, T. Wu, and W. F. Schneider, "First-Principles Analysis of Site- and Condition-Dependent Fe Speciation in SSZ-13 and Implications for Catalyst Optimization," *ACS Catal.* **2018** *8*, *11*, 10119-10130. [doi:10.1021/acscatal.8b02107](http://dx.doi.org/10.1021/acscatal.8b02107)
 
@@ -22,7 +24,7 @@ layout: default
 
 1. J. G. Chen, R. M. Crooks, L. C. Seefeldt, K. L. Bren, R. M. Bullock, M. Y. Darensbourg, P. L. Holland, B. Hoffman, M. J. Janik, A. K. Jones, M. G. Kanatzidis, P. King, K. M. Lancaster, S. V. Lymar, P. Pfromm, W. F. Schneider, R. R. Schrock, "Beyond fossil fuel–driven nitrogen transformations," *Science* **2018**, *360*, 873. [doi:10.1126/science.aar6611](http://dx.doi.org/10.1126/science.aar6611)
 
-1. Q. R. Sheridan, R. G. Mullen, T. Lee, E. J. Maginn, and W. F. Schneider, "Hybrid Computational Strategy for Predicting \ce{CO2} Solubilities in Reactive Ionic Liquids," *J. Phys. Chem. C* **2018** *122*, 14213-14221. [doi:10.1021/acs.jpcc.8b02095](http://dx.doi.org/10.1021/acs.jpcc.8b02095) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-NsPAcaDvKqrbPGDTwihz)
+1. Q. R. Sheridan, R. G. Mullen, T. Lee, E. J. Maginn, and W. F. Schneider, "Hybrid Computational Strategy for Predicting CO<sub>2</sub> Solubilities in Reactive Ionic Liquids," *J. Phys. Chem. C* **2018** *122*, 14213-14221. [doi:10.1021/acs.jpcc.8b02095](http://dx.doi.org/10.1021/acs.jpcc.8b02095) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-NsPAcaDvKqrbPGDTwihz)
 
 1. Q. R. Sheridan, W. F. Schneider, E. J. Maginn. "Role of Molecular Modeling in the Development of CO<sub>2</sub>–Reactive Ionic Liquids." *Chem. Rev.* **2018**, *118*,  5242-5260. [doi:10.1021/acs.chemrev.8b00017](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.8b00017) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-giSv77zeiZr9uxVR4M4x)
 
