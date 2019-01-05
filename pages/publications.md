@@ -14,7 +14,7 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
-1. H. Li, C. Paolucci, I. Khurana, L. N. Wilcox, F. Gl&ouml;tl, J. D. Albarracin-Caballero, A. J. Shih, F. H. Ribeiro, R. Gounder, and W. F. Schneider, "Consequences of Exchange-Site Heterogeneity and Dynamics on the UV-Visible Spectrum of Cu-Exchanged SSZ-13," *Chem. Sci.* **2019**, in press. [doi:10.1039/C8SC05056B](http://dx.doi.org/10.1039/C8SC05056B)
+1. H. Li, C. Paolucci, I. Khurana, L. N. Wilcox, F. G&ouml;10.1039/C8SC05056Btl, J. D. Albarracin-Caballero, A. J. Shih, F. H. Ribeiro, R. Gounder, and W. F. Schneider, "Consequences of Exchange-Site Heterogeneity and Dynamics on the UV-Visible Spectrum of Cu-Exchanged SSZ-13," *Chem. Sci.* **2019**, in press. [doi:10.1039/C8SC05056B](http://dx.doi.org/10.1039/C8SC05056B)
 
 1. S. Li, H. Li, R. Gounder, A. Debellis, I. B. M&uuml;ller, S. Prasad, A. Moini, and W. F. Schneider, "First-Principles Comparison of Proton and Divalent Copper Cation Exchange Energy Landscapes in SSZ-13 Zeolite," *J. Phys. Chem. C* **2018** *122*, *41*, 23564-23573. [doi:10.1021/acs.jpcc.8b07213](http://dx.doi.org/10.1021/acs.jpcc.8b07213)
 
@@ -26,15 +26,15 @@ layout: default
 
 1. Q. R. Sheridan, R. G. Mullen, T. Lee, E. J. Maginn, and W. F. Schneider, "Hybrid Computational Strategy for Predicting CO<sub>2</sub> Solubilities in Reactive Ionic Liquids," *J. Phys. Chem. C* **2018** *122*, 14213-14221. [doi:10.1021/acs.jpcc.8b02095](http://dx.doi.org/10.1021/acs.jpcc.8b02095) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-NsPAcaDvKqrbPGDTwihz)
 
-1. Q. R. Sheridan, W. F. Schneider, E. J. Maginn. "Role of Molecular Modeling in the Development of CO<sub>2</sub>–Reactive Ionic Liquids." *Chem. Rev.* **2018**, *118*,  5242-5260. [doi:10.1021/acs.chemrev.8b00017](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.8b00017) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-giSv77zeiZr9uxVR4M4x)
+1. Q. R. Sheridan, W. F. Schneider, and E. J. Maginn. "Role of Molecular Modeling in the Development of CO<sub>2</sub>–Reactive Ionic Liquids," *Chem. Rev.* **2018**, *118*,  5242-5260. [doi:10.1021/acs.chemrev.8b00017](https://pubs.acs.org/doi/full/10.1021/acs.chemrev.8b00017) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-giSv77zeiZr9uxVR4M4x)
 
-1. P. Mehta, P. Barboun, F. A. Herrera, J. Kim, P. Rumbach, D. B. Go, J. C. Hicks, and W. F. Schneider. "Overcoming ammonia synthesis scaling relations with plasma-enabled catalysis." *Nature Catalysis* **2018**, 1, 269-275. [doi:10.1038/s41929-018-0045-1](https://www.nature.com/articles/s41929-018-0045-1) [readcube]( https://rdcu.be/K4uW)
+1. P. Mehta, P. Barboun, F. A. Herrera, J. Kim, P. Rumbach, D. B. Go, J. C. Hicks, and W. F. Schneider. "Overcoming ammonia synthesis scaling relations with plasma-enabled catalysis," *Nature Catalysis* **2018**, 1, 269-275. [doi:10.1038/s41929-018-0045-1](https://www.nature.com/articles/s41929-018-0045-1) [readcube]( https://rdcu.be/K4uW)
 
-1. W. F. Schneider, H. Guo. "Machine Learning." *J. Phys. Chem. C* **2018**, 122, 1889. [doi: 10.1021/acs.jpcc.8b00036](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b00036)
+1. W. F. Schneider and H. Guo, "Machine Learning," *J. Phys. Chem. C* **2018**, 122, 1889. [doi: 10.1021/acs.jpcc.8b00036](https://pubs.acs.org/doi/10.1021/acs.jpcc.8b00036)
 
-1. A. Bajpai, P. Mehta, K. Frey, A. M. Lehmer, and W. F. Schneider. "Benchmark First-Principles Calculations of Adsorbate Free Energies." *ACS Catalysis* **2018**, 8, 1945-1954. [doi:10.1021/acscatal.7b03438](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b03438)
+1. A. Bajpai, P. Mehta, K. Frey, A. M. Lehmer, and W. F. Schneider, "Benchmark First-Principles Calculations of Adsorbate Free Energies," *ACS Catalysis* **2018**, 8, 1945-1954. [doi:10.1021/acscatal.7b03438](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b03438)
 
-1. H. Li, C. Paolucci, and W. F. Schneider. "Zeolite Adsorption Free Energies from Ab initio Potentials of Mean Force." *J. Chem. Theory Comput.* **2017**, 14, 929-938. [http://dx.doi.org/10.1021/acs.jctc.7b00716](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00716)
+1. H. Li, C. Paolucci, and W. F. Schneider, "Zeolite Adsorption Free Energies from Ab initio Potentials of Mean Force," *J. Chem. Theory Comput.* **2017**, 14, 929-938. [http://dx.doi.org/10.1021/acs.jctc.7b00716](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00716)
 
 1. C. Paolucci, I. Khurana, A. A. Parekh, S. Li, A. J. Shih, H. Li, J. R. Di Iorio, J. D. Albarracin-Caballero, A. Yezerets, J. T. Miller, W. N. Delgass, F. H. Ribeiro, W. F. Schneider, and R. Gounder, "Dynamic Multinuclear Sites Formed by Mobilized Copper Ions in NOx Selective Catalytic Reduction,” *Science* **2017**, 357(, 898-903. [http://dx.doi.org/10.1126/science.aan5630](http://dx.doi.org/10.1126/science.aan5630)
 
