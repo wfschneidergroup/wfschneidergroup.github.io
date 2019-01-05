@@ -14,7 +14,7 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
-1. H. Li, C. Paolucci, I. Khurana, L. N. Wilcox, F. G&ouml;10.1039/C8SC05056Btl, J. D. Albarracin-Caballero, A. J. Shih, F. H. Ribeiro, R. Gounder, and W. F. Schneider, "Consequences of Exchange-Site Heterogeneity and Dynamics on the UV-Visible Spectrum of Cu-Exchanged SSZ-13," *Chem. Sci.* **2019**, in press. [doi:10.1039/C8SC05056B](http://dx.doi.org/10.1039/C8SC05056B)
+1. H. Li, C. Paolucci, I. Khurana, L. N. Wilcox, F. G&ouml;ltl, J. D. Albarracin-Caballero, A. J. Shih, F. H. Ribeiro, R. Gounder, and W. F. Schneider, "Consequences of Exchange-Site Heterogeneity and Dynamics on the UV-Visible Spectrum of Cu-Exchanged SSZ-13," *Chem. Sci.* **2019**, in press. [doi:10.1039/C8SC05056B](http://dx.doi.org/10.1039/C8SC05056B)
 
 1. S. Li, H. Li, R. Gounder, A. Debellis, I. B. M&uuml;ller, S. Prasad, A. Moini, and W. F. Schneider, "First-Principles Comparison of Proton and Divalent Copper Cation Exchange Energy Landscapes in SSZ-13 Zeolite," *J. Phys. Chem. C* **2018** *122*, *41*, 23564-23573. [doi:10.1021/acs.jpcc.8b07213](http://dx.doi.org/10.1021/acs.jpcc.8b07213)
 
