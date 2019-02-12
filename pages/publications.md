@@ -14,6 +14,10 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
+1. H. Ma and W. F. Schneider, "Structure- and Temperature-Dependence of Pt-Catalyzed Ammonia Oxidation Rates and Selectivities," *ACS Catal.* **2019**, in press. [10.1021/acscatal.8b04251](http://dx.doi.org/10.1021/acscatal.8b04251)
+
+1. A. J. Shih⁠, I. Khuranaa⁠, H. Li, J. González,⁠ A. Kumar, C. Paolucci,⁠ T. M. Lardinois, C. B. Jones, J. D. Albarracin Caballero, K. Kamasamudram, A. Yezerets, W. N. Delgass, J. T. Miller, A. Luz Villac, W. F. Schneider, R. Gounder,⁠ and F. H. Ribeiro, "Spectroscopic and kinetic responses of Cu-SSZ-13 to SO<sub>2</sub> exposure and implications for NOx⁠ selective catalytic reduction," *Appl. Catal. A* **2019**, *575*, 122-131. [doi:10.1016/j.apcata.2019.01.024](https://doi.org/10.1016/j.apcata.2019.01.024)
+
 1. H. Li, C. Paolucci, I. Khurana, L. N. Wilcox, F. G&ouml;ltl, J. D. Albarracin-Caballero, A. J. Shih, F. H. Ribeiro, R. Gounder, and W. F. Schneider, "Consequences of Exchange-Site Heterogeneity and Dynamics on the UV-Visible Spectrum of Cu-Exchanged SSZ-13," *Chem. Sci.* **2019**, in press. [doi:10.1039/C8SC05056B](http://dx.doi.org/10.1039/C8SC05056B)
 
 1. S. Li, H. Li, R. Gounder, A. Debellis, I. B. M&uuml;ller, S. Prasad, A. Moini, and W. F. Schneider, "First-Principles Comparison of Proton and Divalent Copper Cation Exchange Energy Landscapes in SSZ-13 Zeolite," *J. Phys. Chem. C* **2018** *122*, *41*, 23564-23573. [doi:10.1021/acs.jpcc.8b07213](http://dx.doi.org/10.1021/acs.jpcc.8b07213)
