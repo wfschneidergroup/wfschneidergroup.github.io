@@ -12,6 +12,7 @@ layout: default
 |![](/group_data/people_photos/ywang40.jpg){: .image_people}|Yujia Wang<br/>150 C Fitzpatrick Hall<br/>[ywang40@nd.edu](mailto:ywang40@nd.edu)<br/>Cu Exchanged Zeolites |![](/group_data/people_photos/jko1.jpg){: .image_people}|Jeonghyun Ko<br/>150 J Fitzpatrick Hall<br/>[jko1@nd.edu](mailto:jko1@nd.edu)<br/>Alkane Dehydrogenation
 |![](/group_data/people_photos/cwaitt.jpeg){: .image_people}|Craig Waitt<br/>150 C Fitzpatrick Hall<br/>[cwaitt@nd.edu](mailto:cwaitt@nd.edu)<br/>First-Principles Free Energy Calculations |![](/group_data/people_photos/jcrum.jpg){: .image_people}|Jerry Crum<br/>150 J Fitzpatrick Hall<br/>[jcrum@nd.edu](mailto:jcrum@nd.edu)<br/>Zeolites for Oligomerization
 |![](/group_data/people_photos/agoswami.JPG){: .image_people}|Anshuman Goswami<br/>150 C Fitzpatrick Hall<br/>[agoswami@nd.edu](mailto:agoswami@nd.edu)<br/>KMC simulation of heterogeneous<br/>catalytic reactions |![](/group_data/people_photos/nmehra.png){: .image_people}|Neha Mehra<br/>150 C Fitzpatrick Hall<br/>[nmehra@nd.edu](mailto:nmehra@nd.edu)<br/>Zeolites for Hydrocarbon Oligomerization
+|![](/group_data/people_photos/yxh.jpg){: .image_people}|Yixiao Hou<br/>150 L Fitzpatrick Hall<br/>[yhou@nd.edu](mailto:yhou@nd.edu)<br/>Plasma Catalysis |![](/group_data/people_photos/jlim.jpg){: .image_people}|Jian Ren Lim<br/>150 L Fitzpatrick Hall<br/>[jlim6@nd.edu](mailto:jlim6@nd.edu)<br/>Classical Simulations in Zeolites
 
 
 * * *
