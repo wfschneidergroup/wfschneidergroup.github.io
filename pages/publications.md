@@ -14,7 +14,13 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
-1. H. Ma and W. F. Schneider, "Structure- and Temperature-Dependence of Pt-Catalyzed Ammonia Oxidation Rates and Selectivities," *ACS Catal.* **2019**, in press. [10.1021/acscatal.8b04251](http://dx.doi.org/10.1021/acscatal.8b04251) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-Nd2qmK9DzVrTvrDSHqUM)
+1. P. Barboun, P. Mehta, F. Herrera, D. Go, W. F. Schneider, and J. C. Hicks, "Distinguishing Plasma Contributions to Catalyst Performance in Plasma-Assisted Ammonia Synthesis," *ACS Sustainable Energy* **2019**, in press. [doi:10.1021/acssuschemeng.9b00406](http://dx.doi.org/10.1021/acssuschemeng.9b00406)
+
+1. P. Mehta, P. Barboun, D. B. Go, J. C. Hicks, and W. F. Schneider, "Catalysis enabled by plasma activation of strong chemical bonds: a review," *ACS Energy Lett.* **2019**, *4*, 1115-1133. ACS Editor's Choice: [doi:10.1021/acsenergylett.9b00263](http://dx.doi.org/10.1021/acsenergylett.9b00263) 
+
+1. F. Herrera; G. Brown, P. Barboun, N. Turan, P. Mehta, W. F. Schneider, J. C. Hicks, and D. Go, "The Impact of Transition Metal Catalysts on Macroscopic Dielectric Barrier Discharge (DBD) Characteristics in an Ammonia Synthesis Plasma Catalysis Reactor," *J. Phys. D: Applied Physics* **2019**, *52*, 224002. [doi:10.1088/1361-6463/ab0c58](https://doi.org/10.1088/1361-6463/ab0c58)
+
+1. H. Ma and W. F. Schneider, "Structure- and Temperature-Dependence of Pt-Catalyzed Ammonia Oxidation Rates and Selectivities," *ACS Catal.* **2019**, *9*, 2407 - 2414. [doi:10.1021/acscatal.8b04251](http://dx.doi.org/10.1021/acscatal.8b04251) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-Nd2qmK9DzVrTvrDSHqUM)
 
 1. A. J. Shih⁠, I. Khuranaa⁠, H. Li, J. González,⁠ A. Kumar, C. Paolucci,⁠ T. M. Lardinois, C. B. Jones, J. D. Albarracin Caballero, K. Kamasamudram, A. Yezerets, W. N. Delgass, J. T. Miller, A. Luz Villac, W. F. Schneider, R. Gounder,⁠ and F. H. Ribeiro, "Spectroscopic and kinetic responses of Cu-SSZ-13 to SO<sub>2</sub> exposure and implications for NOx⁠ selective catalytic reduction," *Appl. Catal. A* **2019**, *575*, 122-131. [doi:10.1016/j.apcata.2019.01.024](https://doi.org/10.1016/j.apcata.2019.01.024)
 
