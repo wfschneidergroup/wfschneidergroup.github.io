@@ -14,9 +14,15 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
-1. P. Barboun, P. Mehta, F. Herrera, D. Go, W. F. Schneider, and J. C. Hicks, "Distinguishing Plasma Contributions to Catalyst Performance in Plasma-Assisted Ammonia Synthesis," *ACS Sustainable Energy* **2019**, in press. [doi:10.1021/acssuschemeng.9b00406](http://dx.doi.org/10.1021/acssuschemeng.9b00406)
+1. S. Matera, W. F. Schneider, A. Heyden, and A. Savara, "Progress in Accurate Chemical Kinetic Modeling, Simulations, and Parameter Estimation for Heterogeneous Catalysis," *ACS Catal.* **2019**,
+in press. [doi: 10.1021/acscatal.9b01234](https://doi.org/10.1021/acscatal.9b01234)
 
-1. P. Mehta, P. Barboun, D. B. Go, J. C. Hicks, and W. F. Schneider, "Catalysis enabled by plasma activation of strong chemical bonds: a review," *ACS Energy Lett.* **2019**, *4*, 1115-1133. ACS Editor's Choice: [doi:10.1021/acsenergylett.9b00263](http://dx.doi.org/10.1021/acsenergylett.9b00263) 
+1. H. Ma, S. Li, H. Wang, and W. F. Schneider, "Water-mediated reduction of aqueous
+N-nitrosodimethylamine on Pd," *Environmental Sci. Technol.* **2019**, in press. [doi:10.1021/acs.est.9b01425](https://doi.org/10.1021/acs.est.9b01425)
+
+1. P. Barboun, P. Mehta, F. Herrera, D. Go, W. F. Schneider, and J. C. Hicks, "Distinguishing Plasma Contributions to Catalyst Performance in Plasma-Assisted Ammonia Synthesis," *ACS Sustainable Chem. Eng.* **2019**, in press. [doi:10.1021/acssuschemeng.9b00406](http://dx.doi.org/10.1021/acssuschemeng.9b00406)
+
+1. P. Mehta, P. Barboun, D. B. Go, J. C. Hicks, and W. F. Schneider, "Catalysis enabled by plasma activation of strong chemical bonds: a review," *ACS Energy Lett.* **2019**, *4*, 1115-1133. ACS Editor's Choice: [doi:10.1021/acsenergylett.9b00263](http://dx.doi.org/10.1021/acsenergylett.9b00263)
 
 1. F. Herrera; G. Brown, P. Barboun, N. Turan, P. Mehta, W. F. Schneider, J. C. Hicks, and D. Go, "The Impact of Transition Metal Catalysts on Macroscopic Dielectric Barrier Discharge (DBD) Characteristics in an Ammonia Synthesis Plasma Catalysis Reactor," *J. Phys. D: Applied Physics* **2019**, *52*, 224002. [doi:10.1088/1361-6463/ab0c58](https://doi.org/10.1088/1361-6463/ab0c58)
 

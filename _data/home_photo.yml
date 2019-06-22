@@ -1,6 +1,14 @@
 # Belongs at: /_data/home.yml
-
 - index: 0
+  url: /group_data/home_photos/EST2019.png
+  title: Water-mediated reduction of aqueous N-nitrosodimethylamine on Pd
+  journal: Environmental Sci. Technol.
+  year: 2019
+  volume: in press
+  pages: xxxx
+  link: https://doi.org/10.1021/acs.est.9b01425
+
+- index: 1
   url: /group_data/home_photos/ACSCatalysis_SL.jpg
   title: First-Principles Analysis of Site- and Condition-Dependent Fe Speciation in SSZ-13 and Implications for Catalyst Optimization
   journal: ACS Catal.
@@ -9,7 +17,7 @@
   pages: 10119–10130
   link: https://pubs.acs.org/doi/10.1021/acscatal.8b02107
 
-- index: 1
+- index: 2
   url: /group_data/home_photos/pmehta1-natcatal-2018.png
   title: Overcoming Ammonia Synthesis Scaling Relations with Plasma-enabled Catalysis
   journal: Nature Catal.
@@ -17,9 +25,9 @@
   volume: 1
   pages: 269-275
   link: https://www.nature.com/articles/s41929-018-0045-1
-  
 
-- index: 2
+
+- index: 3
   url: /group_data/home_photos/ACSCatalysis2018_2.jpg
   title: Benchmark First-Principles Calculations of Adsorbate Free Energies
   journal: ACS Catal.
@@ -27,9 +35,9 @@
   volume: 8
   pages: 1945-1954
   link: https://pubs.acs.org/doi/abs/10.1021/acscatal.7b03438
-  
 
-- index: 3
+
+- index: 4
   url: /group_data/home_photos/JCTC2017_2.jpg
   title: Zeolite Adsorption Free Energies from ab Initio Potentials of Mean Force
   journal: J. Chem. Theory Comput.
@@ -38,7 +46,7 @@
   pages: 929-938
   link: https://pubs.acs.org/doi/full/10.1021/acs.jctc.7b00716
 
-- index: 4
+- index: 5
   url: /group_data/home_photos/Science2017_2.jpg
   title: Dynamic multinuclear sites formed by mobilized copper ions in NOx selective catalytic reduction
   journal: Science
@@ -46,9 +54,9 @@
   volume: 357
   pages: 898-903
   link: http://science.sciencemag.org/content/early/2017/08/16/science.aan5630
-  
 
-- index: 5
+
+- index: 6
   url: /group_data/home_photos/ACSCatalysis2017_2.jpg
   title: Experimental and Computational Interrogation of Fast SCR Mechanism and Active Sites on H‑Form SSZ-13
   journal: ACS Catal.
@@ -57,7 +65,7 @@
   pages: 5087-5096
   link: https://pubs.acs.org/doi/abs/10.1021/acscatal.7b01319
 
-- index: 6
+- index: 7
   url: /group_data/home_photos/ACSCatalysis2017-2_2.jpg
   title: Adsorption Energy Correlations at the Metal−Support Boundary
   journal: ACS Catal.
