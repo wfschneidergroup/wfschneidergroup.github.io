@@ -14,15 +14,15 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
-1. S. Li, R. Gounder, A. D. Debellis, I. Muller, S. Prasad, A. Moini, and W. F. Schneider, "Influence of N,N,N-trimethyl-1-adamantyl Ammonium Structure Directing Agent on Al Substitution in SSZ-13 Zeolite," *J. Phys. Chem. C* **2019**, in press. [doi:10.1021/acs.jpcc.9b05334](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b05334)
+1. S. Li, R. Gounder, A. D. Debellis, I. M&uuml;ller, S. Prasad, A. Moini, and W. F. Schneider, "Influence of N,N,N-trimethyl-1-adamantyl Ammonium Structure Directing Agent on Al Substitution in SSZ-13 Zeolite," *J. Phys. Chem. C* **2019**, in press. [doi:10.1021/acs.jpcc.9b05334](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b05334)
 
 1. S. Matera, W. F. Schneider, A. Heyden, and A. Savara, "Progress in Accurate Chemical Kinetic Modeling, Simulations, and Parameter Estimation for Heterogeneous Catalysis," *ACS Catal.* **2019**,
 in press. [doi: 10.1021/acscatal.9b01234](https://doi.org/10.1021/acscatal.9b01234)
 
 1. H. Ma, S. Li, H. Wang, and W. F. Schneider, "Water-mediated reduction of aqueous
-N-nitrosodimethylamine on Pd," *Environmental Sci. Technol.* **2019**, in press. [doi:10.1021/acs.est.9b01425](https://doi.org/10.1021/acs.est.9b01425)
+N-nitrosodimethylamine on Pd," *Environ. Sci. Technol.* **2019**, *53*, 7551-7563. [doi:10.1021/acs.est.9b01425](https://doi.org/10.1021/acs.est.9b01425) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-vCwY6ttuwrGEUEhsgiVr)
 
-1. P. Barboun, P. Mehta, F. Herrera, D. Go, W. F. Schneider, and J. C. Hicks, "Distinguishing Plasma Contributions to Catalyst Performance in Plasma-Assisted Ammonia Synthesis," *ACS Sustainable Chem. Eng.* **2019**, in press. [doi:10.1021/acssuschemeng.9b00406](http://dx.doi.org/10.1021/acssuschemeng.9b00406)
+1. P. Barboun, P. Mehta, F. Herrera, D. Go, W. F. Schneider, and J. C. Hicks, "Distinguishing Plasma Contributions to Catalyst Performance in Plasma-Assisted Ammonia Synthesis," *ACS Sustainable Chem. Eng.* **2019**, *9*, 8621-8630. [doi:10.1021/acssuschemeng.9b00406](http://dx.doi.org/10.1021/acssuschemeng.9b00406)
 
 1. P. Mehta, P. Barboun, D. B. Go, J. C. Hicks, and W. F. Schneider, "Catalysis enabled by plasma activation of strong chemical bonds: a review," *ACS Energy Lett.* **2019**, *4*, 1115-1133. ACS Editor's Choice: [doi:10.1021/acsenergylett.9b00263](http://dx.doi.org/10.1021/acsenergylett.9b00263)
 
@@ -30,7 +30,7 @@ N-nitrosodimethylamine on Pd," *Environmental Sci. Technol.* **2019**, in press.
 
 1. H. Ma and W. F. Schneider, "Structure- and Temperature-Dependence of Pt-Catalyzed Ammonia Oxidation Rates and Selectivities," *ACS Catal.* **2019**, *9*, 2407 - 2414. [doi:10.1021/acscatal.8b04251](http://dx.doi.org/10.1021/acscatal.8b04251) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-Nd2qmK9DzVrTvrDSHqUM)
 
-1. A. J. Shih⁠, I. Khuranaa⁠, H. Li, J. González,⁠ A. Kumar, C. Paolucci,⁠ T. M. Lardinois, C. B. Jones, J. D. Albarracin Caballero, K. Kamasamudram, A. Yezerets, W. N. Delgass, J. T. Miller, A. Luz Villac, W. F. Schneider, R. Gounder,⁠ and F. H. Ribeiro, "Spectroscopic and kinetic responses of Cu-SSZ-13 to SO<sub>2</sub> exposure and implications for NOx⁠ selective catalytic reduction," *Appl. Catal. A* **2019**, *575*, 122-131. [doi:10.1016/j.apcata.2019.01.024](https://doi.org/10.1016/j.apcata.2019.01.024)
+1. A. J. Shih⁠, I. Khuranaa⁠, H. Li, J. González,⁠ A. Kumar, C. Paolucci,⁠ T. M. Lardinois, C. B. Jones, J. D. Albarracin Caballero, K. Kamasamudram, A. Yezerets, W. N. Delgass, J. T. Miller, A. Luz Villac, W. F. Schneider, R. Gounder,⁠ and F. H. Ribeiro, "Spectroscopic and Kinetic Responses of Cu-SSZ-13 to SO<sub>2</sub> Exposure and Implications for NO<sub>x</sub>⁠ Selective Catalytic Reduction," *Appl. Catal. A* **2019**, *575*, 122-131. [doi:10.1016/j.apcata.2019.01.024](https://doi.org/10.1016/j.apcata.2019.01.024)
 
 1. H. Li, C. Paolucci, I. Khurana, L. N. Wilcox, F. G&ouml;ltl, J. D. Albarracin-Caballero, A. J. Shih, F. H. Ribeiro, R. Gounder, and W. F. Schneider, "Consequences of Exchange-Site Heterogeneity and Dynamics on the UV-Visible Spectrum of Cu-Exchanged SSZ-13," *Chem. Sci.* **2019**, *10*, 2372-2384. [doi:10.1039/C8SC05056B](http://dx.doi.org/10.1039/C8SC05056B)
 
