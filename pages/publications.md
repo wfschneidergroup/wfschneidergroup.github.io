@@ -16,8 +16,7 @@ layout: default
 <a name="Recent Publications"></a> **Recent Publications**
 1. S. Li, R. Gounder, A. D. Debellis, I. M&uuml;ller, S. Prasad, A. Moini, and W. F. Schneider, "Influence of N,N,N-trimethyl-1-adamantyl Ammonium Structure Directing Agent on Al Substitution in SSZ-13 Zeolite," *J. Phys. Chem. C* **2019**, *123*, *28*, 17454-17458 [doi:10.1021/acs.jpcc.9b05334](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b05334)
 
-1. S. Matera, W. F. Schneider, A. Heyden, and A. Savara, "Progress in Accurate Chemical Kinetic Modeling, Simulations, and Parameter Estimation for Heterogeneous Catalysis," *ACS Catal.* **2019**,
-in press. [doi: 10.1021/acscatal.9b01234](https://doi.org/10.1021/acscatal.9b01234)
+1. S. Matera, W. F. Schneider, A. Heyden, and A. Savara, "Progress in Accurate Chemical Kinetic Modeling, Simulations, and Parameter Estimation for Heterogeneous Catalysis," *ACS Catal.* **2019**, *9*, 6624-6647 [doi: 10.1021/acscatal.9b01234](https://doi.org/10.1021/acscatal.9b01234)
 
 1. H. Ma, S. Li, H. Wang, and W. F. Schneider, "Water-mediated reduction of aqueous
 N-nitrosodimethylamine on Pd," *Environ. Sci. Technol.* **2019**, *53*, 7551-7563. [doi:10.1021/acs.est.9b01425](https://doi.org/10.1021/acs.est.9b01425) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-vCwY6ttuwrGEUEhsgiVr)
