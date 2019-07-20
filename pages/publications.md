@@ -14,7 +14,7 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
-1. S. Li, R. Gounder, A. D. Debellis, I. M&uuml;ller, S. Prasad, A. Moini, and W. F. Schneider, "Influence of N,N,N-trimethyl-1-adamantyl Ammonium Structure Directing Agent on Al Substitution in SSZ-13 Zeolite," *J. Phys. Chem. C* **2019**, in press. [doi:10.1021/acs.jpcc.9b05334](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b05334)
+1. S. Li, R. Gounder, A. D. Debellis, I. M&uuml;ller, S. Prasad, A. Moini, and W. F. Schneider, "Influence of N,N,N-trimethyl-1-adamantyl Ammonium Structure Directing Agent on Al Substitution in SSZ-13 Zeolite," *J. Phys. Chem. C* **2019**, *123*, *28*, 17454-17458 [doi:10.1021/acs.jpcc.9b05334](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b05334)
 
 1. S. Matera, W. F. Schneider, A. Heyden, and A. Savara, "Progress in Accurate Chemical Kinetic Modeling, Simulations, and Parameter Estimation for Heterogeneous Catalysis," *ACS Catal.* **2019**,
 in press. [doi: 10.1021/acscatal.9b01234](https://doi.org/10.1021/acscatal.9b01234)
