@@ -7,8 +7,8 @@ layout: default
 
 | Alumni | Information | Alumni | Information|
 |:------------ |:------------|:---------------------|:------------------------|
-|![](/group_data/people_photos/sli12.jpeg){: .image_people}|Dr. Sichi Li<br/>CBE Ph.D. 2019<br/>LLNL|
-|![](/group_data/people_photos/hli8.jpeg){: .image_people}|Dr. Hui Li<br/>CBE Ph.D. 2018 <br/>Cummins|![](/group_data/people_photos/pmehta1.jpeg){: .image_people}|Dr. Prateek Mehta<br/>CBE Ph.D. 2019<br/>ExxonMobile|
+|![](/group_data/people_photos/sli12.png){: .image_people}|Dr. Sichi Li<br/>CBE Ph.D. 2019<br/>LLNL|
+|![](/group_data/people_photos/hli8.jpeg){: .image_people}|Dr. Hui Li<br/>CBE Ph.D. 2018 <br/>Cummins|![](/group_data/people_photos/pmehta1.jpg){: .image_people}|Dr. Prateek Mehta<br/>CBE Ph.D. 2019<br/>ExxonMobile|
 |![](/group_data/people_photos/abajpai.jpeg){: .image_people}|Dr. Anshumaan Bajpai<br/>CBE Ph.D., 2017<br/>Intel |![](/group_data/people_photos/qsherida.JPG){: .image_people}|Dr. Quintin Sheridan<br/>CBE Ph.D., 2017|
 |![](/group_data/people_photos/cpaolucc.JPG){: .image_people}|Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Ass. Prof., U of Virginia  |![](/group_data/people_photos/lherder.jpg){: .image_people}|Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|
 |![](/group_data/people_photos/tanggara.png){: .image_people}|Dr. Trunojoyo Anggara <br/>CBE Ph.D., 2015<br/>Notre Dame|![](/group_data/people_photos/mpennin1.png){: .image_people}|Dr. Michael Penninger <br/>CBE Ph.D., 2015 <br/>UOP|
