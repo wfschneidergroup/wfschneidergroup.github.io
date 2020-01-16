@@ -14,6 +14,12 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
+
+
+1. A. Bajpai, K. Frey, and W. F. Schneider, "Comparison of Coverage-Dependent Binding Energy Models for Mean-Field Microkinetic Rate Predictions," *Langmuir* **2020**, *36*, 465-474. [doi:10.1021/acs.langmuir.9b03563](http://dx.doi.org/10.1021/acs.langmuir.9b03563)    [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-bgsz9n8ApWuaHS24aTzi)
+
+1. G. C. Schatz, A. B. McCoy, J.-E. Shea, C. J. Murphy, G. Scholes, V. Batista, K. Bhattacharyya, J. Bisquert, D. Crawford, T. Cuk, R. Dickson, H. Fairbrother, M. Forsyth, J. Fourkas, F. Geiger, A. Gewirth, T. Goodson III, G. R. Goward, H. Guo, G. V. Hartland, P. Jungwirth, S. Lin, G.-Yu Liu, Z.-P. Liu, B. Mennucci, T. Minton, A. S. Mullin, O. Prezhdo, W. F. Schneider, B. Schwartz, N. Snider, G. Solomon, E. Weitz, X. Yang, A. Yethiraj, F. Zaera, M. Zanni, J. Zhang, H. Zhong, T. Zwier, "The /JPC/ Periodic Table," *J. Phys. Chem. C* **2019**, *123*, 17063-17074. [doi:10.1021/acs.jpcc.9b03462](https://doi.org/10.1021/acs.jpcc.9b03462)
+
 1. S. Li, R. Gounder, A. D. Debellis, I. M&uuml;ller, S. Prasad, A. Moini, and W. F. Schneider, "Influence of N,N,N-trimethyl-1-adamantyl Ammonium Structure Directing Agent on Al Substitution in SSZ-13 Zeolite," *J. Phys. Chem. C* **2019**, *123*, *28*, 17454-17458 [doi:10.1021/acs.jpcc.9b05334](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b05334)
 
 1. S. Matera, W. F. Schneider, A. Heyden, and A. Savara, "Progress in Accurate Chemical Kinetic Modeling, Simulations, and Parameter Estimation for Heterogeneous Catalysis," *ACS Catal.* **2019**, *9*, 6624-6647 [doi: 10.1021/acscatal.9b01234](https://doi.org/10.1021/acscatal.9b01234)
