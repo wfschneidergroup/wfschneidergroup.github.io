@@ -16,6 +16,14 @@ layout: default
 <a name="Recent Publications"></a> **Recent Publications**
 
 
+1. C. B. Jones, I. Khurana, S. H. Krishna, A. J. Shih, W. N. Delgass, J. T. Miller, F. H. Ribeiro, W. F. Schneider, and R. Gounder, "Effects of Dioxygen Pressure on Rates of NOx Selective Catalytic Reduction with \ce{NH3} on Cu-CHA Zeolites, *J. Catal.* **2020**, in press. [doi:/10.1016/j.jcat.2020.05.022](https://doi.org/10.1016/j.jcat.2020.05.022)
+
+1. P. Mehta, P. Barboun, Y. Engelmann, D. Go, A. Bogaerts, W. F. Schneider, J. C. Hicks, "Plasma-Catalytic Ammonia Synthesis Beyond the Equilibrium Limit," *ACS Catal.* **2020**, *10*, 6726 - 6734. [doi:](https:doi.org/10.1021/acscatal.0c00684) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-GA5SVZ5E7GCEG6JBCKMG)
+
+1. Y. Engelmann, P. Mehta, E. C. Neyts, W. F. Schneider, and A. Bogaerts, "Predicted Influence of Plasma Activation on Non-Oxidative Coupling of Methane on Transition Metal Catalysts," *ACS Sustainable Chem. Eng.* **2020**, *8*, 6043 - 6054. [doi:/10.1021/acssuschemeng.0c00906](https://doi.org/10.1021/acssuschemeng.0c00906)
+
+1. H. Ma and W. F. Schneider, "DFT and microkinetic comparison of Pt, Pd and Rh-catalyzed ammonia oxidation," *J. Catal.* **2020**, *383*, 322-330. [doi:10.1016/j.jcat.2020.01.029](https://doi.org/10.1016/j.jcat.2020.01.029)
+
 1. A. Bajpai, K. Frey, and W. F. Schneider, "Comparison of Coverage-Dependent Binding Energy Models for Mean-Field Microkinetic Rate Predictions," *Langmuir* **2020**, *36*, 465-474. [doi:10.1021/acs.langmuir.9b03563](http://dx.doi.org/10.1021/acs.langmuir.9b03563)    [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-bgsz9n8ApWuaHS24aTzi)
 
 1. G. C. Schatz, A. B. McCoy, J.-E. Shea, C. J. Murphy, G. Scholes, V. Batista, K. Bhattacharyya, J. Bisquert, D. Crawford, T. Cuk, R. Dickson, H. Fairbrother, M. Forsyth, J. Fourkas, F. Geiger, A. Gewirth, T. Goodson III, G. R. Goward, H. Guo, G. V. Hartland, P. Jungwirth, S. Lin, G.-Yu Liu, Z.-P. Liu, B. Mennucci, T. Minton, A. S. Mullin, O. Prezhdo, W. F. Schneider, B. Schwartz, N. Snider, G. Solomon, E. Weitz, X. Yang, A. Yethiraj, F. Zaera, M. Zanni, J. Zhang, H. Zhong, T. Zwier, "The /JPC/ Periodic Table," *J. Phys. Chem. C* **2019**, *123*, 17063-17074. [doi:10.1021/acs.jpcc.9b03462](https://doi.org/10.1021/acs.jpcc.9b03462)
