@@ -25,6 +25,8 @@ layout: default
 
 1. P. Mehta, P. Barboun, Y. Engelmann, D. Go, A. Bogaerts, W. F. Schneider, J. C. Hicks, "Plasma-Catalytic Ammonia Synthesis Beyond the Equilibrium Limit," *ACS Catal.* **2020**, *10*, 6726 - 6734. [doi:10.1021/acscatal.0c00684](https:doi.org/10.1021/acscatal.0c00684) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-GA5SVZ5E7GCEG6JBCKMG)
 
+1. J. R. Di Iorio, S. Li, C. B. Jones, C. T. Nimlos, Y. Wang, E. Kunkes, V. Vattipalli, S. Prasad, A. Moini, W. F. Schneider, R. Gounder, "Cooperation and Competition Between Organic and Inorganic Structure Directing Agents Influences the Aluminum Arrangement in CHA Zeolites," *J. Am. Chem. Soc.* **2020**, *142*, *10*, 4807-4819. [doi:10.1021/jacs.9b13817](https://pubs.acs.org/doi/10.1021/jacs.9b13817)
+
 1. Y. Engelmann, P. Mehta, E. C. Neyts, W. F. Schneider, and A. Bogaerts, "Predicted Influence of Plasma Activation on Non-Oxidative Coupling of Methane on Transition Metal Catalysts," *ACS Sustainable Chem. Eng.* **2020**, *8*, 6043 - 6054. [doi:/10.1021/acssuschemeng.0c00906](https://doi.org/10.1021/acssuschemeng.0c00906)
 
 1. H. Ma and W. F. Schneider, "DFT and microkinetic comparison of Pt, Pd and Rh-catalyzed ammonia oxidation," *J. Catal.* **2020**, *383*, 322-330. [doi:10.1016/j.jcat.2020.01.029](https://doi.org/10.1016/j.jcat.2020.01.029)
