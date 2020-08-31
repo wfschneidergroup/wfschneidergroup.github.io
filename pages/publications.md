@@ -15,10 +15,15 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1. C. Paolucci, J. R. Di Iorio, W. F. Schneider, R. Gounder, "Solvation and Mobilization of Copper Active Sites in Zeolites by Ammonia: Consequences for the Catalytic Reduction of Nitrogen Oxides," *Accts. Chem. Res.* **2020**, in press. [doi:10.1021/acs.accounts.0c00328](https://dx.doi.org/10.1021/acs.accounts.0c00328)
 
-1. C. B. Jones, I. Khurana, S. H. Krishna, A. J. Shih, W. N. Delgass, J. T. Miller, F. H. Ribeiro, W. F. Schneider, and R. Gounder, "Effects of Dioxygen Pressure on Rates of NOx Selective Catalytic Reduction with \ce{NH3} on Cu-CHA Zeolites, *J. Catal.* **2020**, in press. [doi:/10.1016/j.jcat.2020.05.022](https://doi.org/10.1016/j.jcat.2020.05.022)
+1. A. Bogaerts, X. Tu, J. C. Whitehead, G. Centi, L. Lefferts, O. Guaitella, F. Azzolina-Jury, H.-H. Kim, A. B. Murphy, W. F. Schneider, T. Nozaki, J. C. Hicks, A. Rousseau, F. Thevenet, A. Khacef,and M. Carreon, "The 2020 Plasma Catalysis Roadmap," *J. Phys. D: Appl. Phys.* **2020**, *55*, 443001. [doi:10.1088/1361-6463/ab9048](https://doi.org/10.1088/1361-6463/ab9048)
 
-1. P. Mehta, P. Barboun, Y. Engelmann, D. Go, A. Bogaerts, W. F. Schneider, J. C. Hicks, "Plasma-Catalytic Ammonia Synthesis Beyond the Equilibrium Limit," *ACS Catal.* **2020**, *10*, 6726 - 6734. [doi:](https:doi.org/10.1021/acscatal.0c00684) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-GA5SVZ5E7GCEG6JBCKMG)
+1. J. Ko, J. Muhlenkamp, Y. Bonita, N. LiBretto, J. T. Miller, J. C. Hicks, W. F. Schneider, "Experimental and computational investigation of the role of P in moderating ethane dehydrogenation performance over Ni-based catalysts," *Ind. Eng. Chem. Res.* **2020**, *59*, 12666 - 12676. [doi:10.1021/acs.iecr.0c00908](https://doi.org/10.1021/acs.iecr.0c00908) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-259XICSDNAWTRH3WMVDX)
+
+1. C. B. Jones, I. Khurana, S. H. Krishna, A. J. Shih, W. N. Delgass, J. T. Miller, F. H. Ribeiro, W. F. Schneider, and R. Gounder, "Effects of Dioxygen Pressure on Rates of NOx Selective Catalytic Reduction with \ce{NH3} on Cu-CHA Zeolites, *J. Catal.* **2020**, *389*, 140-149. [doi:10.1016/j.jcat.2020.05.022](https://doi.org/10.1016/j.jcat.2020.05.022)
+
+1. P. Mehta, P. Barboun, Y. Engelmann, D. Go, A. Bogaerts, W. F. Schneider, J. C. Hicks, "Plasma-Catalytic Ammonia Synthesis Beyond the Equilibrium Limit," *ACS Catal.* **2020**, *10*, 6726 - 6734. [doi:10.1021/acscatal.0c00684](https:doi.org/10.1021/acscatal.0c00684) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-GA5SVZ5E7GCEG6JBCKMG)
 
 1. Y. Engelmann, P. Mehta, E. C. Neyts, W. F. Schneider, and A. Bogaerts, "Predicted Influence of Plasma Activation on Non-Oxidative Coupling of Methane on Transition Metal Catalysts," *ACS Sustainable Chem. Eng.* **2020**, *8*, 6043 - 6054. [doi:/10.1021/acssuschemeng.0c00906](https://doi.org/10.1021/acssuschemeng.0c00906)
 
