@@ -8,14 +8,15 @@ layout: default
 | Alumni | Information | Alumni | Information|
 |:------------ |:------------|:---------------------|:------------------------|
 |![](/group_data/people_photos/sli12.png){: .image_people}|Dr. Sichi Li<br/>CBE Ph.D. 2019<br/>LLNL|
-|![](/group_data/people_photos/hli8.jpeg){: .image_people}|Dr. Hui Li<br/>CBE Ph.D. 2018 <br/>Cummins|![](/group_data/people_photos/pmehta1.jpg){: .image_people}|Dr. Prateek Mehta<br/>CBE Ph.D. 2019<br/>ExxonMobile|
+|![](/group_data/people_photos/pmehta1.jpeg){: .image_people}|Dr. Prateek Mehta<br/>CBE Ph.D. 2019<br/>ExxonMobil|
+|![](/group_data/people_photos/hli8.jpeg){: .image_people}|Dr. Hui Li<br/>CBE Ph.D. 2018 <br/>Cummins|![](/group_data/people_photos/hli8.jpg){: .image_people}|Dr. Hui Li<br/>CBE Ph.D. 2018<br/>Cummins|
 |![](/group_data/people_photos/abajpai.jpeg){: .image_people}|Dr. Anshumaan Bajpai<br/>CBE Ph.D., 2017<br/>Intel |![](/group_data/people_photos/qsherida.JPG){: .image_people}|Dr. Quintin Sheridan<br/>CBE Ph.D., 2017|
-|![](/group_data/people_photos/cpaolucc.JPG){: .image_people}|Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Ass. Prof., U of Virginia  |![](/group_data/people_photos/lherder.jpg){: .image_people}|Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|
+|![](/group_data/people_photos/cpaolucc.JPG){: .image_people}|Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Asst. Prof., U of Virginia  |![](/group_data/people_photos/lherder.jpg){: .image_people}|Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|
 |![](/group_data/people_photos/tanggara.png){: .image_people}|Dr. Trunojoyo Anggara <br/>CBE Ph.D., 2015<br/>Notre Dame|![](/group_data/people_photos/mpennin1.png){: .image_people}|Dr. Michael Penninger <br/>CBE Ph.D., 2015 <br/>UOP|
 |![](/group_data/people_photos/jclay.JPG){: .image_people}|Dr. John Clay <br/>CBE Ph.D., 2014 <br/>U. Missouri|![](/group_data/people_photos/jbray2.JPG){: .image_people}| <br/>Dr. Jason Bray <br/>CBE Ph.D., 2013 <br/>Phillips 66|
 |![](/group_data/people_photos/dmccalma.png){: .image_people}| <br/>Dr. Dorrell McCalman <br/>CBE Ph.D., 2013 <br/>Notre Dame|![](/group_data/people_photos/dschmid6.JPG){: .image_people}|Dr. David Schmidt <br/>CBE Ph.D., 2012 <br/>Google|
 |![](/group_data/people_photos/emindrup.JPG){: .image_people}|Dr. Elaine Mindrup <br/>CBE Ph.D., 2011 <br/>US PTO|![](/group_data/people_photos/hwang4.jpg){: .image_people}|Dr. Hangyao Wang <br/>CBE Ph.D., 2009 <br/>Dow Chemical Company|
-|![](/group_data/people_photos/rgetman.JPG){: .image_people}|Dr. Rachel Getman <br/>CBE Ph.D., 2009 <br/>Asst. Prof., Clemson U.|
+|![](/group_data/people_photos/rgetman.JPG){: .image_people}|Dr. Rachel Getman <br/>CBE Ph.D., 2009 <br/>Assoc. Prof., Clemson U.|
 
 * * *
 
@@ -35,6 +36,7 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
+|Andrew Lehmer|Undergrad researcher 2016-2017|Phigenics|Adsorbate free energies|
 |Sean Dwyer|Undergrad researcher 2013-2015|Graduate school|Charge distributions in ionic liquids|
 |Patrick Connelly|Undergrad researcher 2012-2014||Periodic trends in zeolite chemistry|
 |Jimmy Carlsten|CHUST visitor Summer 2014||RIT Stockholm	Sulfur adsorption on perovskites|
@@ -59,6 +61,7 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
+|Dr. Zhenghang Zhao|Post-doc,2018-2020|Vanderbilt|Zeolite catalysis|
 |Dr. Tong Wu|Post-doc,2017-2018|Future Finance|Cluster Distributions in Zeolites|
 |Dr. Onise Sharia|Post-doc, 2014-2016|Bank of America|	Hybrid Perovskites|
 |Dr. Kurt Frey|Post-doc, 2013-2015||
