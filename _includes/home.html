@@ -21,8 +21,8 @@
               {% if entry.index == 0 %}
                 <div class="carousel-item active">
                   <img class="carousel_img active" src={{entry.url}}>
-                  <div class="carousel-caption">
-                    <a class="paper" style="color:white; display: inline-block; align=center" href={{entry.link}} target="_blank">{{entry.title}}<br/> <i>{{entry.journal}}</i>, <b>{{entry.year}}</b>, <i>{{entry.volume}}</i>, {{entry.pages}}</a>
+                  <div class="carousel-caption text-center">
+                    <a class="paper" style="color:white; display: inline-block;" href={{entry.link}} target="_blank">{{entry.title}}<br/> <i>{{entry.journal}}</i>, <b>{{entry.year}}</b>, <i>{{entry.volume}}</i>, {{entry.pages}}</a>
                   </div>
                 </div>
               {% else %}
