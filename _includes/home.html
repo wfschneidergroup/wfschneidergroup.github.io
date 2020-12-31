@@ -28,8 +28,8 @@
               {% else %}
                 <div class="carousel-item">
                   <img class="carousel_img" src={{entry.url}}>
-                  <div class="carousel-caption">
-                    <a class="paper" style="color:white; display: inline-block;" href={{entry.link}} target="_blank">{{entry.title}} (<i>{{entry.journal}}</i>, <b>{{entry.year}}</b>, <i>{{entry.volume}}</i>, {{entry.pages}})</a>
+                  <div class="carousel-caption text-center">
+                    <a class="paper" style="color:white; display: inline-block;" href={{entry.link}} target="_blank">{{entry.title}}<br/> <i>{{entry.journal}}</i>, <b>{{entry.year}}</b>, <i>{{entry.volume}}</i>, {{entry.pages}}</a>
                   </div>
                 </div>
               {% endif %}
