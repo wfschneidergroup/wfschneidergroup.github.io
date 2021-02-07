@@ -15,6 +15,8 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1. P. M. Kester, J. T. Crum, S. Li, W. F. Schneider, R. Gounder, "Effects of Brønsted Acid Site Proximity in Chabazite Zeolites on OH Infrared Spectra and Protolytic Propane Cracking Kinetics," *J. Catal.* **2021**,*395*, 210-226. [doi:10.1016/j.jcat.2020.12.038](https://doi-org/10.1016/j.jcat.2020.12.038)
+
 1. C. Paolucci, J. R. Di Iorio, W. F. Schneider, R. Gounder, "Solvation and Mobilization of Copper Active Sites in Zeolites by Ammonia: Consequences for the Catalytic Reduction of Nitrogen Oxides," *Accts. Chem. Res.* **2020**, *53*, 1881-1892. [doi:10.1021/acs.accounts.0c00328](https://dx.doi.org/10.1021/acs.accounts.0c00328)
 
 1. A. Bogaerts, X. Tu, J. C. Whitehead, G. Centi, L. Lefferts, O. Guaitella, F. Azzolina-Jury, H.-H. Kim, A. B. Murphy, W. F. Schneider, T. Nozaki, J. C. Hicks, A. Rousseau, F. Thevenet, A. Khacef,and M. Carreon, "The 2020 Plasma Catalysis Roadmap," *J. Phys. D: Appl. Phys.* **2020**, *55*, 443001. [doi:10.1088/1361-6463/ab9048](https://doi.org/10.1088/1361-6463/ab9048)
