@@ -15,7 +15,9 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
-1. P. M. Kester, J. T. Crum, S. Li, W. F. Schneider, R. Gounder, "Effects of Brønsted Acid Site Proximity in Chabazite Zeolites on OH Infrared Spectra and Protolytic Propane Cracking Kinetics," *J. Catal.* **2021**,*395*, 210-226. [doi:10.1016/j.jcat.2020.12.038](https://doi.org/10.1016/j.jcat.2020.12.038)
+1. P. M. Barboun, L. L. Daemen, C. Waitt, Z. Wu,  W. F. Schneider, J. C. Hicks, "Inelastic Neutron Scattering Observation of Plasma-Promoted Nitrogen Reduction Intermediates on Ni/γ-Al2O3," *ACS Energy Lett.* **2021**,*6*, 2048-2053. [doi:10.1021/acsenergylett.1c00643](https://doi.org/10.1021/acsenergylett.1c00643)
+
+1. P. M. Kester, J. T. Crum, S. Li, W. F. Schneider, R. Gounder, "Effects of Brønsted Acid Site Proximity in Chabazite Zeolites on OH Infrared Spectra and Protolytic Propane Cracking Kinetics," *J. Catal.* **2021**,*395*, 210-226. [doi:10.1016/j.jcat.2020.12.038](https://doi-org/10.1016/j.jcat.2020.12.038)
 
 1. C. Paolucci, J. R. Di Iorio, W. F. Schneider, R. Gounder, "Solvation and Mobilization of Copper Active Sites in Zeolites by Ammonia: Consequences for the Catalytic Reduction of Nitrogen Oxides," *Accts. Chem. Res.* **2020**, *53*, 1881-1892. [doi:10.1021/acs.accounts.0c00328](https://dx.doi.org/10.1021/acs.accounts.0c00328)
 
