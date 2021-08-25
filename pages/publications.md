@@ -15,7 +15,11 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
-1. P. M. Barboun, L. L. Daemen, C. Waitt, Z. Wu,  W. F. Schneider, J. C. Hicks, "Inelastic Neutron Scattering Observation of Plasma-Promoted Nitrogen Reduction Intermediates on Ni/γ-Al2O3," *ACS Energy Lett.* **2021**,*6*, 2048-2053. [doi:10.1021/acsenergylett.1c00643](https://doi.org/10.1021/acsenergylett.1c00643)
+1. P. Nematollahi, H. Ma,  W. F. Schneider, E. C. Neyts, "DFT and Microkinetic Comparison of Ru-Doped Porphyrin-like Graphene and Nanotubes toward Catalytic Formic Acid Decomposition and Formation," *J. Phys. Chem. C* **2021**, ASAP. [DOI: 10.1021/acs.jpcc.1c03914](https://pubs.acs.org/doi/10.1021/acs.jpcc.1c03914)
+
+1. H. Ma,  W. F. Schneider, "Plasma-catalyst modeling for materials selection: challenges and opportunities in nitrogen oxidation," *J. Phys. D: Appl. Phys.* **2021**, *54*, 454004. [doi:10.1088/1361-6463/ac1bd1](https://doi.org/10.1088/1361-6463/ac1bd1)
+
+1. P. M. Barboun, L. L. Daemen, C. Waitt, Z. Wu,  W. F. Schneider, J. C. Hicks, "Inelastic Neutron Scattering Observation of Plasma-Promoted Nitrogen Reduction Intermediates on Ni/γ-Al2O3," *ACS Energy Lett.* **2021**, *6*, 2048-2053. [doi:10.1021/acsenergylett.1c00643](https://doi.org/10.1021/acsenergylett.1c00643)
 
 1. P. M. Kester, J. T. Crum, S. Li, W. F. Schneider, R. Gounder, "Effects of Brønsted Acid Site Proximity in Chabazite Zeolites on OH Infrared Spectra and Protolytic Propane Cracking Kinetics," *J. Catal.* **2021**,*395*, 210-226. [doi:10.1016/j.jcat.2020.12.038](https://doi-org/10.1016/j.jcat.2020.12.038)
 

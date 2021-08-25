@@ -18,7 +18,13 @@ layout: default
 * * *
 ### Postdocs
 
-| Member | Information | Member | Information|
-|:------------ |:------------|:---------------------|:------------------------|
-|![](/group_data/people_photos/hma.jpg){: .image_people}|[Hanyu Ma](https://hanyuma.github.io)<br/>360 Nieuwland Science Hall<br/>[hma@nd.edu](mailto:hma@nd.edu)<br/>Plasma catalysis for nitrogen fixation
+| Member | Information |
+|:------------ |:------------|
 |![](/group_data/people_photos/HHe.jpg){: .image_people}|[Haoran He](https://hxh5226.github.io)<br/>360 Nieuwland Science Hall<br/>[hhe2@nd.edu](mailto:hhe2@nd.edu)<br/>Zeolite hydrolysis
+
+* * *
+### Assistant Research Professor
+
+| Member | Information |
+|:------------ |:------------|
+|![](/group_data/people_photos/hma.jpg){: .image_people}|[Hanyu Ma](https://hanyuma.github.io)<br/>348 Nieuwland Science Hall<br/>[hma@nd.edu](mailto:hma@nd.edu)<br/>Plasma catalysis and machine learning
