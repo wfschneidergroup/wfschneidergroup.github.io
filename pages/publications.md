@@ -15,6 +15,8 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1. C. Waitt, A. R. Miles, W. F. Schneider, "Adsorbate Free Energies from DFT-Derived Translational Energy Landscapes" *J. Phys. Chem C.* **2021**, *125*, 20331-20342. [doi:10.1021/acs.jpcc.1c05917](https://doi.org/10.1021/acs.jpcc.1c05917)
+
 1. P. Nematollahi, H. Ma,  W. F. Schneider, E. C. Neyts, "DFT and Microkinetic Comparison of Ru-Doped Porphyrin-like Graphene and Nanotubes toward Catalytic Formic Acid Decomposition and Formation," *J. Phys. Chem. C* **2021**, ASAP. [DOI: 10.1021/acs.jpcc.1c03914](https://pubs.acs.org/doi/10.1021/acs.jpcc.1c03914)
 
 1. H. Ma,  W. F. Schneider, "Plasma-catalyst modeling for materials selection: challenges and opportunities in nitrogen oxidation," *J. Phys. D: Appl. Phys.* **2021**, *54*, 454004. [doi:10.1088/1361-6463/ac1bd1](https://doi.org/10.1088/1361-6463/ac1bd1)
