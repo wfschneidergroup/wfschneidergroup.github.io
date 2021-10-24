@@ -15,6 +15,8 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1. J. Easa, C. Yan, W. F. Schneider, C. P. O'Brien, "CO and C3H6 poisoning of hydrogen permeation across Pd77Ag23 alloy membranes: A comparative study with pure palladium," *Chemical Engineering Journal* **2022**, *430*, 133080. [doi:10.1063/1.2064628](https://doi.org/10.1016/j.cej.2021.133080)   
+    
 1. P. Nematollahi, H. Ma,  W. F. Schneider, E. C. Neyts, "DFT and Microkinetic Comparison of Ru-Doped Porphyrin-like Graphene and Nanotubes toward Catalytic Formic Acid Decomposition and Formation," *J. Phys. Chem. C* **2021**, ASAP. [DOI: 10.1021/acs.jpcc.1c03914](https://pubs.acs.org/doi/10.1021/acs.jpcc.1c03914)
 
 1. H. Ma,  W. F. Schneider, "Plasma-catalyst modeling for materials selection: challenges and opportunities in nitrogen oxidation," *J. Phys. D: Appl. Phys.* **2021**, *54*, 454004. [doi:10.1088/1361-6463/ac1bd1](https://doi.org/10.1088/1361-6463/ac1bd1)
