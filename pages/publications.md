@@ -15,8 +15,11 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
-
+1. A.Goswami, H.Ma, W.F. Schneider, "Consequences of adsorbate-adsorbate interactions for apparent kinetics of surface catalytic reactions" *J. Catal.* **2022**, *405*, 410-418. [doi:10.1016/j.jcat.2021.12.005](https://doi.org/10.1016/j.jcat.2021.12.005)     
+    
 1. J. Easa, C. Yan, W. F. Schneider, C. P. O'Brien, "CO and \ce{C3H6} poisoning of hydrogen permeation across \ce{Pd77Ag23} alloy membranes: A comparative study with pure palladium," *Chemical Engineering Journal* **2022**, *430*, 133080. [doi:10.1063/1.2064628](https://doi.org/10.1016/j.cej.2021.133080)   
+    
+1. Y. Engelmann, K. V. Veer, Y. Gorbanev, E. C. Neyts, W. F. Schneider, A. Bogaerts, "Plasma Catalysis for Ammonia Synthesis: A Microkinetic Modeling Study on the Contributions of Eley–Rideal Reactions" *ACS Sustainable Chem. Eng.* **2021**, *9*, 13151-13163. [doi:10.1021/acssuschemeng.1c02713](https://doi.org/10.1021/acssuschemeng.1c02713)    
     
 1. C. Waitt, A. R. Miles, W. F. Schneider, "Adsorbate Free Energies from DFT-Derived Translational Energy Landscapes" *J. Phys. Chem C.* **2021**, *125*, 20331-20342. [doi:10.1021/acs.jpcc.1c05917](https://doi.org/10.1021/acs.jpcc.1c05917)
 
