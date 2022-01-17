@@ -60,7 +60,7 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
-|Dr. Haoran|Post-doc, 2021-2021|BASF|Zeolite catalysis|
+|Dr. Haoran He|Post-doc, 2021-2021|BASF|Zeolite catalysis|
 |Dr. Hanyu Ma|Post-doc, 2017-2021|Notre Dame|Heterogeneous and plasma catalysis|
 |Dr. Zhenghang Zhao|Post-doc, 2018-2020|Vanderbilt|Zeolite catalysis|
 |Dr. Tong Wu|Post-doc, 2017-2018|Future Finance|Cluster Distributions in Zeolites|
