@@ -22,6 +22,7 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
+|Amanda Brown | Chemical M.Sc., 2021| | Microkinetic Modeling of HCN Formation from Methane and Nitrogen with the Addition of Vibrational Energy Effects|
 |Gray N Laughlin | Chemical M.Sc., 2018|
 |Solomon Assefa |Chemistry M.Sc., 2016 |G+B+9 MultiPurpose Commercial Building|Elucidating Thermodynamics and Kinetics of CO-Oxidation-Induced Missing-Row Reconstruction of Ph(110) via DFT Methods|
 |Steven McDonough|Chemistry M.Sc., 2015||Using Through-Space, Dipole-Dipole, and CO-d-band Interactions to Predict the Formation Energy of CO/Pd(111) Configurations|
@@ -59,8 +60,10 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
-|Dr. Zhenghang Zhao|Post-doc,2018-2020|Vanderbilt|Zeolite catalysis|
-|Dr. Tong Wu|Post-doc,2017-2018|Future Finance|Cluster Distributions in Zeolites|
+|Dr. Haoran|Post-doc, 2021-2021|BASF|Zeolite catalysis|
+|Dr. Hanyu Ma|Post-doc, 2017-2021|Notre Dame|Heterogeneous and plasma catalysis|
+|Dr. Zhenghang Zhao|Post-doc, 2018-2020|Vanderbilt|Zeolite catalysis|
+|Dr. Tong Wu|Post-doc, 2017-2018|Future Finance|Cluster Distributions in Zeolites|
 |Dr. Onise Sharia|Post-doc, 2014-2016|Bank of America|	Hybrid Perovskites|
 |Dr. Kurt Frey|Post-doc, 2013-2015||
 |Dr. Dorrell McCalman|Post-doc, 2013-2014	||
