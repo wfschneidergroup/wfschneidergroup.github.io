@@ -15,6 +15,8 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1. H. Ma, R. K. Sharma, S. Welzel, M. C. M. van de Sanden, M. N. Tsampas, W. F. Schneider, "Observation and rationalization of nitrogen oxidation enabled only by coupled plasma and catalyst" *Nat. Commun.* **2022**, *13*, 402. [doi:10.1038/s41467-021-27912-2](https://doi.org/10.1038/s41467-021-27912-2)  
+
 1. A. Goswami, H. Ma, W. F. Schneider, "Consequences of adsorbate-adsorbate interactions for apparent kinetics of surface catalytic reactions" *J. Catal.* **2022**, *405*, 410-418. [doi:10.1016/j.jcat.2021.12.005](https://doi.org/10.1016/j.jcat.2021.12.005)     
 
 1. J. Easa, C. Yan, W. F. Schneider, C. P. O'Brien, "CO and C<sub>3</sub>H<sub>6</sub> poisoning of hydrogen permeation across Pd<sub>77</sub>Ag<sub>23</sub> alloy membranes: A comparative study with pure palladium," *Chemical Engineering Journal* **2022**, *430*, 133080. [doi:10.1063/1.2064628](https://doi.org/10.1016/j.cej.2021.133080)   
