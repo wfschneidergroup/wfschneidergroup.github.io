@@ -7,14 +7,16 @@ layout: default
 
 | Alumni | Information | Alumni | Information|
 |:------------ |:------------|:---------------------|:------------------------|
-|![](/group_data/people_photos/sli12.png){: .image_people}|Dr. Sichi Li<br/>CBE Ph.D. 2019<br/>LLNL|![](/group_data/people_photos/pmehta1.jpg){: .image_people}|Dr. Prateek Mehta<br/>CBE Ph.D. 2019<br/>ExxonMobil|
-|![](/group_data/people_photos/hli8.jpeg){: .image_people}|Dr. Hui Li<br/>CBE Ph.D. 2018 <br/>Cummins|![](/group_data/people_photos/abajpai.jpeg){: .image_people}|Dr. Anshumaan Bajpai<br/>CBE Ph.D., 2017<br/>Intel|
-|![](/group_data/people_photos/qsherida.JPG){: .image_people}|Dr. Quintin Sheridan<br/>CBE Ph.D., 2017|![](/group_data/people_photos/cpaolucc.JPG){: .image_people}|Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Asst. Prof., U of Virginia|
-|![](/group_data/people_photos/lherder.jpg){: .image_people}|Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|![](/group_data/people_photos/tanggara.png){: .image_people}|Dr. Trunojoyo Anggara <br/>CBE Ph.D., 2015<br/>Notre Dame|
-|![](/group_data/people_photos/mpennin1.png){: .image_people}|Dr. Michael Penninger <br/>CBE Ph.D., 2015 <br/>UOP|![](/group_data/people_photos/jclay.JPG){: .image_people}|Dr. John Clay <br/>CBE Ph.D., 2014 <br/>U. Missouri|
-|![](/group_data/people_photos/jbray2.JPG){: .image_people}| <br/>Dr. Jason Bray <br/>CBE Ph.D., 2013 <br/>Phillips 66|![](/group_data/people_photos/dmccalma.png){: .image_people}| <br/>Dr. Dorrell McCalman <br/>CBE Ph.D., 2013 <br/>Notre Dame|
-|![](/group_data/people_photos/dschmid6.JPG){: .image_people}|Dr. David Schmidt <br/>CBE Ph.D., 2012 <br/>Google|![](/group_data/people_photos/emindrup.JPG){: .image_people}|Dr. Elaine Mindrup <br/>CBE Ph.D., 2011 <br/>US PTO|
-|![](/group_data/people_photos/hwang4.jpg){: .image_people}|Dr. Hangyao Wang <br/>CBE Ph.D., 2009 <br/>Dow Chemical Company|![](/group_data/people_photos/rgetman.JPG){: .image_people}|Dr. Rachel Getman <br/>CBE Ph.D., 2009 <br/>Assoc. Prof., Clemson U.|
+|![](/group_data/people_photos/ywang40.jpg){: .image_people}|Dr. Yujia Wang <br/>Chemistry Ph.D. 2022<br/>Assist. Prof., Bethel U.|![](/group_data/people_photos/jcrum.jpg){: .image_people}|Dr. Jerry Crum <br/>CBE Ph.D. 2022<br/>Systems Planning and Analysis |
+|![](/group_data/people_photos/jko1.jpg){: .image_people}|Dr. Jeonghyun Ko <br/>CBE Ph.D. 2021 <br/>SK On |![](/group_data/people_photos/sli12.png){: .image_people}|Dr. Sichi Li<br/>CBE Ph.D. 2019<br/>LLNL |
+|![](/group_data/people_photos/pmehta1.jpg){: .image_people}|Dr. Prateek Mehta<br/>CBE Ph.D. 2019<br/>ExxonMobil |![](/group_data/people_photos/hli8.jpeg){: .image_people}|Dr. Hui Li<br/>CBE Ph.D. 2018 <br/>Cummins|
+|![](/group_data/people_photos/abajpai.jpeg){: .image_people}|Dr. Anshumaan Bajpai<br/>CBE Ph.D., 2017<br/>Intel |![](/group_data/people_photos/qsherida.JPG){: .image_people}|Dr. Quintin Sheridan<br/>CBE Ph.D., 2017|
+|![](/group_data/people_photos/cpaolucc.JPG){: .image_people}|Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Asst. Prof., U of Virginia |![](/group_data/people_photos/lherder.jpg){: .image_people}|Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|
+|![](/group_data/people_photos/tanggara.png){: .image_people}|Dr. Trunojoyo Anggara <br/>CBE Ph.D., 2015<br/>Notre Dame |![](/group_data/people_photos/mpennin1.png){: .image_people}|Dr. Michael Penninger <br/>CBE Ph.D., 2015 <br/>UOP|
+|![](/group_data/people_photos/jclay.JPG){: .image_people}|Dr. John Clay <br/>CBE Ph.D., 2014 <br/>U. Missouri |![](/group_data/people_photos/jbray2.JPG){: .image_people}| <br/>Dr. Jason Bray <br/>CBE Ph.D., 2013 <br/>Phillips 66|
+|![](/group_data/people_photos/dmccalma.png){: .image_people}| <br/>Dr. Dorrell McCalman <br/>CBE Ph.D., 2013 <br/>Notre Dame |![](/group_data/people_photos/dschmid6.JPG){: .image_people}|Dr. David Schmidt <br/>CBE Ph.D., 2012 <br/>Google|
+|![](/group_data/people_photos/emindrup.JPG){: .image_people}|Dr. Elaine Mindrup <br/>CBE Ph.D., 2011 <br/>US PTO |![](/group_data/people_photos/hwang4.jpg){: .image_people}|Dr. Hangyao Wang <br/>CBE Ph.D., 2009 <br/>Dow Chemical Company|
+|![](/group_data/people_photos/rgetman.JPG){: .image_people}|Dr. Rachel Getman <br/>CBE Ph.D., 2009 <br/>Assoc. Prof., Clemson U.|
 
 * * *
 
@@ -22,8 +24,9 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
-|Amanda Brown | Chemical M.Sc., 2021| | Microkinetic Modeling of HCN Formation from Methane and Nitrogen with the Addition of Vibrational Energy Effects|
-|Gray N Laughlin | Chemical M.Sc., 2018|
+|Jian Ren Lim | CBE M.Sc., 2021| | First-Principles Interrogation of H2 Reduction Mechanisms on Copper Active Sites in Cu-SSZ-13 Zeolite |
+|Amanda Brown | CBE M.Sc., 2021| | Microkinetic Modeling of HCN Formation from Methane and Nitrogen with the Addition of Vibrational Energy Effects|
+|Gray N Laughlin | CBE M.Sc., 2018|
 |Solomon Assefa |Chemistry M.Sc., 2016 |G+B+9 MultiPurpose Commercial Building|Elucidating Thermodynamics and Kinetics of CO-Oxidation-Induced Missing-Row Reconstruction of Ph(110) via DFT Methods|
 |Steven McDonough|Chemistry M.Sc., 2015||Using Through-Space, Dipole-Dipole, and CO-d-band Interactions to Predict the Formation Energy of CO/Pd(111) Configurations|
 |Michelle Morton|Chemistry M.Sc., 2013|Teacher|Effects of Nitrogen Based Anions on CO2 Binding and Proton Affinity|
@@ -61,7 +64,7 @@ layout: default
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
 |Dr. Haoran He|Post-doc, 2021-2021|BASF|Zeolite catalysis|
-|Dr. Hanyu Ma|Post-doc, 2017-2021|Notre Dame|Heterogeneous and plasma catalysis|
+|Dr. Hanyu Ma|Post-doc, 2017-2021 <br> Assistant Research Professor, 2021-2022 | Google |Heterogeneous and plasma catalysis|
 |Dr. Zhenghang Zhao|Post-doc, 2018-2020|Vanderbilt|Zeolite catalysis|
 |Dr. Tong Wu|Post-doc, 2017-2018|Future Finance|Cluster Distributions in Zeolites|
 |Dr. Onise Sharia|Post-doc, 2014-2016|Bank of America|	Hybrid Perovskites|
