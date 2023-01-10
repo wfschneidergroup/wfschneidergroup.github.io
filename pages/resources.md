@@ -5,7 +5,7 @@ layout: default
 
 ##### **Our home**
 
-We are housed in the Computational Molecular Sciences and Engineering Laboratory (CoMSEL), 150 Fitzpatrick Hall, along with the Maginn, Corcelli, Gezelter, Luo, and Stadtherr groups. It is pretty nice digs!
+We are housed in the Computational Molecular Sciences and Engineering Laboratory (CoMSEL), 365 Nieuwland Science Hall. CoMSEL participants include the research groups of Yamil Colón, Alexander Dowling, Edward Maginn, William Schneider, Jonathan Whitmer, and Yong Zhang from the Department of Chemical and Biomolecular Engineering; Tengfei Luo from the Department of Aerospace and Mechanical Engineering; and Steven Corcelli, T. Daniel Gezelter, and Hsing-Ta Chen from the Department of Chemistry and Biochemistry. It is pretty nice digs!
 
 ##### **The Tools**
 
@@ -24,4 +24,4 @@ Group shared files are kept on the CRC afs space, accessible at /afs/crc.nd.edu/
 
 ##### **Group wiki**
 
-We maintain a group wiki that contains all the group secrets! It is pretty cool. You have to be within Notre Dame to access it. See [CoMSEL wiki](https://comselwiki.crc.nd.edu/index.php/Schneider_Group) and click on "login".
+We maintain a group wiki that contains all the group secrets! It is pretty cool. You have to be within Notre Dame to access it. See [CoMSEL wiki](https://github.com/wfschneidergroup) and click on "login".
