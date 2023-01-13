@@ -18,5 +18,5 @@ layout: default
 ### Postdocs
 | Member | Information | Member | Information|
 |:------------ |:------------|:---------------------|:------------------------|
-|![](/group_data/people_photos/cwaitt.jpeg){: .image_people}|Craig Waitt<br/>360 Nieuwland Science Hall<br/>[cwaitt@nd.edu](mailto:cwaitt@nd.edu)<br/>Zeolite Stability and Catalysis|![](/group_data/people_photos/mcao2.jpg){: .image_people}|Mingyuan Cao<br/>361 Nieuwland Science Hall<br/>[mcao2@nd.edu](mailto:mcao2@nd.edu)<br/>Plasma Catalysis
+|![](/group_data/people_photos/cwaitt.jpeg){: .image_people}|Craig Waitt<br/>360 Nieuwland Science Hall<br/>[cwaitt@nd.edu](mailto:cwaitt@nd.edu)<br/>Zeolite Stability and Catalysis|![](/group_data/people_photos/mcao2.jpg){: .image_people}|Mingyuan Cao<br/>361 Nieuwland Science Hall<br/>[mcao2@nd.edu](mailto:mcao2@nd.edu)<br/>Plasma Catalysis|
 
