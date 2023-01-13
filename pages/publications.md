@@ -15,6 +15,16 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1. X. Wang, Y. Wang, A. Moini, R. Gounder, E. J. Maginn, and W. F. Schneider, "Influence of N,N,N-trimethyl-1-adamantyl ammonium (TMAda+) Structure Directing Agent on Al Distributions and Pair Features in Chabazite Zeolite," *Chem. Mater*. **2022**, *34*, 10811-10822. [https://doi.org/10.1021/acs.chemmater.2c01465](https://doi.org/10.1021/acs.chemmater.2c01465)    
+    
+1. P. Barboun, H. Otor, H. Ma, A. Goswami, W. F. Schneider, J. C. Hicks, "Plasma-Catalyst Reactivity Control of Surface Nitrogen Species through Plasma-Temperature programmed Hydrogenation to Ammonia." *ACS Sus. Chem. Eng.* **2022**, *10*, 15741-15748. [https:/doi.org/10.1021/acssuschemeng.2c04217](https://doi.org/10.1021/acssuschemeng.2c04217)    
+    
+1. Lee, S.; Nimlos, C. T,; Kipp, E. R.; Wang, Y.; Gao, X., Schneider, W. F.; Lusardi, M.; Vattipalli, V.; Prasad, S.; Moini, A.; Gounder, R. "Evolution of Framework Al Arrangements in CHA Zeolites during Crustallization in the Presence of Organic and Inorganic Structure-Directing Agents," *Crystal Growth & Design* **2022**, *22*, 6275-6295. [https://doi.org/10.1021/acs.cgd.2c00856](https://doi.org/10.1021/acs.cgd.2c00856)
+    
+1. J. Ko, and W. F. Schneider, "Computational screen of M$_2$P Metal Phosphides for Catalytic Ethane Dehydration," *Catal. Sci. Technol.* **2022**, /12, 5629-5639. [https://doi.org/10.1039/D2CY00602B](https://doi.org/10.1039/D2CY00602B)
+
+1. J. Ko, H. Ma, and W. F. Schneider, "Kinectic origins of high selectivity of metal phosphides for dehydrogenation," *Ind & Chem. Res.* **2022**, *61*, 12083-12091. [https://doi.org/10.1021/acs.iecr.2c02044](https://doi.org/10.1-21/acs.iecr.2c02044)   
+    
 1. H. Ma, R. K. Sharma, S. Welzel, M. C. M. van de Sanden, M. N. Tsampas, W. F. Schneider, "Observation and rationalization of nitrogen oxidation enabled only by coupled plasma and catalyst" *Nat. Commun.* **2022**, *13*, 402. [doi:10.1038/s41467-021-27912-2](https://doi.org/10.1038/s41467-021-27912-2)  
 
 1. A. Goswami, H. Ma, W. F. Schneider, "Consequences of adsorbate-adsorbate interactions for apparent kinetics of surface catalytic reactions" *J. Catal.* **2022**, *405*, 410-418. [doi:10.1016/j.jcat.2021.12.005](https://doi.org/10.1016/j.jcat.2021.12.005)     
