@@ -7,6 +7,8 @@ layout: default
 
 | Alumni | Information | Alumni | Information|
 |:------------ |:------------|:---------------------|:------------------------|
+|![](/group_data/people_photos/cwaitt.jpeg){: .image_people}|Dr. Craig Waitt <br/>Chemistry Ph.D. 2023<br/>Post Doc., U. Notre Dame|
+|![](/group_data/people_photos/agoswami.jpg){: .image_people}|Dr. Anshuman Goswami <br/> CBE Ph.D. 2023<br/>Post Doc., Stanford U.|![](/group_data/people_photos/nmehra.png){: .image_people}|Dr. Neha Mehra <br/>CBE Ph.D. 2023<br/> National Renew. Energy Lab.|
 |![](/group_data/people_photos/ywang40.jpg){: .image_people}|Dr. Yujia Wang <br/>Chemistry Ph.D. 2022<br/>Assist. Prof., Bethel U.|![](/group_data/people_photos/jcrum.jpg){: .image_people}|Dr. Jerry Crum <br/>CBE Ph.D. 2022<br/>Systems Planning and Analysis |
 |![](/group_data/people_photos/jko1.jpg){: .image_people}|Dr. Jeonghyun Ko <br/>CBE Ph.D. 2021 <br/>SK On |![](/group_data/people_photos/sli12.png){: .image_people}|Dr. Sichi Li<br/>CBE Ph.D. 2019<br/>LLNL |
 |![](/group_data/people_photos/pmehta1.jpg){: .image_people}|Dr. Prateek Mehta<br/>CBE Ph.D. 2019<br/>ExxonMobil |![](/group_data/people_photos/hli8.jpeg){: .image_people}|Dr. Hui Li<br/>CBE Ph.D. 2018 <br/>Cummins|
@@ -38,6 +40,7 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
+|Audrey Miles|Undergrad researcher 2019-2020|Graduate School| Adsorbate Free Energies|
 |Andrew Lehmer|Undergrad researcher 2016-2017|Phigenics|Adsorbate free energies|
 |Sean Dwyer|Undergrad researcher 2013-2015|Graduate school|Charge distributions in ionic liquids|
 |Patrick Connelly|Undergrad researcher 2012-2014||Periodic trends in zeolite chemistry|

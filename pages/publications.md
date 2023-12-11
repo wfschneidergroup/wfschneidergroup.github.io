@@ -6,6 +6,7 @@ layout: default
 [Google Scholar Profile](https://scholar.google.com/citations?user=7a2aQL0AAAAJ)
 
 <a href="#Recent Publications">Recent Publications</a>&emsp;&emsp;&emsp;
+<a href="#2019">2016-2019</a>&emsp;&emsp;&emsp;
 <a href="#2015">2011-2015</a>&emsp;&emsp;&emsp;
 <a href="#2010">2006-2010</a>&emsp;&emsp;&emsp;
 <a href="#2005">2001-2005</a>&emsp;&emsp;&emsp;
@@ -14,6 +15,17 @@ layout: default
 <a href="#0">Book Chapters and Proceedings</a>   
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
+
+1. C. Waits, X. Gao, R. Gounder, A DeBellis, S. Prasad, A. Moini, and W. F. Schneider, “Analysis and Augmentation of Guest-Host Interaction Energy Models as CHA and AEI Zeolite Crystallization Phase Predictors,” *J. Phys. Chem. C* **2023**, *125*, 22740-22751. [https://doi.org/10.1021/acs.jpcc.3c05421](https://doi.org/10.1021/acs.jpcc.3c05421)
+
+1. M. DeLuca, C. B. Jones, S. H. Krishna, A. Goswami, R. Saxena, S. Li, S. Prasad, A. Moini, W. F. Schneider, and R. Gounder, “Effects of zeolite framework topology on Cu(I) oxidation and Cu(II) reduction kinetics of NOx selective catalytic reduction with NH3", *Chem Catalysis* **2023**, *3*, 100726. [https://doi.org/10.1016/j.checat.2023.100726](https://doi.org/10.1016/j.checat.2023.100726)
+
+1. A. Goswami and W. F. Schneider, “Mean field model parameterization to recover coverage-dependent kinetics”, *J. Catal.* **2023**, *426*, 352-360. [https://doi.org/10.1016/j.jcat.2023.07.013](https://doi.org/10.1016/j.jcat.2023.07.013)
+
+1. S. H. Krishna, A. Goswami, Y. Wang, C. B. Jones, D. P. Dean, J. T. Miller, W. F. Schneider, and R. Gounder, “Influence of Framework Al Density in Chabazite Zeolites on Copper Ion Mobility and Reactivity During NOx Selective Catalytic Reduction with NH3,” *Nature Catal.* **2023**, *6*, 276 - 285. [https://doi.org/10.1038/s41929-023-00932-5](https://doi.org/10.1038/s41929-023-00932-5)
+
+1. J. T. Crum, J. R. Crum, C. Taylor, and W. F. Schneider, “Characterization and Analysis of Ring Topology of Zeolite Frameworks,” *Meso. Micro. Mater.* **2023**, 351, 112466. [https://doi.org/10.1016/j.micromeso.2023.112466](https:
+//doi.org/10.1016/j.micromeso.2023.112466)
 
 1. X. Wang, Y. Wang, A. Moini, R. Gounder, E. J. Maginn, and W. F. Schneider, "Influence of N,N,N-trimethyl-1-adamantyl ammonium (TMAda+) Structure Directing Agent on Al Distributions and Pair Features in Chabazite Zeolite," *Chem. Mater*. **2022**, *34*, 10811-10822. [https://doi.org/10.1021/acs.chemmater.2c01465](https://doi.org/10.1021/acs.chemmater.2c01465)    
     
@@ -60,6 +72,9 @@ layout: default
 1. H. Ma and W. F. Schneider, "DFT and microkinetic comparison of Pt, Pd and Rh-catalyzed ammonia oxidation," *J. Catal.* **2020**, *383*, 322-330. [doi:10.1016/j.jcat.2020.01.029](https://doi.org/10.1016/j.jcat.2020.01.029)
 
 1. A. Bajpai, K. Frey, and W. F. Schneider, "Comparison of Coverage-Dependent Binding Energy Models for Mean-Field Microkinetic Rate Predictions," *Langmuir* **2020**, *36*, 465-474. [doi:10.1021/acs.langmuir.9b03563](http://dx.doi.org/10.1021/acs.langmuir.9b03563)    [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-bgsz9n8ApWuaHS24aTzi)
+
+    <a name="2019"></a> **Publications 2016-2019**
+    &emsp;&emsp;&emsp;<a href="#Top">&lt;&lt; back to top</a>
 
 1. G. C. Schatz, A. B. McCoy, J.-E. Shea, C. J. Murphy, G. Scholes, V. Batista, K. Bhattacharyya, J. Bisquert, D. Crawford, T. Cuk, R. Dickson, H. Fairbrother, M. Forsyth, J. Fourkas, F. Geiger, A. Gewirth, T. Goodson III, G. R. Goward, H. Guo, G. V. Hartland, P. Jungwirth, S. Lin, G.-Yu Liu, Z.-P. Liu, B. Mennucci, T. Minton, A. S. Mullin, O. Prezhdo, W. F. Schneider, B. Schwartz, N. Snider, G. Solomon, E. Weitz, X. Yang, A. Yethiraj, F. Zaera, M. Zanni, J. Zhang, H. Zhong, T. Zwier, "The /JPC/ Periodic Table," *J. Phys. Chem. C* **2019**, *123*, 17063-17074. [doi:10.1021/acs.jpcc.9b03462](https://doi.org/10.1021/acs.jpcc.9b03462)
 
