@@ -16,7 +16,13 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
-1. C. Waits, X. Gao, R. Gounder, A DeBellis, S. Prasad, A. Moini, and W. F. Schneider, “Analysis and Augmentation of Guest-Host Interaction Energy Models as CHA and AEI Zeolite Crystallization Phase Predictors,” *J. Phys. Chem. C* **2023**, *125*, 22740-22751. [https://doi.org/10.1021/acs.jpcc.3c05421](https://doi.org/10.1021/acs.jpcc.3c05421)
+1. L.N. Wilcox, J. Rebolledo-Oyarce, A. D. Mikes, Y. Wang, W. F. Schneider, R. Gounder, "Structure and Reactivity of Binuclear Cu Active Sites in Cu-CHA Zeolites for Stoichiometric Partial Methane Oxidation to Methanol”, *ACS Catal.* **2024**, *14*, 3647-3663. [https://doi.org/10.1021/acscatal.3c06181](https://doi.org/10.1021/acscatal.3c06181)
+
+1. G. Lee, C. Yan, W. F. Schneider, D. B. Go, and C. P. O’Brien, "Observation and Characterization of Vibrationally Active Surface Species Accessed with Nonthermal Nitrogen Plasmas”, *ACS Appl. Mater. Interfaces* **2024**, *16*, 4561-4569. [https://doi.org/10.1021/acsami.3c14965](https://doi.org/10.1021/acsami.3c14965)
+
+1. S. Ghosh, D. Haycock, N. Mehra, S. Bera, H. Johnson, I. L. Roiban, M. Aouine, P. Vernoux, P. Thüne, W. F. Schneider, M.N. Tsampas, “Climbing the Hydrogen Evolution Volcano with a NiTi Shape Memory Alloy”, *J. Phys. Chem. Lett.* **2024**, *15*, 933-939. [https://doi.org/10.1021/acs.jpclett.3c03216](https://doi.org/10.1021/acs.jpclett.3c03216)
+
+1. C. Waitt, X. Gao, R. Gounder, A DeBellis, S. Prasad, A. Moini, and W. F. Schneider, “Analysis and Augmentation of Guest-Host Interaction Energy Models as CHA and AEI Zeolite Crystallization Phase Predictors", *J. Phys. Chem. C* **2023**, *127*, 22740-22751. [https://doi.org/10.1021/acs.jpcc.3c05421](https://doi.org/10.1021/acs.jpcc.3c05421)
 
 1. M. DeLuca, C. B. Jones, S. H. Krishna, A. Goswami, R. Saxena, S. Li, S. Prasad, A. Moini, W. F. Schneider, and R. Gounder, “Effects of zeolite framework topology on Cu(I) oxidation and Cu(II) reduction kinetics of NOx selective catalytic reduction with NH3", *Chem Catalysis* **2023**, *3*, 100726. [https://doi.org/10.1016/j.checat.2023.100726](https://doi.org/10.1016/j.checat.2023.100726)
 
