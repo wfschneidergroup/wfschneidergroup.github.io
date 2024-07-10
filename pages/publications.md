@@ -16,6 +16,8 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1. A. Goswami, S. Krishna, R. Gounder, W. F. Schneider "Kinetic Monte Carlo Analysis Reveals Non-mean-field Active Site Dynamics in Cu–Zeolite-Catalyzed NO<sub>x</sub> Reduction”, *ACS Catal.* **2024**, *14*, 8376-8388. [https://doi.org/10.1021/acscatal.4c01856](https://doi.org/10.1021/acscatal.4c01856)
+
 1. L.N. Wilcox, J. Rebolledo-Oyarce, A. D. Mikes, Y. Wang, W. F. Schneider, R. Gounder, "Structure and Reactivity of Binuclear Cu Active Sites in Cu-CHA Zeolites for Stoichiometric Partial Methane Oxidation to Methanol”, *ACS Catal.* **2024**, *14*, 3647-3663. [https://doi.org/10.1021/acscatal.3c06181](https://doi.org/10.1021/acscatal.3c06181)
 
 1. G. Lee, C. Yan, W. F. Schneider, D. B. Go, and C. P. O’Brien, "Observation and Characterization of Vibrationally Active Surface Species Accessed with Nonthermal Nitrogen Plasmas”, *ACS Appl. Mater. Interfaces* **2024**, *16*, 4561-4569. [https://doi.org/10.1021/acsami.3c14965](https://doi.org/10.1021/acsami.3c14965)
