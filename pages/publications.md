@@ -16,6 +16,8 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1. G. Lee, C. Yan, W. F. Schneider, D. Go and C. P. O'Brien, "Observation and Characterization of Vibrationally Active Surface Species Accessed with Nonthermal Nitrogen Plasmas" *ACS Applied Materials \& Interfaces* **2024**, *16*, *4*, 4561–4569. [https://doi.org/10.1021/acsami.3c14965](https://doi.org/10.1021/acsami.3c14965)
+
 1. C. Waits, X. Gao, R. Gounder, A DeBellis, S. Prasad, A. Moini, and W. F. Schneider, “Analysis and Augmentation of Guest-Host Interaction Energy Models as CHA and AEI Zeolite Crystallization Phase Predictors,” *J. Phys. Chem. C* **2023**, *125*, 22740-22751. [https://doi.org/10.1021/acs.jpcc.3c05421](https://doi.org/10.1021/acs.jpcc.3c05421)
 
 1. M. DeLuca, C. B. Jones, S. H. Krishna, A. Goswami, R. Saxena, S. Li, S. Prasad, A. Moini, W. F. Schneider, and R. Gounder, “Effects of zeolite framework topology on Cu(I) oxidation and Cu(II) reduction kinetics of NOx selective catalytic reduction with NH3", *Chem Catalysis* **2023**, *3*, 100726. [https://doi.org/10.1016/j.checat.2023.100726](https://doi.org/10.1016/j.checat.2023.100726)
