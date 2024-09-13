@@ -1,13 +1,13 @@
 # Belongs at: /_data/home.yml
 
 - index: 0
-  url: /group_data/home_photos/Waitt_JPC2023.jpeg
-  title: Analysis and Augmentation of Guest–Host Interaction Energy Models as CHA and AEI Zeolite Crystallization Phase Predictors
-  journal: J. Phys. Chem. C.
-  year: 2023
-  volume: 127
-  pages: 22540-22751
-  link: https://doi.org/10.1021/acs.jpcc.3c05421
+  url: /group_data/home_photos/SCR-kMC-2024.jpg
+  title: Kinetic Monte Carlo Analysis Reveals Non-mean-field Active Site Dynamics in Cu−Zeolite-Catalyzed NOx Reduction
+  journal: ACS Catalysis
+  year: 2024
+  volume: 14
+  pages: 8376-8388
+  link: https://doi.org/10.1021/acscatal.4c01856
 
 - index: 1
   url: /group_data/home_photos/Krishna-NatureCat.jpg

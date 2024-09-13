@@ -24,7 +24,7 @@ git push
 If you want to preview the webpage on your local host before you push the files to Github, you can follow the instructions in the following link:  
 https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/  
 ## Section C. Three types of files to edit  
-1. YML files  
+1. YML files  (in _data)
 There are two photo carousals in the group web, the home page carousal and group photo carousal. The YML files are used to control the order and format for each photo. They can be edited as text files.  
 For example, the home carousal YML file includes five parts of information for each photo:  
   1)index: the order of the photos that you want to show  
