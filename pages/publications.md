@@ -16,23 +16,25 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1 N. Mehra and W. F. Schneider, "Density functional theory and microkinetics of ethylene chain growth and termination on silica grafted group 4 metal hydrides," *Catal. Sci. Technol.* **2024**, 4869-4881. [https://doi.org/10.1039/D4CY00684D](https://doi.org/10.1039/D4CY00684D)
+
 1. A. Goswami, S. Krishna, R. Gounder, W. F. Schneider "Kinetic Monte Carlo Analysis Reveals Non-mean-field Active Site Dynamics in Cu–Zeolite-Catalyzed NO<sub>x</sub> Reduction”, *ACS Catal.* **2024**, *14*, 8376-8388. [https://doi.org/10.1021/acscatal.4c01856](https://doi.org/10.1021/acscatal.4c01856)
 
-1. L.N. Wilcox, J. Rebolledo-Oyarce, A. D. Mikes, Y. Wang, W. F. Schneider, R. Gounder, "Structure and Reactivity of Binuclear Cu Active Sites in Cu-CHA Zeolites for Stoichiometric Partial Methane Oxidation to Methanol”, *ACS Catal.* **2024**, *14*, 3647-3663. [https://doi.org/10.1021/acscatal.3c06181](https://doi.org/10.1021/acscatal.3c06181)
+1. L.N. Wilcox, J. Rebolledo-Oyarce, A. D. Mikes, Y. Wang, W. F. Schneider, and R. Gounder, "Structure and Reactivity of Binuclear Cu Active Sites in Cu-CHA Zeolites for Stoichiometric Partial Methane Oxidation to Methanol," *ACS Catal.* **2024**, *14*, 3647-3663. [https://doi.org/10.1021/acscatal.3c06181](https://doi.org/10.1021/acscatal.3c06181)
 
-1. G. Lee, C. Yan, W. F. Schneider, D. B. Go, and C. P. O’Brien, "Observation and Characterization of Vibrationally Active Surface Species Accessed with Nonthermal Nitrogen Plasmas”, *ACS Appl. Mater. Interfaces* **2024**, *16*, 4561-4569. [https://doi.org/10.1021/acsami.3c14965](https://doi.org/10.1021/acsami.3c14965)
+1. G. Lee, C. Yan, W. F. Schneider, D. B. Go, and C. P. O’Brien, "Observation and Characterization of Vibrationally Active Surface Species Accessed with Nonthermal Nitrogen Plasmas," *ACS Appl. Mater. Interfaces* **2024**, *16*, 4561-4569. [https://doi.org/10.1021/acsami.3c14965](https://doi.org/10.1021/acsami.3c14965)
 
-1. S. Ghosh, D. Haycock, N. Mehra, S. Bera, H. Johnson, I. L. Roiban, M. Aouine, P. Vernoux, P. Thüne, W. F. Schneider, M.N. Tsampas, “Climbing the Hydrogen Evolution Volcano with a NiTi Shape Memory Alloy”, *J. Phys. Chem. Lett.* **2024**, *15*, 933-939. [https://doi.org/10.1021/acs.jpclett.3c03216](https://doi.org/10.1021/acs.jpclett.3c03216)
+1. S. Ghosh, D. Haycock, N. Mehra, S. Bera, H. Johnson, I. L. Roiban, M. Aouine, P. Vernoux, P. Thüne, W. F. Schneider, and M.N. Tsampas, "Climbing the Hydrogen Evolution Volcano with a NiTi Shape Memory Alloy," *J. Phys. Chem. Lett.* **2024**, *15*, 933-939. [https://doi.org/10.1021/acs.jpclett.3c03216](https://doi.org/10.1021/acs.jpclett.3c03216)
 
-1. C. Waitt, X. Gao, R. Gounder, A DeBellis, S. Prasad, A. Moini, and W. F. Schneider, “Analysis and Augmentation of Guest-Host Interaction Energy Models as CHA and AEI Zeolite Crystallization Phase Predictors", *J. Phys. Chem. C* **2023**, *127*, 22740-22751. [https://doi.org/10.1021/acs.jpcc.3c05421](https://doi.org/10.1021/acs.jpcc.3c05421)
+1. C. Waitt, X. Gao, R. Gounder, A DeBellis, S. Prasad, A. Moini, and W. F. Schneider, "Analysis and Augmentation of Guest-Host Interaction Energy Models as CHA and AEI Zeolite Crystallization Phase Predictors," *J. Phys. Chem. C* **2023**, *127*, 22740-22751. [https://doi.org/10.1021/acs.jpcc.3c05421](https://doi.org/10.1021/acs.jpcc.3c05421)
 
-1. M. DeLuca, C. B. Jones, S. H. Krishna, A. Goswami, R. Saxena, S. Li, S. Prasad, A. Moini, W. F. Schneider, and R. Gounder, “Effects of zeolite framework topology on Cu(I) oxidation and Cu(II) reduction kinetics of NOx selective catalytic reduction with NH3", *Chem Catalysis* **2023**, *3*, 100726. [https://doi.org/10.1016/j.checat.2023.100726](https://doi.org/10.1016/j.checat.2023.100726)
+1. M. DeLuca, C. B. Jones, S. H. Krishna, A. Goswami, R. Saxena, S. Li, S. Prasad, A. Moini, W. F. Schneider, and R. Gounder, “Effects of zeolite framework topology on Cu(I) oxidation and Cu(II) reduction kinetics of NOx selective catalytic reduction with NH<sub>3</sub>," *Chem Catalysis* **2023**, *3*, 100726. [https://doi.org/10.1016/j.checat.2023.100726](https://doi.org/10.1016/j.checat.2023.100726)
 
 1. A. Goswami and W. F. Schneider, “Mean field model parameterization to recover coverage-dependent kinetics”, *J. Catal.* **2023**, *426*, 352-360. [https://doi.org/10.1016/j.jcat.2023.07.013](https://doi.org/10.1016/j.jcat.2023.07.013)
 
-1. S. H. Krishna, A. Goswami, Y. Wang, C. B. Jones, D. P. Dean, J. T. Miller, W. F. Schneider, and R. Gounder, “Influence of Framework Al Density in Chabazite Zeolites on Copper Ion Mobility and Reactivity During NOx Selective Catalytic Reduction with NH3,” *Nature Catal.* **2023**, *6*, 276 - 285. [https://doi.org/10.1038/s41929-023-00932-5](https://doi.org/10.1038/s41929-023-00932-5)
+1. S. H. Krishna, A. Goswami, Y. Wang, C. B. Jones, D. P. Dean, J. T. Miller, W. F. Schneider, and R. Gounder, "Influence of Framework Al Density in Chabazite Zeolites on Copper Ion Mobility and Reactivity During NO<sub>x</sub> Selective Catalytic Reduction with NH<sub>3</sub>," *Nature Catal.* **2023**, *6*, 276-285. [https://doi.org/10.1038/s41929-023-00932-5](https://doi.org/10.1038/s41929-023-00932-5)
 
-1. J. T. Crum, J. R. Crum, C. Taylor, and W. F. Schneider, “Characterization and Analysis of Ring Topology of Zeolite Frameworks,” *Meso. Micro. Mater.* **2023**, 351, 112466. [https://doi.org/10.1016/j.micromeso.2023.112466](https:
+1. J. T. Crum, J. R. Crum, C. Taylor, and W. F. Schneider, "Characterization and Analysis of Ring Topology of Zeolite Frameworks," *Meso. Micro. Mater.* **2023**, 351, 112466. [https://doi.org/10.1016/j.micromeso.2023.112466](https:
 //doi.org/10.1016/j.micromeso.2023.112466)
 
 1. X. Wang, Y. Wang, A. Moini, R. Gounder, E. J. Maginn, and W. F. Schneider, "Influence of N,N,N-trimethyl-1-adamantyl ammonium (TMAda+) Structure Directing Agent on Al Distributions and Pair Features in Chabazite Zeolite," *Chem. Mater*. **2022**, *34*, 10811-10822. [https://doi.org/10.1021/acs.chemmater.2c01465](https://doi.org/10.1021/acs.chemmater.2c01465)    
