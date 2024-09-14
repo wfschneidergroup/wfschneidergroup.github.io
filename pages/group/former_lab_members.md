@@ -5,20 +5,21 @@ layout: default
 * * *
 ### Ph.D. Alumni  
 
-| Alumni | Information | Alumni | Information|
-|:------------ |:------------|:---------------------|:------------------------|
-|![](/group_data/people_photos/cwaitt.jpeg){: .image_people}|Dr. Craig Waitt <br/>Chemistry Ph.D. 2023<br/>Post Doc., U. Notre Dame|
-|![](/group_data/people_photos/agoswami.jpg){: .image_people}|Dr. Anshuman Goswami <br/> CBE Ph.D. 2023<br/>Post Doc., Stanford U.|![](/group_data/people_photos/nmehra.png){: .image_people}|Dr. Neha Mehra <br/>CBE Ph.D. 2023<br/> National Renew. Energy Lab.|
-|![](/group_data/people_photos/ywang40.jpg){: .image_people}|Dr. Yujia Wang <br/>Chemistry Ph.D. 2022<br/>Assist. Prof., Bethel U.|![](/group_data/people_photos/jcrum.jpg){: .image_people}|Dr. Jerry Crum <br/>CBE Ph.D. 2022<br/>Systems Planning and Analysis |
-|![](/group_data/people_photos/jko1.jpg){: .image_people}|Dr. Jeonghyun Ko <br/>CBE Ph.D. 2021 <br/>SK On |![](/group_data/people_photos/sli12.png){: .image_people}|Dr. Sichi Li<br/>CBE Ph.D. 2019<br/>LLNL |
-|![](/group_data/people_photos/pmehta1.jpg){: .image_people}|Dr. Prateek Mehta<br/>CBE Ph.D. 2019<br/>ExxonMobil |![](/group_data/people_photos/hli8.jpeg){: .image_people}|Dr. Hui Li<br/>CBE Ph.D. 2018 <br/>Cummins|
-|![](/group_data/people_photos/abajpai.jpeg){: .image_people}|Dr. Anshumaan Bajpai<br/>CBE Ph.D., 2017<br/>Intel |![](/group_data/people_photos/qsherida.JPG){: .image_people}|Dr. Quintin Sheridan<br/>CBE Ph.D., 2017|
-|![](/group_data/people_photos/cpaolucc.JPG){: .image_people}|Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Asst. Prof., U of Virginia |![](/group_data/people_photos/lherder.jpg){: .image_people}|Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse|
-|![](/group_data/people_photos/tanggara.png){: .image_people}|Dr. Trunojoyo Anggara <br/>CBE Ph.D., 2015<br/>Notre Dame |![](/group_data/people_photos/mpennin1.png){: .image_people}|Dr. Michael Penninger <br/>CBE Ph.D., 2015 <br/>UOP|
-|![](/group_data/people_photos/jclay.JPG){: .image_people}|Dr. John Clay <br/>CBE Ph.D., 2014 <br/>U. Missouri |![](/group_data/people_photos/jbray2.JPG){: .image_people}| <br/>Dr. Jason Bray <br/>CBE Ph.D., 2013 <br/>Phillips 66|
-|![](/group_data/people_photos/dmccalma.png){: .image_people}| <br/>Dr. Dorrell McCalman <br/>CBE Ph.D., 2013 <br/>Notre Dame |![](/group_data/people_photos/dschmid6.JPG){: .image_people}|Dr. David Schmidt <br/>CBE Ph.D., 2012 <br/>Google|
-|![](/group_data/people_photos/emindrup.JPG){: .image_people}|Dr. Elaine Mindrup <br/>CBE Ph.D., 2011 <br/>US PTO |![](/group_data/people_photos/hwang4.jpg){: .image_people}|Dr. Hangyao Wang <br/>CBE Ph.D., 2009 <br/>Dow Chemical Company|
-|![](/group_data/people_photos/rgetman.JPG){: .image_people}|Dr. Rachel Getman <br/>CBE Ph.D., 2009 <br/>Assoc. Prof., Clemson U.|
+| Alumni                                                     | Information                                                               | Alumni                                                       | Information                                                                      |
+|:-----------------------------------------------------------|:--------------------------------------------------------------------------|:-------------------------------------------------------------|:---------------------------------------------------------------------------------|
+| ![](/group_data/people_photos/xgao2.jpg){: .image_people}  | Dr. Xuyao Gao <br/>CBE Ph.D. 2024<br/> Sinopec | 
+| ![](/group_data/people_photos/cyan2.png){: .image_people}  | Dr. Chang Yan <br/> CBE Ph.D. 2024 <br/> Post Doc., Argonne National Lab. | ![](/group_data/people_photos/cwaitt.jpeg){: .image_people}  | Dr. Craig Waitt <br/>Chemistry Ph.D. 2023<br/>Post Doc., U. Notre Dame | 
+| ![](/group_data/people_photos/agoswami.jpg){: .image_people}| Dr. Anshuman Goswami <br/> CBE Ph.D. 2023<br/>Post Doc., Stanford U.      | ![](/group_data/people_photos/nmehra.png){: .image_people}   | Dr. Neha Mehra <br/>CBE Ph.D. 2023<br/> National Renew. Energy Lab.              |
+| ![](/group_data/people_photos/ywang40.jpg){: .image_people}| Dr. Yujia Wang <br/>Chemistry Ph.D. 2022<br/>Assist. Prof., Bethel U.     | ![](/group_data/people_photos/jcrum.jpg){: .image_people}    | Dr. Jerry Crum <br/>CBE Ph.D. 2022<br/>Systems Planning and Analysis             |
+| ![](/group_data/people_photos/jko1.jpg){: .image_people}   | Dr. Jeonghyun Ko <br/>CBE Ph.D. 2021 <br/>SK On                           | ![](/group_data/people_photos/sli12.png){: .image_people}    | Dr. Sichi Li<br/>CBE Ph.D. 2019<br/>LLNL                                         |
+| ![](/group_data/people_photos/pmehta1.jpg){: .image_people}| Dr. Prateek Mehta<br/>CBE Ph.D. 2019<br/>ExxonMobil                       | ![](/group_data/people_photos/hli8.jpeg){: .image_people}    | Dr. Hui Li<br/>CBE Ph.D. 2018 <br/>Cummins                                       |
+| ![](/group_data/people_photos/abajpai.jpeg){: .image_people}| Dr. Anshumaan Bajpai<br/>CBE Ph.D., 2017<br/>Intel                        | ![](/group_data/people_photos/qsherida.JPG){: .image_people} | Dr. Quintin Sheridan<br/>CBE Ph.D., 2017                     |
+| ![](/group_data/people_photos/cpaolucc.JPG){: .image_people}| Dr. Chris Paolucci<br/>CBE Ph.D., 2017<br/>Asst. Prof., U of Virginia     | ![](/group_data/people_photos/lherder.jpg){: .image_people}  | Dr. Laura Herder <br/> CBE Ph.D., 2015 <br/> UW - Lacrosse                       |
+| ![](/group_data/people_photos/tanggara.png){: .image_people}| Dr. Trunojoyo Anggara <br/>CBE Ph.D., 2015<br/>Notre Dame                 | ![](/group_data/people_photos/mpennin1.png){: .image_people} | Dr. Michael Penninger <br/>CBE Ph.D., 2015 <br/>UOP                              |
+| ![](/group_data/people_photos/jclay.JPG){: .image_people}  | Dr. John Clay <br/>CBE Ph.D., 2014 <br/>U. Missouri                       | ![](/group_data/people_photos/jbray2.JPG){: .image_people}   | <br/>Dr. Jason Bray <br/>CBE Ph.D., 2013 <br/>Phillips 66                        |
+| ![](/group_data/people_photos/dmccalma.png){: .image_people}| <br/>Dr. Dorrell McCalman <br/>CBE Ph.D., 2013 <br/>Notre Dame            | ![](/group_data/people_photos/dschmid6.JPG){: .image_people} | Dr. David Schmidt <br/>CBE Ph.D., 2012 <br/>Google                               |
+| ![](/group_data/people_photos/emindrup.JPG){: .image_people}| Dr. Elaine Mindrup <br/>CBE Ph.D., 2011 <br/>US PTO                       | ![](/group_data/people_photos/hwang4.jpg){: .image_people}   | Dr. Hangyao Wang <br/>CBE Ph.D., 2009 <br/>Dow Chemical Company                  |
+| ![](/group_data/people_photos/rgetman.JPG){: .image_people}| Dr. Rachel Getman <br/>CBE Ph.D., 2009 <br/>Assoc. Prof., Clemson U.      |
 
 * * *
 
@@ -66,6 +67,7 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
+|Dr. Mingyuan Cao|Post-doc, 2023-2024||
 |Dr. Haoran He|Post-doc, 2021-2021|BASF|Zeolite catalysis|
 |Dr. Hanyu Ma|Post-doc, 2017-2021 <br> Assistant Research Professor, 2021-2022 | Google |Heterogeneous and plasma catalysis|
 |Dr. Zhenghang Zhao|Post-doc, 2018-2020|Vanderbilt|Zeolite catalysis|
