@@ -16,6 +16,8 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1. D. J. Haycock, R. J. Clarke, D. B. Go, W. F. Schneider, and J. C. Hicks, "Fundamental Insights and Emerging Opportunities in Plasma Catalysis for Light Alkane Conversion," *Curr. Opin. Grn. Sust. Chem.* **2025**, 100987. [https://doi.org/10.1016/j.cogsc.2024.100987](https://doi.org/10.1016/j.cogsc.2024.100987)
+
 1. N. Mehra and W. F. Schneider, "Density functional theory and microkinetics of ethylene chain growth and termination on silica grafted group 4 metal hydrides," *Catal. Sci. Technol.* **2024**, 4869-4881. [https://doi.org/10.1039/D4CY00684D](https://doi.org/10.1039/D4CY00684D)
 
 1. A. Goswami, S. Krishna, R. Gounder, W. F. Schneider "Kinetic Monte Carlo Analysis Reveals Non-mean-field Active Site Dynamics in Cu–Zeolite-Catalyzed NO<sub>x</sub> Reduction”, *ACS Catal.* **2024**, *14*, 8376-8388. [https://doi.org/10.1021/acscatal.4c01856](https://doi.org/10.1021/acscatal.4c01856)
