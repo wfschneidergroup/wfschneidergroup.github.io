@@ -16,7 +16,10 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+
 1. D. J. Haycock, R. J. Clarke, D. B. Go, W. F. Schneider, and J. C. Hicks, "Fundamental Insights and Emerging Opportunities in Plasma Catalysis for Light Alkane Conversion," *Curr. Opin. Grn. Sust. Chem.* **2025**, 100987. [https://doi.org/10.1016/j.cogsc.2024.100987](https://doi.org/10.1016/j.cogsc.2024.100987)
+
+1. Xuyao Gao, Steven Yeo, Rajamani Gounder, Ahmad Moini, and William F. Schneider "Predicted Influence of Organic Structure Directing Agents on Al Distributions in CHA Zeolites" *Chemistry of Materials Article*  **2024** [https://doi.org/10.1021/acs.chemmater.4c02463]
 
 1. N. Mehra and W. F. Schneider, "Density functional theory and microkinetics of ethylene chain growth and termination on silica grafted group 4 metal hydrides," *Catal. Sci. Technol.* **2024**, 4869-4881. [https://doi.org/10.1039/D4CY00684D](https://doi.org/10.1039/D4CY00684D)
 
