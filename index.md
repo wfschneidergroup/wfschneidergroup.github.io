@@ -179,7 +179,7 @@
 
 <div class="full-width-research">
   <div class="title-box-container">
-    <h2 class="research-section-title">Research Focus of Schneider Group</h2>
+    <h2 class="research-section-title">Schneider Group Research Areas</h2>
   </div>
 
   <div class="container-fluid">
