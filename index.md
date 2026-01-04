@@ -180,6 +180,7 @@ layout: home
   }
 </style>
 
+
 <div class="full-width-research">
   <div class="title-box-container">
     <h2 class="research-section-title">Schneider Group Research Areas</h2>
