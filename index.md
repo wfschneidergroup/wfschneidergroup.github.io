@@ -1,3 +1,6 @@
+---
+layout: home
+---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 <style>
@@ -27,13 +30,13 @@
   }
 
   .research-section-title {
-    font-family: inherit; 
-    font-weight: 700;
-    color: #ffffff !important;
-    margin-bottom: 0 !important;
-    font-size: 1.75rem;
-    letter-spacing: 0.5px;
-    font-style: normal !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+  font-weight: 700;
+  color: #ffffff !important;
+  margin-bottom: 0 !important;
+  font-size: 1.75rem;
+  letter-spacing: 0.5px;
+  font-style: normal !important;
   }
 
   .research-card {
