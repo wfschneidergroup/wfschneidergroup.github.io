@@ -27,7 +27,7 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
-|Steven Yeo | CBE M.Sc., 2025|  |  |
+|Steven Yeo | CBE M.Sc., 2025|  |  Understanding Brønsted Acid Site Stability in Zeolites|
 |Jian Ren Lim | CBE M.Sc., 2021| | First-Principles Interrogation of H2 Reduction Mechanisms on Copper Active Sites in Cu-SSZ-13 Zeolite |
 |Amanda Brown | CBE M.Sc., 2021| | Microkinetic Modeling of HCN Formation from Methane and Nitrogen with the Addition of Vibrational Energy Effects|
 |Gray N Laughlin | CBE M.Sc., 2018|

@@ -30,8 +30,8 @@
       url: /pages/research/catalysis_at_metal_surfaces
     - title: Catalysis for Shale Gas
       url: /pages/research/catalysis_for_shale_gas
-    - title: Energy-Directed Catalysis
-      url: /pages/research/energy_directed_catalysis
+    - title: Plasma-enabled Catalysis
+      url: /pages/research/plasma_enabled_catalysis
 
 - title: Publications
   url: /pages/publications
@@ -42,5 +42,5 @@
 - title: Courses
   url: /pages/courses
 
-- title: Group Wiki
-  url: https://github.com/wfschneidergroup/wiki
+# - title: Group Wiki
+#   url: https://github.com/wfschneidergroup/wiki

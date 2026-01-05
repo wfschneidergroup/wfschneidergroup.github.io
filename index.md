@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
@@ -30,41 +30,86 @@ layout: home
   }
 
   .research-section-title {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
-  font-weight: 700;
-  color: #ffffff !important;
-  margin-bottom: 0 !important;
-  font-size: 1.75rem;
-  letter-spacing: 0.5px;
-  font-style: normal !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+    font-weight: 700;
+    color: #ffffff !important;
+    margin-bottom: 0 !important;
+    font-size: 1.75rem;
+    letter-spacing: 0.5px;
+    font-style: normal !important;
+  }
+
+  /* Shared Card Logic */
+  .research-card, .paper-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%; 
+    min-height: 280px; 
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative; /* Essential for stretched-link */
+    text-decoration: none !important; /* Removes underline from whole card */
+  }
+
+  /* Vertical & Horizontal Centering for Row 1 */
+  .research-card .card-body {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;     
+    text-align: center;
+    padding: 20px !important;
   }
 
   .research-card {
-    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
     border: 1px solid rgba(255,255,255,0.2) !important;
-    min-height: 220px;
-    border-radius: 8px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    position: relative; 
     cursor: pointer;
   }
-  .stretched-link::after {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 1;
-  content: "";
-}
 
   .research-card:hover {
     transform: translateY(-8px);
-    box-shadow: 0 12px 24px rgba(0, 51, 102, 0.3) !important;
+    box-shadow: 0 12px 24px rgba(0, 51, 102, 0.4) !important;
     filter: brightness(1.1);
   }
+
+  .research-card .card-title { 
+    font-size: 1.35rem; 
+    font-weight: bold;
+    color: #ffffff; 
+    margin-bottom: 10px;
+  }
+
+  .btn-borderless {
+    font-weight: 700;
+    font-size: 1rem;
+    color: #ffffff !important; 
+  }
+
+  /* Paper Card Logic (Row 2) */
+  .paper-card { border: 1px solid #dee2e6 !important; background: #fff; cursor: pointer; }
+  .paper-card:hover { transform: translateY(-8px); box-shadow: 0 12px 24px rgba(0,0,0,0.1) !important; }
+  
+  .paper-image-container {
+    height: 180px; 
+    overflow: hidden;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #eee;
+    padding: 10px;
+  }
+
+  .paper-img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    transition: transform 0.5s ease;
+  }
+
+  .paper-card:hover .paper-img { transform: scale(1.1); }
 
   /* Four Shades of Transparent Blue */
   .shade-1 { background-color: rgba(0, 82, 155, 0.75) !important; }
@@ -72,114 +117,16 @@ layout: home
   .shade-3 { background-color: rgba(3, 59, 115, 0.8) !important; }
   .shade-4 { background-color: rgba(0, 38, 76, 0.85) !important; }
 
-  .research-card .card-title { 
-    font-size: 1.35rem; 
-    font-weight: bold;
-    color: #ffffff; 
-    margin-bottom: 15px;
-  }
+  .paper-link-text { color: #003366 !important; font-weight: 600; text-decoration: none; font-size: 0.9rem; }
   
-  .research-card .card-text { 
-    font-size: 0.95rem; 
-    line-height: 1.5;
-    color: #ffffff; 
-    opacity: 0.95;
-    margin-bottom: 20px;
-  }
-
-  .btn-borderless {
-    background: none !important;
-    border: none !important;
-    font-weight: 700;
-    text-decoration: none;
-    padding: 0;
-    font-size: 1rem;
-    color: #ffffff !important; 
-    margin-left: auto;
-    margin-right: auto;
-    display: inline-block;
-  }
-  
-  .btn-borderless:hover {
-    text-decoration: underline;
-  }
-
-  /* --- RESOURCES SECTION STYLES --- */
-  .resources-section {
-    margin-top: 50px;
-    padding: 40px 0;
-    border-top: 1px solid #dee2e6;
-  }
-
-  .resource-heading {
-    font-family: inherit;
-    font-weight: 700;
-    color: #003366;
-    font-size: 1.5rem;
-    margin-bottom: 20px;
-    font-style: normal !important;
-    letter-spacing: 0.5px;
-  }
-
-  .resource-link-list {
-    list-style: none;
-    padding-left: 0;
-  }
-
-  .resource-link-list li {
-    margin-bottom: 10px;
-    font-size: 1rem;
-  }
-
-  .resource-link-list a {
-    color: #003366;
-    text-decoration: none;
-    transition: color 0.2s;
-    font-weight: 500;
-  }
-
-  .resource-link-list a:hover {
-    text-decoration: underline;
-  }
-
-  .button-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px; /* Spacing between Wiki and GitHub buttons */
-    margin-top: 1.5rem;
-  }
-
-  .btn-outline-nd {
-    border: 1px solid #003366;
-    color: #003366;
-    background: transparent;
-    padding: 4px 12px;
-    font-size: 0.85rem;
-    border-radius: 4px;
-    font-weight: 600;
-    transition: all 0.3s;
-    display: inline-flex;
-    align-items: center;
-    text-decoration: none;
-  }
-
-  .btn-outline-nd:hover {
-    background: #003366;
-    color: #fff !important;
-    text-decoration: none;
-  }
-
-  .btn-outline-nd i {
-    margin-right: 6px;
-  }
-
-  /* Responsive adjustment for resource headings */
-  @media (max-width: 768px) {
-    .button-container { justify-content: center; }
-    .resources-section .text-md-left { text-align: center; }
-  }
+  /* Resources Styles */
+  .resources-section { margin-top: 50px; padding: 40px 0; border-top: 1px solid #dee2e6; }
+  .resource-heading { font-weight: 700; color: #003366; font-size: 1.5rem; margin-bottom: 20px; }
+  .resource-link-list { list-style: none; padding-left: 0; }
+  .resource-link-list a { color: #003366; text-decoration: none; font-weight: 500; }
+  .btn-outline-nd { border: 1px solid #003366; color: #003366; padding: 4px 12px; border-radius: 4px; font-weight: 600; text-decoration: none; display: inline-flex; align-items: center; }
+  .btn-outline-nd:hover { background: #003366; color: #fff !important; }
 </style>
-
 
 <div class="full-width-research">
   <div class="title-box-container">
@@ -190,58 +137,89 @@ layout: home
     <div class="row px-5 justify-content-center">
       
       <div class="col-md-3 mb-4">
-        <div class="card h-100 research-card shade-3 shadow-sm text-center">
-          <div class="card-body d-flex flex-column justify-content-center align-items-center">
+        <a href="pages/research/zeolites_for_nox_reduction" class="card research-card shade-3 shadow-sm">
+          <div class="card-body">
             <h3 class="card-title">Zeolites for NOx Reduction</h3>
-            <!-- <p class="card-text">Molecular speciation in zeolites for emissions control.</p> -->
-            <a href="pages/research/zeolites_for_nox_reduction" class="btn-borderless stretched-link mt-auto">Explore →</a>
+            <span class="btn-borderless">Explore →</span>
           </div>
-        </div>
+        </a>
       </div>
 
       <div class="col-md-3 mb-4">
-        <div class="card h-100 research-card shade-2 shadow-sm text-center">
-          <div class="card-body d-flex flex-column justify-content-center align-items-center">
+        <a href="pages/research/catalysis_at_metal_surfaces" class="card research-card shade-2 shadow-sm">
+          <div class="card-body">
             <h3 class="card-title">Catalysis at Metal Surfaces</h3>
-            <!-- <p class="card-text">Decoding reaction mechanisms on metal surfaces.</p> -->
-            <a href="pages/research/catalysis_at_metal_surfaces" class="btn-borderless stretched-link mt-auto">Explore →</a>
+            <span class="btn-borderless">Explore →</span>
           </div>
-        </div>
+        </a>
       </div>
 
       <div class="col-md-3 mb-4">
-        <div class="card h-100 research-card shade-3 shadow-sm text-center">
-          <div class="card-body d-flex flex-column justify-content-center align-items-center">
+        <a href="pages/research/catalysis_for_shale_gas" class="card research-card shade-3 shadow-sm">
+          <div class="card-body">
             <h3 class="card-title">Catalysis for Shale Gas</h3>
-            <!-- <p class="card-text">Catalytic strategies for light alkane conversion.</p> -->
-            <a href="pages/research/catalysis_for_shale_gas" class="btn-borderless stretched-link mt-auto">Explore →</a>
+            <span class="btn-borderless">Explore →</span>
           </div>
-        </div>
+        </a>
       </div>
 
       <div class="col-md-3 mb-4">
-        <div class="card h-100 research-card shade-2 shadow-sm text-center">
-          <div class="card-body d-flex flex-column justify-content-center align-items-center">
-            <h3 class="card-title">Non-thermal Plasma Catalysis</h3>
-            <!-- <p class="card-text">Non-thermal pathways for sustainable manufacturing.</p> -->
-            <a href="pages/research/energy_directed_catalysis" class="btn-borderless stretched-link mt-auto">Explore →</a>
+        <a href="pages/research/plasma_enabled_catalysis" class="card research-card shade-2 shadow-sm">
+          <div class="card-body">
+            <h3 class="card-title">Plasma-enabled Catalysis</h3>
+            <span class="btn-borderless">Explore →</span>
           </div>
-        </div>
+        </a>
       </div>
 
     </div>
+
+    <div class="row px-5 justify-content-center mt-2">
+      <div class="col-md-3 mb-4">
+        <div class="card paper-card text-center">
+          <div class="paper-image-container"><img src="group_data/home_photos/N2O_NOx_Raghav_2025.jpg" class="paper-img"></div>
+          <div class="card-body p-3">
+            <a href="https://pubs.acs.org/doi/full/10.1021/acs.energyfuels.5c02308" class="paper-link-text stretched-link">Read our recent Paper on Zeolite for NOx Reduction →</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 mb-4">
+        <div class="card paper-card text-center">
+          <div class="paper-image-container"><img src="/group_data/research_images/Catalysis_at_Metal_surface_image.jpg" class="paper-img"></div>
+          <div class="card-body p-3">
+            <a href="https://doi.org/10.1021/acscatal.4c05560" class="paper-link-text stretched-link">Read our recent Paper on Catalysis at Metal Surface →</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 mb-4">
+        <div class="card paper-card text-center">
+          <div class="paper-image-container"><img src="/group_data/research_images/N_Mehra_Catalysis_Shale_Gas.gif" class="paper-img"></div>
+          <div class="card-body p-3">
+            <a href="https://doi.org/10.1039/D4CY00684D" class="paper-link-text stretched-link">Read our recent Paper on Catalysis for Shale Gas →</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-3 mb-4">
+        <div class="card paper-card text-center">
+          <div class="paper-image-container"><img src="/group_data/home_photos/Plasma_Review_Denver_2025.jpg" class="paper-img"></div>
+          <div class="card-body p-3">
+            <a href="https://doi.org/10.1016/j.cogsc.2024.100987" class="paper-link-text stretched-link">Read our recent Review on Plasma-enabled Catalysis →</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
-
 <div class="resources-section">
   <div class="container">
     <div class="row">
       
       <div class="col-md-6 mb-4 text-center text-md-left">
-        <h4 class="resource-heading">Group Overview</h4>
+        <!-- <h4 class="resource-heading">Group Overview</h4> -->
+        <p class="text-muted">Group Overview</p>
         <ul class="resource-link-list">
-          <li>Browse our <a href="pages/group/bill_schneider">Principal Investigator</a></li>
-          <li>Meet our <a href="pages/group/current_lab_members">Lab Members</a></li>
+          <!-- <li>Browse our <a href="pages/group/bill_schneider">PI</a></li> -->
+          <li>Meet our <a href="pages/group/bill_schneider">Principal Investigator</a> & <a href="pages/group/current_lab_members">Lab Members</a></li>
           <li>View <a href="pages/publications">Publications</a> & <a href="pages/group/group_photo">Photos</a></li>
           <li>Check <a href="pages/resources">Resources</a> & <a href="pages/group/available_positions">Available Positions</a></li>
         </ul>
