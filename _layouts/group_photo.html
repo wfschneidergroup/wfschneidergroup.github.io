@@ -1,113 +1,125 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<head>
-    <meta charset="UTF-8">
-    {% include css.html %}
+---
+layout: default
+---
 
-    <style>
-      /* FORCE ASPECT RATIO & PREVENT DISTORTION */
-      #carouselExampleIndicators {
-        max-width: 100%;
-        margin: 0 auto;
-        background-color: #000;
-        border-radius: 8px;
-        overflow: hidden;
-      }
+<style>
+  /* 1. THE ANCHOR: This keeps the whole section centered and fixed-width */
+  .main-content {
+    max-width: 1200px !important; 
+    margin: 0 auto !important;
+    padding: 10px !important;
+    display: block !important;
+    overflow: hidden; /* Prevents horizontal scrollbars */
+  }
 
-      #carouselExampleIndicators .carousel-inner {
-        height: 600px !important;
-      }
+  /* 2. THE BOX: The visible frame around your photos */
+  .custom-carousel-box {
+    width: 100%;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    overflow: hidden; 
+    position: relative;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    margin-bottom: 40px;
+    box-sizing: border-box;
+  }
 
-      #carouselExampleIndicators .carousel-item {
-        height: 600px !important;
-        background-color: #000;
-      }
+  /* 3. THE SLIDE AREA: Strictly limited to the 1000px box width */
+  .carousel-inner {
+    height: 550px;
+    width: 100% !important;
+    max-width: 1200px !important;
+    margin: 0 auto !important;
+  }
 
-      #carouselExampleIndicators .carousel_img {
-        width: 100% !important;
-        height: 600px !important;
-        /* object-fit: cover crops the image to fill the box without stretching */
-        object-fit: cover !important; 
-        object-position: center 20% !important;
-        display: block;
-      }
+  /* 4. THE SLIDE ITEM: Forces everything inside to be a centered flex-box */
+  .carousel-item {
+    height: 100%;
+    width: 100% !important;
+    background-color: #f8f9fa;
+  }
 
-      /* CAPTION STYLING */
-      .carousel-caption-group {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        background: rgba(0, 43, 91, 0.85); /* Notre Dame Blue */
-        padding: 15px !important;
-        z-index: 10;
-        text-align: center;
-      }
+  /* Use the Fade effect to stop the 'sliding' from breaking the center */
+  .carousel-fade .carousel-item {
+    opacity: 0;
+    transition-duration: 0.6s;
+    transition-property: opacity;
+  }
+  .carousel-fade .carousel-item.active {
+    opacity: 1;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
 
-      .group-caption {
-        color: white !important;
-        font-weight: 600 !important;
-        font-size: 1.1rem !important;
-        margin: 0 !important;
-      }
+  /* 5. THE PHOTO: Responsive and Locked-Center */
+  .carousel_img {
+    max-width: 95% !important; /* Leaves a tiny gap on the sides */
+    max-height: 460px !important;
+    width: auto !important;
+    height: auto !important;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto !important;
+    flex-shrink: 0;
+  }
 
-      /* RESPONSIVE FIX FOR MOBILE */
-      @media (max-width: 768px) {
-        #carouselExampleIndicators .carousel-inner, 
-        #carouselExampleIndicators .carousel-item,
-        #carouselExampleIndicators .carousel_img {
-          height: 350px !important;
-        }
-      }
-    </style>
-</head>
-<body>
+  /* 6. THE CAPTION BAR: Locked to both edges of the 1000px container */
+  .carousel-caption-group {
+    width: 100% !important;
+    max-width: 1200px !important;
+    background: rgba(0, 43, 91, 0.85); /* Slightly transparent Notre Dame Blue */
+    padding: 15px;
+    position: absolute;
+    bottom: 0;
+    left: 0 !important;
+    right: 0 !important;
+    margin: 0 auto !important;
+    z-index: 10;
+  }
 
-    {% include header.html %}
-    {% include navigation.html %}
+  .group-caption {
+    color: white !important;
+    font-family: "Futura", sans-serif;
+    margin: 0 !important;
+    text-align: center;
+    font-size: 1.3rem; /* Slightly smaller to prevent cutting off */
+  }
 
-    <section class="main-content">
-      <div class="row justify-content-center align-content-center">
-        <div class="col-auto col-md-12" align="center">
-          <div class="gallery">
+  /* 7. CONTROLS */
+  .carousel-control-prev-icon, .carousel-control-next-icon {
+    filter: invert(1) grayscale(100%) brightness(0%);
+  }
+  .carousel-indicators { bottom: 65px; }
+</style>
 
-            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" align="center" data-interval="10000">
-              
-              <ol class="carousel-indicators">
-                {% for entry in site.data.group_photo %}
-                  <li data-target="#carouselExampleIndicators" data-slide-to="{{ entry.index }}" {% if forloop.first %}class="active"{% endif %}></li>
-                {% endfor %}
-              </ol>
-
-              <div class="carousel-inner" role="listbox">
-                {% for entry in site.data.group_photo %}
-                  <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                    <img class="carousel_img" src="{{ entry.url | relative_url }}">
-                    <div class="carousel-caption-group">
-                      <p class="group-caption">{{ entry.caption }}</p>
-                    </div>
-                  </div>
-                {% endfor %}
-              </div>
-
-              <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-              </a>
-              <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-              </a>
-            </div>
-
+<div class="custom-carousel-box">
+  <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel" data-interval="8000">
+    
+    <div class="carousel-inner">
+      {% for entry in site.data.group_photo %}
+        <div class="carousel-item {% if forloop.first %}active{% endif %}">
+          <img class="carousel_img" src="{{ entry.url | relative_url }}">
+          <div class="carousel-caption-group">
+            <p class="group-caption">{{ entry.caption }}</p>
           </div>
         </div>
-      </div>
+      {% endfor %}
+    </div>
 
-      {% include footer.html %}
-    </section>
+    <ol class="carousel-indicators">
+      {% for entry in site.data.group_photo %}
+        <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
+      {% endfor %}
+    </ol>
 
-    {% include js.html %}
-</body>
-</html>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon"></span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+      <span class="carousel-control-next-icon"></span>
+    </a>
+
+  </div>
+</div>
