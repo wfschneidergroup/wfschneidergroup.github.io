@@ -19,7 +19,7 @@ Phone: (574) 631-8754
 Fax: (574) 631-8366  
 
 [comment]: <> (Professor Schneider's [CV](../../group_data/wfs_cv.pdf) )
-[<img src="/group_data/people_photos/Google_scholar_logo.png" width="25" style="vertical-align:middle">](https://scholar.google.com/citations?hl=en&user=7a2aQL0AAAAJ&view_op=list_works&sortby=pubdate) [ **Google Citations and Publications**](https://scholar.google.com/citations?hl=en&user=7a2aQL0AAAAJ&view_op=list_works&sortby=pubdate)<br/>
+
 
 <style>
     .hover-logo {
@@ -32,10 +32,34 @@ Fax: (574) 631-8366
       transform: translateY(-5px); /* Option A: Moves the logo UP 5 pixels */
       transform: scale(1.5);    /* Option B: Makes the logo 20% LARGER */
     }
-<style>
-</style>[<img src="/group_data/people_photos/LinkedIn_logo_initials.png" class="hover-logo" style="width:25px; vertical-align:middle;">](https://www.linkedin.com/in/williamfschneider/)&nbsp;&nbsp;
-[<img src="/group_data/people_photos/twitter_logo.jpg" class="hover-logo" style="width:40px; vertical-align:middle;">](https://twitter.com/profwschneider)&nbsp;&nbsp;
-[<img src="/group_data/people_photos/github_logo.png" class="hover-logo" style="width:35px; vertical-align:middle;">](https://github.com/wfschneidergroup)
+</style>
+<!-- <a href="https://scholar.google.com/citations?hl=en&user=7a2aQL0AAAAJ&view_op=list_works&sortby=pubdate" 
+   target="_blank" 
+   rel="noopener noreferrer" 
+   style="text-decoration: none; display: inline-flex; align-items: center; gap: 8px;">
+   
+   <img src="/group_data/people_photos/Google_scholar_logo.png" 
+       width="25" 
+       class="hover-logo" 
+       style="vertical-align:middle;">
+<strong style="color: #002b5b;">Google Scholar</strong>
+</a>
+<br/> -->
+<a href="https://scholar.google.com/citations?hl=en&user=7a2aQL0AAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer">
+  <img src="/group_data/people_photos/Google_scholar_logo.png" class="hover-logo" style="width:25px; vertical-align:middle;">
+</a> &nbsp;
+<a href="https://scholar.google.com/citations?hl=en&user=7a2aQL0AAAAJ&view_op=list_works&sortby=pubdate" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #002b5b; font-weight: bold;">
+  Google Scholar
+</a>
+<br/>
+<br/>
+<a href="https://www.linkedin.com/in/williamfschneider/" target="_blank" rel="noopener noreferrer">
+  <img src="/group_data/people_photos/LinkedIn_logo_initials.png" class="hover-logo" style="width:25px; vertical-align:middle;">
+</a>&nbsp;&nbsp; <a href="https://twitter.com/profwschneider" target="_blank" rel="noopener noreferrer">
+  <img src="/group_data/people_photos/twitter_logo.jpg" class="hover-logo" style="width:40px; vertical-align:middle;">
+</a>&nbsp;&nbsp;<a href="https://github.com/wfschneidergroup" target="_blank" rel="noopener noreferrer">
+  <img src="/group_data/people_photos/github_logo.png" class="hover-logo" style="width:35px; vertical-align:middle;">
+</a>
 <br/>
 <!-- 
 [<img src="/group_data/people_photos/LinkedIn_logo_initials.png" width="25" style="vertical-align:middle">](https://www.linkedin.com/in/williamfschneider/) [ **LinkedIn**](https://www.linkedin.com/in/williamfschneider/)<br/>
