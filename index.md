@@ -232,10 +232,10 @@ layout: default
         </ul>
         <div class="button-container">
           <a href="https://github.com/wfschneidergroup/wiki" class="btn-outline-nd">
-            <i class="fab fa-github"></i> Group Wiki
+            <i class="fab fa-github"></i> &nbsp;Group Wiki
           </a>
           <a href="https://github.com/wfschneidergroup" class="btn-outline-nd">
-            <i class="fab fa-github"></i> Group GitHub
+            <i class="fab fa-github"></i> &nbsp;Group GitHub
           </a>
         </div>
       </div>
