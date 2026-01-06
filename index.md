@@ -4,6 +4,13 @@ layout: default
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 <style>
+/* This ensures the text inside the header stays aligned with your cards */
+.page-header > * {
+  max-width: 1100px; /* Match the max-width of your research cards */
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px;
+}
   /* --- RESEARCH SECTION STYLES --- */
   .full-width-research {
     margin-left: calc(-50vw + 50%);
