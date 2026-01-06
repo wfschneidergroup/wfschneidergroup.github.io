@@ -68,8 +68,8 @@ layout: default
 
 | Alumni | Information | Current Affiliation  | Thesis Title            |
 |:------------ |:------------|:---------------------|:------------------------|
-|Dr. Yingqi Wang|Post-doc, 2024-2025| Amperex Technology Limited, China| |
-|Dr. Rongrong Yin|Post-doc, 2022-2024|| |
+|Dr. Yingqi Wang|Post-doc, 2022-2024| Amperex Technology Limited, China| |
+|Dr. Rongrong Yin|Post-doc, 2024-2025|| |
 |Dr. Mingyuan Cao|Post-doc, 2023-2024|| |
 |Dr. Haoran He|Post-doc, 2021-2021|BASF|Zeolite catalysis|
 |Dr. Hanyu Ma|Post-doc, 2017-2021 <br> Assistant Research Professor, 2021-2022 | Google |Heterogeneous and plasma catalysis|
