@@ -37,7 +37,7 @@ layout: default
   }
 
   .research-section-title {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+    font-family: "Futura", "Trebuchet MS", Arial, sans-serif !important;
     font-weight: 700;
     color: #ffffff !important;
     margin-bottom: 0 !important;
@@ -82,6 +82,7 @@ layout: default
   }
 
   .research-card .card-title { 
+    font-family: "Futura", "Trebuchet MS", Arial, sans-serif !important;
     font-size: 1.35rem; 
     font-weight: bold;
     color: #ffffff; 
