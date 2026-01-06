@@ -18,8 +18,8 @@ N-nitrosodimethylamine on Pd," *Environmental Sci. Technol.* **2019**, in press.
 
 1. A. Bajpai, K. Frey, and W. F. Schneider, "Binary Approach to Ternary Cluster Expansions: NO-O-Vacancy System on Pt(111),” *J. Phys. Chem. C* **2017**, 121, 7344-7354. [doi:10.1021/acs.jpcc.7b00914](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b00914)
 
-**People:**  
-&nbsp;&nbsp;&nbsp;&nbsp; H. Ma, C. Waitt, A. Goswami, A. Chovatiya
+[comment]:**People:**  
+[comment]:&nbsp;&nbsp;&nbsp;&nbsp; H. Ma, C. Waitt, A. Goswami, A. Chovatiya
 
 **Support:**  
 &nbsp;&nbsp;&nbsp;&nbsp;[![](/group_data/research_images/DOE_logo.png){: style="width:25vw;vertical-align:middle;margin: 0 auto;"}](https://www.energy.gov/){:target="_blank"}

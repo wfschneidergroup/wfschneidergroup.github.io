@@ -11,3 +11,114 @@
 <link href="{{ base }}/assets/font_awesome_4/css/font-awesome.min.css" rel="stylesheet">
 <link href="{{ base }}/assets/nd.css" rel="stylesheet">
 <link rel="stylesheet" href="{{ '/assets/style.css?v=' | append: site.github.build_revision | relative_url }}">
+<style>
+/* 1. Global Reset for Full Width */
+.brandbar, .page-header2, .navigation-wrapper {
+  width: 100vw !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  display: block !important;
+}
+
+/* 2. Brandbar Container (Top Grey Bar) */
+.brandbar {
+  background-color: #f0f0f0 !important;
+  border-bottom: 1px solid #ddd;
+}
+
+.brandbar .row {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  display: flex !important;
+  align-items: center;
+  
+  /* --- CONTROL 1: University/College Position --- */
+  padding-left: 29% !important; 
+}
+
+.brandbar ul.column {
+  list-style: none;
+  display: flex;
+  gap: 410px; 
+  margin: 0;
+  padding: 20px 0 !important;
+}
+
+/* 3. Blue Header Container */
+.page-header2 {
+  background-color: #002b5b !important;
+  padding-top: 1rem !important;
+  padding-bottom: 2rem !important;
+  display: block !important;
+}
+
+/* --- CONTROL 2: Schneider Research Group Title Position --- */
+.project-name2 {
+  display: block !important;
+  margin: 0 !important;
+  
+  /* --- CONTROL 2: Group Title Position --- */
+  padding-left: 5% !important; 
+  font-family: "Futura", "Trebuchet MS", Arial, sans-serif !important;
+  font-size: 2.5rem !important;
+  font-weight: bold !important;
+  letter-spacing: 0.5px !important; /* Futura looks great with a tiny bit of space */
+  color: #FFFFFF !important;
+}
+
+/* --- CONTROL 3: Subtitle/Tagline Position --- */
+.project-tagline2 {
+  display: block !important;
+  margin: 0.2rem 0 0 0 !important;
+  
+  /* --- CONTROL 3: Tagline Position --- */
+  padding-left: 5% !important; 
+  font-family: "Futura", "Trebuchet MS", Arial, sans-serif !important;
+  font-size: 1.3rem !important;
+  font-weight: 400 !important; /* Slightly lighter weight for the tagline */
+  color: #FFFFFF !important;
+}
+
+/* --- CONTROL 4: Navigation Links ONLY --- */
+/* This targets the <ul> inside any <nav> that is NOT the brandbar */
+nav:not(.brandbar) ul {
+  display: flex !important;
+  list-style: none !important;
+  margin: 0 !important;
+  padding-top: 12px !important;
+  padding-bottom: 12px !important;
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #eee;
+
+  /* --- CHANGE THIS VALUE TO MOVE HOME/GROUP --- */
+  padding-left: 25% !important; 
+}
+
+/* This ensures the links themselves look correct */
+nav:not(.brandbar) ul li {
+  margin-right: 25px !important;
+  display: inline-block !important;
+}
+
+nav:not(.brandbar) ul li a {
+  text-decoration: none !important;
+  color: #002b5b !important;
+  font-weight: 500 !important;
+}
+/* 4. Prevent unwanted horizontal scrolling */
+body, html {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* Ensure the main content stays centered below the full-width header */
+.main-content {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 15px;
+}
+
+</style>

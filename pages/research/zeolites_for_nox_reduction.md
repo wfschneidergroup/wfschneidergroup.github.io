@@ -18,8 +18,8 @@ layout: default
 
 1. S. Li, Y. Zheng, F. Gao, J. Szanyi, and W. F. Schneider, "Experimental and Computational Interrogation of Fast SCR Mechanism and Active Sites on H-Form SSZ-13,” *ACS Catalysis* **2017**, 5087-5096. [doi:10.1021/acscatal.7b01319](https://pubs.acs.org/doi/abs/10.1021/acscatal.7b01319) article-on-request
 
-**People:**  
-&nbsp;&nbsp;&nbsp;&nbsp;S. Li, Y. Wang, J. R. Lim
+[comment]:**People:**  
+[comment]:&nbsp;&nbsp;&nbsp;&nbsp;S. Li, Y. Wang, J. R. Lim
 
 **Support:**  
 &nbsp;&nbsp;&nbsp;&nbsp;[![](/group_data/research_images/NSF_4-Color_bitmap_Logo.png){: style="width:10vw;vertical-align:middle;margin: 0 auto;"}](https://www.nsf.gov/){:target="_blank"}
