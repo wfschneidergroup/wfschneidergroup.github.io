@@ -46,11 +46,11 @@ Fax: (574) 631-8366
 
 [comment]: <> (Professor Schneider's [CV](../../group_data/wfs_cv.pdf) )
 
-<a href="https://scholar.google.com/..." target="_blank" rel="noopener noreferrer" class="social-link">
+<a href="https://scholar.google.com/citations?user=7a2aQL0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="social-link">
   <img src="{{ '/group_data/people_photos/Google_Scholar_logo.png' | relative_url }}" class="hover-logo" style="width:25px; vertical-align:middle;">
 </a> 
 &nbsp;
-<a href="https://scholar.google.com/..." target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #002b5b; font-weight: bold;">
+<a href="https://scholar.google.com/citations?user=7a2aQL0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #002b5b; font-weight: bold;">
   Google Scholar
 </a>
 
