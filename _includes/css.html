@@ -11,6 +11,8 @@
 <link href="{{ base }}/assets/font_awesome_4/css/font-awesome.min.css" rel="stylesheet">
 <link href="{{ base }}/assets/nd.css" rel="stylesheet">
 <link rel="stylesheet" href="{{ '/assets/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+
 <style>
 /* 1. Global Reset for Full Width */
 .brandbar, .page-header2, .navigation-wrapper {
@@ -35,15 +37,36 @@
   align-items: center;
   
   /* --- CONTROL 1: University/College Position --- */
-  padding-left: 29% !important; 
+  /* padding-left: 30% !important;  */
 }
 
 .brandbar ul.column {
   list-style: none;
-  display: flex;
-  gap: 410px; 
+  position: relative; /* This acts as the anchor for the percentages */
+  width: 100%;        /* Ensures the bar stretches across the window/container */
   margin: 0;
-  padding: 20px 0 !important;
+  padding: 10px 0 !important;
+  min-height: 40px;   /* Adjust this to fit the height of your logos */
+  display: block;     /* Changing from flex to block for coordinate control */
+}
+
+/* Common styling for both logos */
+.brandbar ul.column li {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%); /* Keeps logos vertically centered in the bar */
+}
+
+/* Positioning the First Logo at 30% */
+.brandbar ul.column li:nth-child(1) {
+  left: 30%;
+  transform: translate(-50%, -50%); /* The -50% ensures the CENTER of the logo is at the 30% mark */
+}
+
+/* Positioning the Second Logo at 60% */
+.brandbar ul.column li:nth-child(2) {
+  left: 70%;
+  transform: translate(-50%, -50%); /* The -50% ensures the CENTER of the logo is at the 60% mark */
 }
 
 /* 3. Blue Header Container */

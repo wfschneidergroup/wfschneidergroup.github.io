@@ -185,7 +185,9 @@ layout: default
     <div class="row px-5 justify-content-center mt-2">
       <div class="col-md-3 mb-4">
         <div class="card paper-card text-center">
-          <div class="paper-image-container"><img src="group_data/home_photos/N2O_NOx_Raghav_2025.jpg" class="paper-img"></div>
+          <div class="paper-image-container"><a href="https://pubs.acs.org/doi/full/10.1021/acs.energyfuels.5c02308" target="_blank" rel="noopener noreferrer">
+          <img src="group_data/home_photos/N2O_NOx_Raghav_2025.jpg" class="paper-img">
+        </a></div>
           <div class="card-body p-3">
             <a href="https://pubs.acs.org/doi/full/10.1021/acs.energyfuels.5c02308" target="_blank" rel="noopener noreferrer" class="paper-link-text stretched-link">Read our recent Paper on Zeolite for NOx Reduction →</a>
           </div>
@@ -193,7 +195,9 @@ layout: default
       </div>
       <div class="col-md-3 mb-4">
         <div class="card paper-card text-center">
-          <div class="paper-image-container"><img src="/group_data/research_images/Catalysis_at_Metal_surface_image.jpg" class="paper-img"></div>
+          <div class="paper-image-container"><a href="https://doi.org/10.1021/acscatal.4c05560" target="_blank" rel="noopener noreferrer">
+          <img src="/group_data/research_images/Catalysis_at_Metal_surface_image.jpg" class="paper-img">
+        </a></div>
           <div class="card-body p-3">
             <a href="https://doi.org/10.1021/acscatal.4c05560" target="_blank" rel="noopener noreferrer" class="paper-link-text stretched-link">Read our recent Paper on Catalysis at Metal Surface →</a>
           </div>
@@ -201,7 +205,9 @@ layout: default
       </div>
       <div class="col-md-3 mb-4">
         <div class="card paper-card text-center">
-          <div class="paper-image-container"><img src="/group_data/research_images/N_Mehra_Catalysis_Shale_Gas.gif" class="paper-img"></div>
+          <div class="paper-image-container"><a href="https://doi.org/10.1039/D4CY00684D" target="_blank" rel="noopener noreferrer">
+          <img src="/group_data/research_images/N_Mehra_Catalysis_Shale_Gas.gif" class="paper-img">
+        </a></div>
           <div class="card-body p-3">
             <a href="https://doi.org/10.1039/D4CY00684D" target="_blank" rel="noopener noreferrer" class="paper-link-text stretched-link">Read our recent Paper on Catalysis for Shale Gas →</a>
           </div>
@@ -209,7 +215,9 @@ layout: default
       </div>
       <div class="col-md-3 mb-4">
         <div class="card paper-card text-center">
-          <div class="paper-image-container"><img src="/group_data/home_photos/Plasma_Review_Denver_2025.jpg" class="paper-img"></div>
+          <div class="paper-image-container"><a href="https://doi.org/10.1016/j.cogsc.2024.100987" target="_blank" rel="noopener noreferrer">
+          <img src="/group_data/home_photos/Plasma_Review_Denver_2025.jpg" class="paper-img">
+        </a></div>
           <div class="card-body p-3">
             <a href="https://doi.org/10.1016/j.cogsc.2024.100987" target="_blank" rel="noopener noreferrer" class="paper-link-text stretched-link">Read our recent Review on Plasma-enabled Catalysis →</a>
           </div>

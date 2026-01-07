@@ -16,6 +16,8 @@ layout: default
 * * *                    
 <a name="Recent Publications"></a> **Recent Publications**
 
+1. L. Kilburn, J. Rebolledo-Oyarce, Á. N. Santiago-Colón, W. F. Schneider and R. Gounder, "Quantification of Cu site contributions to partial and overoxidation reactions of methane during stoichiometric cycles on Cu-CHA zeolites", *Journal of Catalysis*, **2026**, *453(2026)*, 116507. [https://www.sciencedirect.com/science/article/pii/S0021951725005731](https://www.sciencedirect.com/science/article/pii/S0021951725005731).
+
 1. R. Saxena, B. L. Cruz Delgado, M. T. Caudle, A. Debellis, S. Prasad, A. Moini, R. Gounder, and W. F. Schneider, "Contribution of Brønsted Acid Sites to N<sub>2</sub>O Generation during NO<sub>X</sub> Reduction over H-CHA Zeolite Catalysts", *Energy & Fuels* **2025**, *39(30)*, 14664–14675. [https://doi.org/10.1021/acs.energyfuels.5c02308](https://doi.org/10.1021/acs.energyfuels.5c02308).
 
 1. J. Rebolledo-Oyarce, A. D. Mikes, L. Kilburn, R. Gounder, and W. F. Schneider, "Heterogeneous and Framework-Bound Copper Species Contribute to Catalytic Partial Methane Oxidation in Cu−Chabazite Zeolites," *ACS Catal.* **2025**, *15*, *12*, 10198–10209. [https://doi.org/10.1021/acscatal.5c00893](https://doi.org/10.1021/acscatal.5c00893).
