@@ -96,11 +96,12 @@ layout: default
   }
 
   /* Paper Card Logic (Row 2) */
-  .paper-card { border: 1px solid #dee2e6 !important; background: #fff; cursor: pointer; }
+  .paper-card { height: 100%; display: flex; flex-direction: column; border: 1px solid #dee2e6 !important; background: #fff; cursor: pointer; }
   .paper-card:hover { transform: translateY(-8px); box-shadow: 0 12px 24px rgba(0,0,0,0.1) !important; }
   
   .paper-image-container {
-    height: 180px; 
+    height: 180px;
+    aspect-ratio: 4 / 3; 
     overflow: hidden;
     background: #fff;
     display: flex;
@@ -111,9 +112,10 @@ layout: default
   }
 
   .paper-img {
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 100% !important;
+    max-height: 100% !important;
     object-fit: contain;
+    display: block;
     transition: transform 0.5s ease;
   }
 

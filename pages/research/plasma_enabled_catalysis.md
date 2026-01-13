@@ -7,7 +7,14 @@ layout: default
 ![](/group_data/research_images/energy_directed_catalysis.jpg){: style="max-width:800px;width:90vw;display:block;vertical-align:middle;margin: 0 auto;"}
 
 [comment]: <> add description below
-
+**Discover More Recent Work here:**&nbsp; <a href="https://scholar.google.com/citations?user=7a2aQL0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="social-link">
+  <img src="{{ '/group_data/people_photos/Google_Scholar_logo.png' | relative_url }}" class="hover-logo" style="width:25px; vertical-align:middle;">
+</a>
+<a href="https://scholar.google.com/citations?user=7a2aQL0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #002b5b; font-weight: bold;">
+  Google Scholar
+</a>
+<br/>
+<br/>
 **Representative publications:**
 1. P. Mehta, P. Barboun, D. B. Go, J. C. Hicks, and W. F. Schneider, "Catalysis enabled by plasma activation of strong chemical bonds: a review," *ACS Energy Lett.* **2019**, *4*, 1115-1133. ACS Editor's Choice: [doi:10.1021/acsenergylett.9b00263](http://dx.doi.org/10.1021/acsenergylett.9b00263)
 

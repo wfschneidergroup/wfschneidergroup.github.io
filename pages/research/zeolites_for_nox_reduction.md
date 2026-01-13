@@ -7,6 +7,14 @@ layout: default
 
 [comment]: <> add description below
 
+**Discover More Recent Work here:**&nbsp; <a href="https://scholar.google.com/citations?user=7a2aQL0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="social-link">
+  <img src="{{ '/group_data/people_photos/Google_Scholar_logo.png' | relative_url }}" class="hover-logo" style="width:25px; vertical-align:middle;">
+</a>
+<a href="https://scholar.google.com/citations?user=7a2aQL0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #002b5b; font-weight: bold;">
+  Google Scholar
+</a>
+<br/>
+<br/>
 **Representative publications:**
 1. H. Li, C. Paolucci, I. Khurana, L. N. Wilcox, F. G&ouml;ltl, J. D. Albarracin-Caballero, A. J. Shih, F. H. Ribeiro, R. Gounder, and W. F. Schneider, "Consequences of Exchange-Site Heterogeneity and Dynamics on the UV-Visible Spectrum of Cu-Exchanged SSZ-13," *Chem. Sci.* **2019**, *10*, 2372-2384. [doi:10.1039/C8SC05056B](http://dx.doi.org/10.1039/C8SC05056B)
 

@@ -7,10 +7,17 @@ layout: default
 ![](/group_data/research_images/catalysis_at_metal_surfaces.jpg){: style="max-width:800px;width:90vw;display:block;vertical-align:middle;margin: 0 auto;"}
 
 [comment]: <> add description below
-
+**Discover More Recent Work here:**&nbsp; <a href="https://scholar.google.com/citations?user=7a2aQL0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" class="social-link">
+  <img src="{{ '/group_data/people_photos/Google_Scholar_logo.png' | relative_url }}" class="hover-logo" style="width:25px; vertical-align:middle;">
+</a>
+<a href="https://scholar.google.com/citations?user=7a2aQL0AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #002b5b; font-weight: bold;">
+  Google Scholar
+</a>
+<br/>
+<br/>
 **Representative publications:**
 1. H. Ma, S. Li, H. Wang, and W. F. Schneider, "Water-mediated reduction of aqueous
-N-nitrosodimethylamine on Pd," *Environmental Sci. Technol.* **2019**, in press. [doi:10.1021/acs.est.9b01425](https://doi.org/10.1021/acs.est.9b01425)
+N-nitrosodimethylamine on Pd", *Environmental Sci. Technol.* **2019**, *53*, 13, 7551–7563. [doi:10.1021/acs.est.9b01425](https://doi.org/10.1021/acs.est.9b01425)
 
 1. H. Ma and W. F. Schneider, "Structure- and Temperature-Dependence of Pt-Catalyzed Ammonia Oxidation Rates and Selectivities," *ACS Catal.* **2019**, *9*, 2407 - 2414. [doi:10.1021/acscatal.8b04251](http://dx.doi.org/10.1021/acscatal.8b04251) [article-on-request](https://pubs.acs.org/articlesonrequest/AOR-Nd2qmK9DzVrTvrDSHqUM)
 
